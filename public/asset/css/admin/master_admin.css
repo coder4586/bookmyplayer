@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Search box container */
+#academy-search-container {
+    padding: 20px;
+    background-color: #FB5D52;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-top: -30px;
+}
+
+#academy-search-input {
+    width: 100%;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+}
+
+#academy-search-input:focus {
+    outline: none;
+    border-color: #007bff;
+    background-color: #fff;
+}
+
+/* Results box */
+#academy-results-box {
+    position: absolute;
+    width: 100%;
+    background: white;
+    border: 1px solid #ccc;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    max-height: 300px;
+    overflow-y: auto;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Result list styling */
+#academy-results-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.academy-result-item {
+    padding: 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    flex-direction: column;
+    transition: background-color 0.2s ease;
+}
+
+.academy-result-item:hover {
+    background-color: #f0f0f0;
+}
+
+.academy-result-name {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.academy-result-info {
+    font-size: 14px;
+    color: #555;
+}
+
+/* No results message */
+.no-results {
+    padding: 20px;
+    text-align: center;
+    color: #888;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    #academy-search-container {
+        width: 100%;
+        padding: 15px;
+    }
+}
+
+.master_sport{
+    color: rgb(157, 26, 26);
+}
+
+.mastter_location{
+    color:#007bff;
+}

@@ -1,0 +1,1507 @@
+[
+  {
+    "sport": "archery",
+    "id": 29,
+    "criteria": [
+      "Coaching Quality",
+      "Range Condition",
+      "Equipment Quality",
+      "Focus and Precision Training",
+      "Safety Measures"
+    ],
+    "highlight": {
+      "1": [
+        "Poorly maintained range",
+        "Limited equipment",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic equipment",
+        "Limited practice options",
+        "Average coaching",
+        "Inconsistent guidance"
+      ],
+      "3": [
+        "Decent range quality",
+        "Standard equipment",
+        "Competent coaches",
+        "Safe practice area"
+      ],
+      "4": [
+        "Good range facilities",
+        "Well-maintained equipment",
+        "Experienced coaches",
+        "Safety protocols in place"
+      ],
+      "5": [
+        "Excellent range condition",
+        "High-quality equipment",
+        "Highly skilled coaches",
+        "Supportive environment"
+      ]
+    }
+  },
+  {
+    "sport": "arts",
+    "id": 12,
+    "criteria": [
+      "Instructor Quality",
+      "Creative Environment",
+      "Materials Provided",
+      "Skill Development",
+      "Overall Atmosphere"
+    ],
+    "highlight": {
+      "1": [
+        "Limited supplies",
+        "Cramped space",
+        "Unfriendly instructors",
+        "Basic curriculum"
+      ],
+      "2": [
+        "Average materials",
+        "Moderate space",
+        "Instructors lack creativity",
+        "Limited skills taught"
+      ],
+      "3": [
+        "Good range of materials",
+        "Decent space",
+        "Supportive instructors",
+        "Balanced curriculum"
+      ],
+      "4": [
+        "High-quality materials",
+        "Spacious studio",
+        "Creative instructors",
+        "Engaging program"
+      ],
+      "5": [
+        "Excellent resources",
+        "Ample space",
+        "Passionate instructors",
+        "Diverse art techniques"
+      ]
+    }
+  },
+  {
+    "sport": "athletics",
+    "id": 26,
+    "criteria": [
+      "Coaching Quality",
+      "Track Condition",
+      "Stamina and Endurance Training",
+      "Technique Training",
+      "Event Preparation"
+    ],
+    "highlight": {
+      "1": [
+        "Poor track conditions",
+        "Inadequate equipment",
+        "Untrained coaches",
+        "Unsafe facilities"
+      ],
+      "2": [
+        "Basic track",
+        "Limited training tools",
+        "Average coaching",
+        "Minimal supervision"
+      ],
+      "3": [
+        "Well-maintained track",
+        "Good equipment",
+        "Qualified coaches",
+        "Organized sessions"
+      ],
+      "4": [
+        "High-quality track",
+        "Ample training equipment",
+        "Experienced coaches",
+        "Structured training"
+      ],
+      "5": [
+        "Excellent track and field",
+        "Advanced equipment",
+        "Elite coaches",
+        "Well-organized programs"
+      ]
+    }
+  },
+  {
+    "sport": "badminton",
+    "id": 6,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Racket/Equipment Availability",
+      "Skill-Specific Training",
+      "Competitive Practice Matches"
+    ],
+    "highlight": {
+      "1": [
+        "Poor court condition",
+        "Low-quality shuttlecocks",
+        "Inexperienced coaches",
+        "Poor lighting"
+      ],
+      "2": [
+        "Basic court",
+        "Average shuttlecocks",
+        "Limited coaching",
+        "Inconsistent sessions"
+      ],
+      "3": [
+        "Decent court quality",
+        "Standard equipment",
+        "Competent coaches",
+        "Regular practice sessions"
+      ],
+      "4": [
+        "Well-maintained courts",
+        "High-quality shuttlecocks",
+        "Experienced coaches",
+        "Structured training"
+      ],
+      "5": [
+        "Top-tier courts",
+        "Premium equipment",
+        "Highly skilled coaches",
+        "Organized sessions"
+      ]
+    }
+  },
+  {
+    "sport": "baseball",
+    "id": 36,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Batting and Pitching Practice",
+      "Team Coordination",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Damaged field",
+        "Limited equipment",
+        "Untrained coaches",
+        "Unsafe playing environment"
+      ],
+      "2": [
+        "Basic field condition",
+        "Average equipment",
+        "Inconsistent coaching",
+        "Minimal supervision"
+      ],
+      "3": [
+        "Well-kept field",
+        "Decent equipment",
+        "Competent coaches",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Good quality field",
+        "Ample equipment",
+        "Experienced coaches",
+        "Organized sessions"
+      ],
+      "5": [
+        "High-quality field",
+        "Top-tier equipment",
+        "Skilled coaching staff",
+        "Well-structured practices"
+      ]
+    }
+  },
+  {
+    "sport": "basketball",
+    "id": 2,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Shooting and Dribbling Drills",
+      "Strength Training",
+      "Team Coordination"
+    ],
+    "highlight": {
+      "1": [
+        "Damaged court",
+        "Limited basketballs",
+        "Unskilled coaches",
+        "Poor organization"
+      ],
+      "2": [
+        "Basic court condition",
+        "Average equipment",
+        "Moderate coaching",
+        "Minimal strategy training"
+      ],
+      "3": [
+        "Decent court quality",
+        "Sufficient equipment",
+        "Competent coaches",
+        "Regular training sessions"
+      ],
+      "4": [
+        "Well-maintained court",
+        "High-quality basketballs",
+        "Experienced coaches",
+        "Organized plays"
+      ],
+      "5": [
+        "Top-quality court",
+        "Premium equipment",
+        "Highly skilled coaches",
+        "Detailed game strategies"
+      ]
+    }
+  },
+  {
+    "sport": "billiards",
+    "id": 20,
+    "criteria": [
+      "Table Quality",
+      "Equipment Availability",
+      "Concentration and Focus Training",
+      "Competitive Play",
+      "Instructor Support"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out tables",
+        "Limited cues",
+        "Inexperienced coaches",
+        "Crowded environment"
+      ],
+      "2": [
+        "Basic table quality",
+        "Average cue options",
+        "Inconsistent coaching",
+        "Distracting surroundings"
+      ],
+      "3": [
+        "Good quality tables",
+        "Sufficient cues",
+        "Competent coaches",
+        "Quiet environment"
+      ],
+      "4": [
+        "High-quality tables",
+        "Variety of cue options",
+        "Experienced coaches",
+        "Comfortable setting"
+      ],
+      "5": [
+        "Top-tier tables",
+        "Premium cue selection",
+        "Highly skilled coaches",
+        "Private environment"
+      ]
+    }
+  },
+  {
+    "sport": "boxing",
+    "id": 18,
+    "criteria": [
+      "Coaching Quality",
+      "Sparring Practice",
+      "Technique Training",
+      "Safety Equipment",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Unsafe rings",
+        "Low-quality gloves",
+        "Unskilled trainers",
+        "Poor facilities"
+      ],
+      "2": [
+        "Basic ring condition",
+        "Average gloves",
+        "Inconsistent coaching",
+        "Limited safety gear"
+      ],
+      "3": [
+        "Good quality rings",
+        "Standard gloves",
+        "Competent trainers",
+        "Safe training environment"
+      ],
+      "4": [
+        "High-quality rings",
+        "Well-maintained gloves",
+        "Experienced trainers",
+        "Structured training sessions"
+      ],
+      "5": [
+        "Top-quality rings",
+        "Premium gloves",
+        "Skilled boxing coaches",
+        "Comprehensive training program"
+      ]
+    }
+  },
+  {
+    "sport": "chess",
+    "id": 13,
+    "criteria": [
+      "Skill-Level Grouping",
+      "Game Analysis Training",
+      "Strategy and Tactics Training",
+      "Competitive Match Opportunities",
+      "Instructor Expertise"
+    ],
+    "highlight": {
+      "1": [
+        "Crowded space",
+        "Limited boards",
+        "Unengaged coaches",
+        "Unorganized sessions"
+      ],
+      "2": [
+        "Basic boards",
+        "Few pieces available",
+        "Inconsistent coaching",
+        "No strategic depth"
+      ],
+      "3": [
+        "Good quality boards",
+        "Adequate pieces",
+        "Competent coaches",
+        "Regular practice sessions"
+      ],
+      "4": [
+        "High-quality boards",
+        "Varied pieces",
+        "Experienced coaches",
+        "Organized and strategic sessions"
+      ],
+      "5": [
+        "Top-quality boards",
+        "Complete chess sets",
+        "Skilled chess masters",
+        "Detailed strategy training"
+      ]
+    }
+  },
+  {
+    "sport": "cricket",
+    "id": 3,
+    "criteria": [
+      "Coaching Quality",
+      "Pitch Quality",
+      "Batting and Bowling Training",
+      "Fielding Drills",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Poorly maintained pitch",
+        "Limited equipment",
+        "Inexperienced coaches",
+        "Unsafe playing conditions"
+      ],
+      "2": [
+        "Basic pitch quality",
+        "Standard equipment",
+        "Unstructured coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Decent pitch",
+        "Sufficient equipment",
+        "Competent coaches",
+        "Organized matches"
+      ],
+      "4": [
+        "Well-maintained pitch",
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured practices"
+      ],
+      "5": [
+        "Top-quality pitch",
+        "Premium equipment",
+        "Skilled coaches",
+        "Well-organized training"
+      ]
+    }
+  },
+  {
+    "sport": "fencing",
+    "id": 24,
+    "criteria": [
+      "Coaching Quality",
+      "Gear Quality",
+      "Technique Training",
+      "Safety Protocols",
+      "Competitive Sparring"
+    ],
+    "highlight": {
+      "1": [
+        "Damaged equipment",
+        "Unsafe practice area",
+        "Unskilled coaches",
+        "Lack of safety gear"
+      ],
+      "2": [
+        "Basic gear quality",
+        "Minimal instruction",
+        "Inconsistent coaching",
+        "Limited safety protocols"
+      ],
+      "3": [
+        "Good quality gear",
+        "Competent coaching",
+        "Safe practice environment",
+        "Organized sessions"
+      ],
+      "4": [
+        "High-quality gear",
+        "Experienced coaches",
+        "Structured practices",
+        "Safety-focused environment"
+      ],
+      "5": [
+        "Top-notch equipment",
+        "Skilled coaches",
+        "Comprehensive training",
+        "Advanced safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "football",
+    "id": 1,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Goalkeeping Training",
+      "Tactical Training",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Damaged field",
+        "Low-quality balls",
+        "Inexperienced coaches",
+        "Unsafe playing area"
+      ],
+      "2": [
+        "Basic field condition",
+        "Average balls",
+        "Inconsistent coaching",
+        "Minimal supervision"
+      ],
+      "3": [
+        "Decent field quality",
+        "Good equipment",
+        "Competent coaches",
+        "Organized training"
+      ],
+      "4": [
+        "Well-maintained field",
+        "High-quality balls",
+        "Experienced coaches",
+        "Structured game strategies"
+      ],
+      "5": [
+        "Top-grade field",
+        "Premium equipment",
+        "Skilled coaching staff",
+        "In-depth tactical sessions"
+      ]
+    }
+  },
+  {
+    "sport": "golf",
+    "id": 7,
+    "criteria": [
+      "Coaching Quality",
+      "Course Maintenance",
+      "Putting and Swing Training",
+      "Etiquette and Rules Training",
+      "Equipment Quality"
+    ],
+    "highlight": {
+      "1": [
+        "Unkempt course",
+        "Limited club selection",
+        "Unskilled instructors",
+        "No practice range"
+      ],
+      "2": [
+        "Basic course condition",
+        "Average clubs",
+        "Inconsistent coaching",
+        "Limited practice areas"
+      ],
+      "3": [
+        "Good course quality",
+        "Standard club selection",
+        "Competent instructors",
+        "Organized practice sessions"
+      ],
+      "4": [
+        "Well-kept course",
+        "High-quality clubs",
+        "Experienced instructors",
+        "Strategic practice areas"
+      ],
+      "5": [
+        "Top-grade course",
+        "Premium club options",
+        "Skilled instructors",
+        "Comprehensive practice facilities"
+      ]
+    }
+  },
+  {
+    "sport": "gym",
+    "id": 31,
+    "criteria": [
+      "Coaching Quality",
+      "Apparatus Quality",
+      "Flexibility and Strength Training",
+      "Safety Measures",
+      "Coach Support"
+    ],
+    "highlight": {
+      "1": [
+        "Old equipment",
+        "Crowded space",
+        "Unskilled trainers",
+        "Lack of cleanliness"
+      ],
+      "2": [
+        "Basic machines",
+        "Limited equipment variety",
+        "Inconsistent coaching",
+        "Minimal hygiene"
+      ],
+      "3": [
+        "Decent variety of machines",
+        "Competent trainers",
+        "Clean facilities",
+        "Organized sessions"
+      ],
+      "4": [
+        "Well-maintained equipment",
+        "Experienced trainers",
+        "Spacious layout",
+        "High standards of cleanliness"
+      ],
+      "5": [
+        "Top-quality equipment",
+        "Skilled personal trainers",
+        "Comfortable environment",
+        "Organized fitness programs"
+      ]
+    }
+  },
+  {
+    "sport": "gymnastics",
+    "id": 11,
+    "criteria": [
+      "Coaching Quality",
+      "Apparatus Quality",
+      "Flexibility and Strength Training",
+      "Safety Measures",
+      "Coach Support"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out equipment",
+        "Limited mats",
+        "Inexperienced coaches",
+        "Crowded and unsafe space"
+      ],
+      "2": [
+        "Basic apparatus",
+        "Standard mats",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Good quality apparatus",
+        "Sufficient mats",
+        "Competent coaches",
+        "Safe practice environment"
+      ],
+      "4": [
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured routines",
+        "Focused on safety and technique"
+      ],
+      "5": [
+        "Top-quality apparatus",
+        "Skilled coaches",
+        "Advanced training routines",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "handball",
+    "id": 39,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Team Coordination",
+      "Goalkeeping Training",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out court",
+        "Limited balls",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic court",
+        "Average balls",
+        "Inconsistent coaching",
+        "Minimal strategy training"
+      ],
+      "3": [
+        "Decent court quality",
+        "Sufficient balls",
+        "Competent coaches",
+        "Organized sessions"
+      ],
+      "4": [
+        "Well-maintained court",
+        "High-quality balls",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality court",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Safe and motivating environment"
+      ]
+    }
+  },
+  {
+    "sport": "hockey",
+    "id": 15,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Teamwork and Coordination",
+      "Physical Conditioning",
+      "Skill Development"
+    ],
+    "highlight": {
+      "1": [
+        "Damaged field",
+        "Limited sticks and gear",
+        "Inexperienced coaches",
+        "Unsafe conditions"
+      ],
+      "2": [
+        "Basic field",
+        "Standard sticks and balls",
+        "Inconsistent coaching",
+        "Minimal training focus"
+      ],
+      "3": [
+        "Good quality field",
+        "Decent equipment",
+        "Competent coaches",
+        "Organized practice sessions"
+      ],
+      "4": [
+        "Well-maintained field",
+        "High-quality gear",
+        "Experienced coaches",
+        "Strategic gameplay training"
+      ],
+      "5": [
+        "Top-quality field",
+        "Skilled coaching staff",
+        "In-depth strategy sessions",
+        "Comprehensive training"
+      ]
+    }
+  },
+  {
+    "sport": "kabaddi",
+    "id": 10,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Physical Strength Training",
+      "Team Coordination",
+      "Safety and Injury Prevention"
+    ],
+    "highlight": {
+      "1": [
+        "Poor playing surface",
+        "Limited equipment",
+        "Inexperienced coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic field condition",
+        "Standard equipment",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent field quality",
+        "Adequate equipment",
+        "Competent coaching",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained field",
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured practice sessions"
+      ],
+      "5": [
+        "Top-quality field",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "kalaripayattu",
+    "id": 40,
+    "criteria": [
+      "Instructor Quality",
+      "Technique Mastery",
+      "Traditional Weapon Training",
+      "Physical Conditioning",
+      "Cultural Significance"
+    ],
+    "highlight": {
+      "1": [
+        "Poorly maintained space",
+        "Limited weapons and tools",
+        "Inexperienced instructors",
+        "Unsafe training environment"
+      ],
+      "2": [
+        "Basic training area",
+        "Standard tools",
+        "Inconsistent coaching",
+        "Minimal safety focus"
+      ],
+      "3": [
+        "Decent training space",
+        "Adequate tools",
+        "Competent instructors",
+        "Safe and structured practice"
+      ],
+      "4": [
+        "Well-kept training area",
+        "High-quality tools",
+        "Experienced instructors",
+        "Focused and safe training environment"
+      ],
+      "5": [
+        "Top-quality space",
+        "Skilled instructors",
+        "Advanced techniques",
+        "Comprehensive safety protocols"
+      ]
+    }
+  },
+  {
+    "sport": "karate",
+    "id": 4,
+    "criteria": [
+      "Coaching Quality",
+      "Sparring Practice",
+      "Technique Training",
+      "Safety Equipment",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out dojo",
+        "Limited gear",
+        "Unqualified instructors",
+        "Unsafe training environment"
+      ],
+      "2": [
+        "Basic dojo setup",
+        "Standard gear",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Good dojo setup",
+        "Adequate gear",
+        "Competent instructors",
+        "Safe and structured training"
+      ],
+      "4": [
+        "Well-maintained dojo",
+        "High-quality gear",
+        "Experienced instructors",
+        "Structured and safe practice environment"
+      ],
+      "5": [
+        "Top-tier dojo",
+        "Skilled instructors",
+        "Advanced techniques",
+        "Comprehensive safety standards"
+      ]
+    }
+  },
+  {
+    "sport": "kho-kho",
+    "id": 22,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Agility Training",
+      "Team Coordination",
+      "Strategy Development"
+    ],
+    "highlight": {
+      "1": [
+        "Poor playing surface",
+        "Limited equipment",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic field condition",
+        "Standard equipment",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent field quality",
+        "Adequate equipment",
+        "Competent coaching",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained field",
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured practice sessions"
+      ],
+      "5": [
+        "Top-quality field",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "mma",
+    "id": 9,
+    "criteria": [
+      "Coaching Quality",
+      "Sparring Practice",
+      "Technique Training",
+      "Safety Equipment",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Basic training area",
+        "Limited gear",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Standard training space",
+        "Average gear",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Good training facility",
+        "Decent gear",
+        "Competent coaches",
+        "Safe and structured practice environment"
+      ],
+      "4": [
+        "Well-maintained space",
+        "High-quality gear",
+        "Experienced coaches",
+        "Focused and safe training"
+      ],
+      "5": [
+        "Top-tier facility",
+        "Skilled coaches",
+        "Advanced techniques",
+        "Comprehensive safety standards"
+      ]
+    }
+  },
+  {
+    "sport": "motorsports",
+    "id": 19,
+    "criteria": [
+      "Instructor Quality",
+      "Vehicle Quality",
+      "Safety Gear",
+      "Track Condition",
+      "Driving Skills Training"
+    ],
+    "highlight": {
+      "1": [
+        "Poor track condition",
+        "Old and unsafe vehicles",
+        "Inexperienced mechanics",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic track quality",
+        "Standard vehicles",
+        "Inconsistent pit crew",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent track condition",
+        "Good vehicle maintenance",
+        "Competent mechanics",
+        "Safe environment"
+      ],
+      "4": [
+        "Well-maintained track",
+        "High-quality vehicles",
+        "Experienced mechanics",
+        "Comprehensive safety measures"
+      ],
+      "5": [
+        "Top-quality track",
+        "Skilled mechanics",
+        "Advanced vehicle performance",
+        "Strict safety protocols"
+      ]
+    }
+  },
+  {
+    "sport": "rugby",
+    "id": 30,
+    "criteria": [
+      "Coaching Quality",
+      "Field Quality",
+      "Team Coordination",
+      "Physical Strength Training",
+      "Safety Protocols"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out field",
+        "Limited equipment",
+        "Unskilled coaches",
+        "Unsafe conditions"
+      ],
+      "2": [
+        "Basic field condition",
+        "Standard equipment",
+        "Inconsistent coaching",
+        "Minimal strategy training"
+      ],
+      "3": [
+        "Decent field quality",
+        "Adequate equipment",
+        "Competent coaches",
+        "Organized practice sessions"
+      ],
+      "4": [
+        "Well-maintained field",
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality field",
+        "Skilled coaching staff",
+        "Advanced tactics and drills",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "shooting",
+    "id": 8,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Shooting and Dribbling Drills",
+      "Strength Training",
+      "Team Coordination"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out range",
+        "Limited firearms and equipment",
+        "Inexperienced instructors",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic shooting range",
+        "Standard firearms",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Decent range",
+        "Adequate firearms",
+        "Competent instructors",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained range",
+        "High-quality firearms",
+        "Experienced instructors",
+        "Comprehensive safety measures"
+      ],
+      "5": [
+        "Top-quality range",
+        "Skilled instructors",
+        "Advanced shooting techniques",
+        "Strict safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "silambam",
+    "id": 35,
+    "criteria": [
+      "Instructor Quality",
+      "Technique Mastery",
+      "Physical Fitness Training",
+      "Cultural Significance",
+      "Equipment Quality"
+    ],
+    "highlight": {
+      "1": [
+        "Poor training space",
+        "Limited weapons",
+        "Unskilled instructors",
+        "Unsafe practice environment"
+      ],
+      "2": [
+        "Basic space",
+        "Standard weapons",
+        "Inconsistent coaching",
+        "Minimal safety focus"
+      ],
+      "3": [
+        "Decent training area",
+        "Adequate weapons",
+        "Competent instructors",
+        "Safe environment"
+      ],
+      "4": [
+        "Well-maintained space",
+        "High-quality weapons",
+        "Experienced instructors",
+        "Structured and safe practice"
+      ],
+      "5": [
+        "Top-quality space",
+        "Skilled instructors",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "skating",
+    "id": 25,
+    "criteria": [
+      "Coaching Quality",
+      "Rink Condition",
+      "Safety Gear Quality",
+      "Technique Development",
+      "Coach Guidance"
+    ],
+    "highlight": {
+      "1": [
+        "Poor skating rink",
+        "Limited skates",
+        "Unskilled instructors",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic rink condition",
+        "Standard skates",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent rink quality",
+        "Adequate skates",
+        "Competent instructors",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained rink",
+        "High-quality skates",
+        "Experienced instructors",
+        "Structured and safe training"
+      ],
+      "5": [
+        "Top-quality rink",
+        "Skilled instructors",
+        "Advanced techniques",
+        "Comprehensive safety standards"
+      ]
+    }
+  },
+  {
+    "sport": "sports",
+    "id": 14,
+    "criteria": [
+      "Coaching Quality",
+      "Facility Quality",
+      "Equipment Quality",
+      "Training Program",
+      "Safety and Security"
+    ],
+    "highlight": {
+      "1": [
+        "Poor facilities",
+        "Limited equipment",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic facilities",
+        "Standard equipment",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Decent facilities",
+        "Adequate equipment",
+        "Competent coaches",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained facilities",
+        "High-quality equipment",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-tier facilities",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "squash",
+    "id": 23,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Racket/Equipment Availability",
+      "Skill-Specific Training",
+      "Competitive Practice Matches"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out courts",
+        "Limited racquets",
+        "Unskilled coaches",
+        "Unsafe playing conditions"
+      ],
+      "2": [
+        "Basic court condition",
+        "Standard racquets",
+        "Inconsistent coaching",
+        "Minimal strategy training"
+      ],
+      "3": [
+        "Decent court quality",
+        "Adequate racquets",
+        "Competent coaches",
+        "Organized practice sessions"
+      ],
+      "4": [
+        "Well-maintained courts",
+        "High-quality racquets",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality courts",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Comprehensive safety protocols"
+      ]
+    }
+  },
+  {
+    "sport": "swimming",
+    "id": 5,
+    "criteria": [
+      "Coaching Quality",
+      "Pool Cleanliness and Maintenance",
+      "Stroke Techniques",
+      "Speed and Endurance Training",
+      "Safety and Lifeguard Presence"
+    ],
+    "highlight": {
+      "1": [
+        "Poor pool condition",
+        "Limited lanes",
+        "Unskilled coaches",
+        "Unsafe swimming environment"
+      ],
+      "2": [
+        "Basic pool setup",
+        "Standard lanes",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent pool quality",
+        "Adequate lanes",
+        "Competent coaches",
+        "Safe swimming environment"
+      ],
+      "4": [
+        "Well-maintained pool",
+        "High-quality lanes",
+        "Experienced coaches",
+        "Structured training and safety protocols"
+      ],
+      "5": [
+        "Top-quality pool",
+        "Skilled coaches",
+        "Advanced swimming techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "taekwondo",
+    "id": 28,
+    "criteria": [
+      "Coaching Quality",
+      "Sparring Practice",
+      "Technique Training",
+      "Safety Equipment",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out dojang",
+        "Limited gear",
+        "Unskilled instructors",
+        "Unsafe practice environment"
+      ],
+      "2": [
+        "Basic dojang setup",
+        "Standard gear",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Decent dojang",
+        "Adequate gear",
+        "Competent instructors",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained dojang",
+        "High-quality gear",
+        "Experienced instructors",
+        "Structured and safe training"
+      ],
+      "5": [
+        "Top-tier dojang",
+        "Skilled instructors",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "tennis",
+    "id": 16,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Racket/Equipment Availability",
+      "Skill-Specific Training",
+      "Competitive Practice Matches"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out courts",
+        "Limited racquets",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic court condition",
+        "Standard racquets",
+        "Inconsistent coaching",
+        "Minimal strategy training"
+      ],
+      "3": [
+        "Decent court quality",
+        "Adequate racquets",
+        "Competent coaches",
+        "Organized practice sessions"
+      ],
+      "4": [
+        "Well-maintained courts",
+        "High-quality racquets",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality courts",
+        "Skilled coaching staff",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "volleyball",
+    "id": 27,
+    "criteria": [
+      "Coaching Quality",
+      "Court Quality",
+      "Team Coordination Training",
+      "Blocking and Serving Drills",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out courts",
+        "Limited equipment",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic court setup",
+        "Standard volleyballs",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent court quality",
+        "Adequate volleyballs",
+        "Competent coaches",
+        "Safe playing environment"
+      ],
+      "4": [
+        "Well-maintained courts",
+        "High-quality volleyballs",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality courts",
+        "Skilled coaches",
+        "Advanced techniques",
+        "Comprehensive safety protocols"
+      ]
+    }
+  },
+  {
+    "sport": "wrestling",
+    "id": 17,
+    "criteria": [
+      "Coaching Quality",
+      "Sparring Practice",
+      "Technique Training",
+      "Safety Equipment",
+      "Physical Conditioning"
+    ],
+    "highlight": {
+      "1": [
+        "Worn-out mats",
+        "Limited gear",
+        "Unskilled coaches",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic mat condition",
+        "Standard gear",
+        "Inconsistent coaching",
+        "Minimal safety protocols"
+      ],
+      "3": [
+        "Decent mats",
+        "Adequate gear",
+        "Competent coaches",
+        "Safe practice environment"
+      ],
+      "4": [
+        "Well-maintained mats",
+        "High-quality gear",
+        "Experienced coaches",
+        "Structured training programs"
+      ],
+      "5": [
+        "Top-quality mats",
+        "Skilled coaches",
+        "Advanced techniques",
+        "Comprehensive safety measures"
+      ]
+    }
+  },
+  {
+    "sport": "yoga",
+    "id": 32,
+    "criteria": [
+      "Instructor Quality",
+      "Session Structure",
+      "Atmosphere",
+      "Facilities",
+      "Focus on Meditation and Relaxation"
+    ],
+    "highlight": {
+      "1": [
+        "Poor practice space",
+        "Limited mats",
+        "Unskilled instructors",
+        "Unsafe environment"
+      ],
+      "2": [
+        "Basic practice area",
+        "Standard mats",
+        "Inconsistent coaching",
+        "Minimal safety measures"
+      ],
+      "3": [
+        "Decent practice space",
+        "Adequate mats",
+        "Competent instructors",
+        "Safe environment"
+      ],
+      "4": [
+        "Well-maintained space",
+        "High-quality mats",
+        "Experienced instructors",
+        "Structured practice and safety focus"
+      ],
+      "5": [
+        "Top-quality space",
+        "Skilled instructors",
+        "Advanced yoga techniques",
+        "Comprehensive safety protocols"
+      ]
+    }
+  }
+]

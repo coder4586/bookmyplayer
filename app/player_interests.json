@@ -1,0 +1,782 @@
+[
+    {
+        "sport_id": 1,
+        "interest": "playing in the World Cup"
+    },
+    {
+        "sport_id": 1,
+        "interest": "coaching a premier league team"
+    },
+    {
+        "sport_id": 1,
+        "interest": "becoming a professional footballer"
+    },
+    {
+        "sport_id": 1,
+        "interest": "representing my country in football"
+    },
+    {
+        "sport_id": 1,
+        "interest": "scoring the winning goal in a major tournament"
+    },
+    {
+        "sport_id": 2,
+        "interest": "playing in the NBA"
+    },
+    {
+        "sport_id": 2,
+        "interest": "coaching an NBA team"
+    },
+    {
+        "sport_id": 2,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 2,
+        "interest": "playing for my country's national team"
+    },
+    {
+        "sport_id": 2,
+        "interest": "scoring the buzzer-beater in the finals"
+    },
+    {
+        "sport_id": 3,
+        "interest": "want to be a cricket coach"
+    },
+    {
+        "sport_id": 3,
+        "interest": "playing for national cricket team"
+    },
+    {
+        "sport_id": 3,
+        "interest": "scoring a century in a test match"
+    },
+    {
+        "sport_id": 3,
+        "interest": "winning the ICC World Cup"
+    },
+    {
+        "sport_id": 3,
+        "interest": "becoming the captain of the national team"
+    },
+    {
+        "sport_id": 4,
+        "interest": "earning a black belt"
+    },
+    {
+        "sport_id": 4,
+        "interest": "winning a national karate championship"
+    },
+    {
+        "sport_id": 4,
+        "interest": "teaching karate at a dojo"
+    },
+    {
+        "sport_id": 4,
+        "interest": "competing in the Olympics"
+    },
+    {
+        "sport_id": 4,
+        "interest": "mastering advanced kata"
+    },
+    {
+        "sport_id": 5,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 5,
+        "interest": "setting a world record in freestyle"
+    },
+    {
+        "sport_id": 5,
+        "interest": "coaching a national swimming team"
+    },
+    {
+        "sport_id": 5,
+        "interest": "competing in the World Championships"
+    },
+    {
+        "sport_id": 5,
+        "interest": "swimming across the English Channel"
+    },
+    {
+        "sport_id": 6,
+        "interest": "winning the All England Open"
+    },
+    {
+        "sport_id": 6,
+        "interest": "playing in the Olympics"
+    },
+    {
+        "sport_id": 6,
+        "interest": "coaching a national badminton team"
+    },
+    {
+        "sport_id": 6,
+        "interest": "competing in the BWF World Championships"
+    },
+    {
+        "sport_id": 6,
+        "interest": "becoming the top-ranked player in the world"
+    },
+    {
+        "sport_id": 7,
+        "interest": "winning the Masters Tournament"
+    },
+    {
+        "sport_id": 7,
+        "interest": "becoming a professional golfer"
+    },
+    {
+        "sport_id": 7,
+        "interest": "coaching a golf team"
+    },
+    {
+        "sport_id": 7,
+        "interest": "competing in the Ryder Cup"
+    },
+    {
+        "sport_id": 7,
+        "interest": "achieving a single-digit handicap"
+    },
+    {
+        "sport_id": 8,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 8,
+        "interest": "setting a world record in shooting"
+    },
+    {
+        "sport_id": 8,
+        "interest": "coaching a national shooting team"
+    },
+    {
+        "sport_id": 8,
+        "interest": "competing in the ISSF World Cup"
+    },
+    {
+        "sport_id": 8,
+        "interest": "becoming a professional marksman"
+    },
+    {
+        "sport_id": 9,
+        "interest": "fighting in the UFC"
+    },
+    {
+        "sport_id": 9,
+        "interest": "becoming a black belt in Brazilian Jiu-Jitsu"
+    },
+    {
+        "sport_id": 9,
+        "interest": "winning a world championship"
+    },
+    {
+        "sport_id": 9,
+        "interest": "coaching an MMA team"
+    },
+    {
+        "sport_id": 9,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 10,
+        "interest": "playing in the Pro Kabaddi League"
+    },
+    {
+        "sport_id": 10,
+        "interest": "representing my country in Kabaddi"
+    },
+    {
+        "sport_id": 10,
+        "interest": "winning the Kabaddi World Cup"
+    },
+    {
+        "sport_id": 10,
+        "interest": "coaching a national Kabaddi team"
+    },
+    {
+        "sport_id": 10,
+        "interest": "becoming a professional Kabaddi player"
+    },
+    {
+        "sport_id": 11,
+        "interest": "competing in the Olympics"
+    },
+    {
+        "sport_id": 11,
+        "interest": "winning a national gymnastics championship"
+    },
+    {
+        "sport_id": 11,
+        "interest": "coaching a gymnastics team"
+    },
+    {
+        "sport_id": 11,
+        "interest": "performing a perfect routine"
+    },
+    {
+        "sport_id": 11,
+        "interest": "mastering advanced gymnastics skills"
+    },
+    {
+        "sport_id": 12,
+        "interest": "becoming a professional artist"
+    },
+    {
+        "sport_id": 12,
+        "interest": "exhibiting in a renowned gallery"
+    },
+    {
+        "sport_id": 12,
+        "interest": "teaching art classes"
+    },
+    {
+        "sport_id": 12,
+        "interest": "winning an art competition"
+    },
+    {
+        "sport_id": 12,
+        "interest": "mastering a new art technique"
+    },
+    {
+        "sport_id": 13,
+        "interest": "becoming a Grandmaster"
+    },
+    {
+        "sport_id": 13,
+        "interest": "winning the World Chess Championship"
+    },
+    {
+        "sport_id": 13,
+        "interest": "coaching a national chess team"
+    },
+    {
+        "sport_id": 13,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 13,
+        "interest": "writing a chess strategy book"
+    },
+    {
+        "sport_id": 14,
+        "interest": "becoming a sports manager"
+    },
+    {
+        "sport_id": 14,
+        "interest": "coaching a professional team"
+    },
+    {
+        "sport_id": 14,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 14,
+        "interest": "competing in international sports events"
+    },
+    {
+        "sport_id": 14,
+        "interest": "working as a sports analyst"
+    },
+    {
+        "sport_id": 15,
+        "interest": "playing in the NHL"
+    },
+    {
+        "sport_id": 15,
+        "interest": "coaching a national hockey team"
+    },
+    {
+        "sport_id": 15,
+        "interest": "winning the Stanley Cup"
+    },
+    {
+        "sport_id": 15,
+        "interest": "representing my country in the Olympics"
+    },
+    {
+        "sport_id": 15,
+        "interest": "becoming a professional hockey player"
+    },
+    {
+        "sport_id": 16,
+        "interest": "winning Wimbledon"
+    },
+    {
+        "sport_id": 16,
+        "interest": "playing in the ATP Tour"
+    },
+    {
+        "sport_id": 16,
+        "interest": "coaching a national tennis team"
+    },
+    {
+        "sport_id": 16,
+        "interest": "competing in the Olympics"
+    },
+    {
+        "sport_id": 16,
+        "interest": "becoming the world number one"
+    },
+    {
+        "sport_id": 17,
+        "interest": "competing in the WWE"
+    },
+    {
+        "sport_id": 17,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 17,
+        "interest": "coaching a wrestling team"
+    },
+    {
+        "sport_id": 17,
+        "interest": "mastering advanced wrestling techniques"
+    },
+    {
+        "sport_id": 17,
+        "interest": "becoming a professional wrestler"
+    },
+    {
+        "sport_id": 18,
+        "interest": "winning a world championship"
+    },
+    {
+        "sport_id": 18,
+        "interest": "fighting in the Olympics"
+    },
+    {
+        "sport_id": 18,
+        "interest": "coaching a boxing team"
+    },
+    {
+        "sport_id": 18,
+        "interest": "competing in professional boxing matches"
+    },
+    {
+        "sport_id": 18,
+        "interest": "becoming a top-ranked boxer"
+    },
+    {
+        "sport_id": 19,
+        "interest": "racing in Formula 1"
+    },
+    {
+        "sport_id": 19,
+        "interest": "winning the MotoGP"
+    },
+    {
+        "sport_id": 19,
+        "interest": "coaching a motorsports team"
+    },
+    {
+        "sport_id": 19,
+        "interest": "competing in the 24 Hours of Le Mans"
+    },
+    {
+        "sport_id": 19,
+        "interest": "becoming a professional race car driver"
+    },
+    {
+        "sport_id": 20,
+        "interest": "winning the World Snooker Championship"
+    },
+    {
+        "sport_id": 20,
+        "interest": "becoming a professional billiards player"
+    },
+    {
+        "sport_id": 20,
+        "interest": "coaching a billiards team"
+    },
+    {
+        "sport_id": 20,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 20,
+        "interest": "mastering advanced billiards techniques"
+    },
+    {
+        "sport_id": 21,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 21,
+        "interest": "playing in the ITTF World Tour"
+    },
+    {
+        "sport_id": 21,
+        "interest": "coaching a national table tennis team"
+    },
+    {
+        "sport_id": 21,
+        "interest": "competing in the World Championships"
+    },
+    {
+        "sport_id": 21,
+        "interest": "becoming a top-ranked player"
+    },
+    {
+        "sport_id": 22,
+        "interest": "playing in the national team"
+    },
+    {
+        "sport_id": 22,
+        "interest": "winning a national kho-kho championship"
+    },
+    {
+        "sport_id": 22,
+        "interest": "coaching a kho-kho team"
+    },
+    {
+        "sport_id": 22,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 22,
+        "interest": "promoting kho-kho globally"
+    },
+    {
+        "sport_id": 23,
+        "interest": "winning the PSA World Championship"
+    },
+    {
+        "sport_id": 23,
+        "interest": "becoming a professional squash player"
+    },
+    {
+        "sport_id": 23,
+        "interest": "coaching a national squash team"
+    },
+    {
+        "sport_id": 23,
+        "interest": "competing in the Commonwealth Games"
+    },
+    {
+        "sport_id": 23,
+        "interest": "reaching the world number one ranking"
+    },
+    {
+        "sport_id": 24,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 24,
+        "interest": "competing in the World Fencing Championships"
+    },
+    {
+        "sport_id": 24,
+        "interest": "coaching a national fencing team"
+    },
+    {
+        "sport_id": 24,
+        "interest": "mastering advanced fencing techniques"
+    },
+    {
+        "sport_id": 24,
+        "interest": "becoming a professional fencer"
+    },
+    {
+        "sport_id": 25,
+        "interest": "winning a national skating championship"
+    },
+    {
+        "sport_id": 25,
+        "interest": "competing in the Winter Olympics"
+    },
+    {
+        "sport_id": 25,
+        "interest": "coaching a skating team"
+    },
+    {
+        "sport_id": 25,
+        "interest": "mastering advanced skating techniques"
+    },
+    {
+        "sport_id": 25,
+        "interest": "becoming a professional skater"
+    },
+    {
+        "sport_id": 26,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 26,
+        "interest": "setting a world record"
+    },
+    {
+        "sport_id": 26,
+        "interest": "coaching a national athletics team"
+    },
+    {
+        "sport_id": 26,
+        "interest": "competing in the World Championships"
+    },
+    {
+        "sport_id": 26,
+        "interest": "becoming a professional athlete"
+    },
+    {
+        "sport_id": 27,
+        "interest": "playing in the Olympics"
+    },
+    {
+        "sport_id": 27,
+        "interest": "coaching a national volleyball team"
+    },
+    {
+        "sport_id": 27,
+        "interest": "winning a national championship"
+    },
+    {
+        "sport_id": 27,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 27,
+        "interest": "becoming a professional volleyball player"
+    },
+    {
+        "sport_id": 28,
+        "interest": "earning a black belt"
+    },
+    {
+        "sport_id": 28,
+        "interest": "winning a national taekwondo championship"
+    },
+    {
+        "sport_id": 28,
+        "interest": "coaching a taekwondo team"
+    },
+    {
+        "sport_id": 28,
+        "interest": "competing in the Olympics"
+    },
+    {
+        "sport_id": 28,
+        "interest": "mastering advanced taekwondo techniques"
+    },
+    {
+        "sport_id": 29,
+        "interest": "winning an Olympic gold medal"
+    },
+    {
+        "sport_id": 29,
+        "interest": "setting a world record in archery"
+    },
+    {
+        "sport_id": 29,
+        "interest": "coaching a national archery team"
+    },
+    {
+        "sport_id": 29,
+        "interest": "competing in the World Archery Championships"
+    },
+    {
+        "sport_id": 29,
+        "interest": "becoming a professional archer"
+    },
+    {
+        "sport_id": 30,
+        "interest": "playing in the Rugby World Cup"
+    },
+    {
+        "sport_id": 30,
+        "interest": "coaching a national rugby team"
+    },
+    {
+        "sport_id": 30,
+        "interest": "winning a national rugby championship"
+    },
+    {
+        "sport_id": 30,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 30,
+        "interest": "becoming a professional rugby player"
+    },
+    {
+        "sport_id": 31,
+        "interest": "becoming a certified personal trainer"
+    },
+    {
+        "sport_id": 31,
+        "interest": "opening my own gym"
+    },
+    {
+        "sport_id": 31,
+        "interest": "coaching professional athletes"
+    },
+    {
+        "sport_id": 31,
+        "interest": "competing in bodybuilding competitions"
+    },
+    {
+        "sport_id": 31,
+        "interest": "promoting fitness and wellness"
+    },
+    {
+        "sport_id": 32,
+        "interest": "becoming a certified yoga instructor"
+    },
+    {
+        "sport_id": 32,
+        "interest": "opening a yoga studio"
+    },
+    {
+        "sport_id": 32,
+        "interest": "teaching yoga classes"
+    },
+    {
+        "sport_id": 32,
+        "interest": "writing a book on yoga"
+    },
+    {
+        "sport_id": 32,
+        "interest": "promoting the benefits of yoga"
+    },
+    {
+        "sport_id": 34,
+        "interest": "becoming a certified personal trainer"
+    },
+    {
+        "sport_id": 34,
+        "interest": "opening a fitness studio"
+    },
+    {
+        "sport_id": 34,
+        "interest": "coaching professional athletes"
+    },
+    {
+        "sport_id": 34,
+        "interest": "creating personalized fitness programs"
+    },
+    {
+        "sport_id": 34,
+        "interest": "promoting health and wellness"
+    },
+    {
+        "sport_id": 35,
+        "interest": "mastering the art of silambam"
+    },
+    {
+        "sport_id": 35,
+        "interest": "teaching silambam classes"
+    },
+    {
+        "sport_id": 35,
+        "interest": "competing in national silambam championships"
+    },
+    {
+        "sport_id": 35,
+        "interest": "promoting silambam globally"
+    },
+    {
+        "sport_id": 35,
+        "interest": "writing a book on silambam techniques"
+    },
+    {
+        "sport_id": 36,
+        "interest": "playing in Major League Baseball"
+    },
+    {
+        "sport_id": 36,
+        "interest": "coaching a professional baseball team"
+    },
+    {
+        "sport_id": 36,
+        "interest": "winning the World Series"
+    },
+    {
+        "sport_id": 36,
+        "interest": "competing in the Olympics"
+    },
+    {
+        "sport_id": 36,
+        "interest": "becoming a top-ranked player"
+    },
+    {
+        "sport_id": 37,
+        "interest": "winning the World Snooker Championship"
+    },
+    {
+        "sport_id": 37,
+        "interest": "becoming a professional snooker player"
+    },
+    {
+        "sport_id": 37,
+        "interest": "coaching a snooker team"
+    },
+    {
+        "sport_id": 37,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 37,
+        "interest": "mastering advanced snooker techniques"
+    },
+    {
+        "sport_id": 38,
+        "interest": "winning a national carrom championship"
+    },
+    {
+        "sport_id": 38,
+        "interest": "competing in international carrom tournaments"
+    },
+    {
+        "sport_id": 38,
+        "interest": "coaching a carrom team"
+    },
+    {
+        "sport_id": 38,
+        "interest": "mastering advanced carrom techniques"
+    },
+    {
+        "sport_id": 38,
+        "interest": "promoting carrom as a sport"
+    },
+    {
+        "sport_id": 39,
+        "interest": "playing in the Olympics"
+    },
+    {
+        "sport_id": 39,
+        "interest": "coaching a national handball team"
+    },
+    {
+        "sport_id": 39,
+        "interest": "winning a national championship"
+    },
+    {
+        "sport_id": 39,
+        "interest": "competing in international tournaments"
+    },
+    {
+        "sport_id": 39,
+        "interest": "becoming a professional handball player"
+    },
+    {
+        "sport_id": 40,
+        "interest": "mastering the art of kalaripayattu"
+    },
+    {
+        "sport_id": 40,
+        "interest": "teaching kalaripayattu classes"
+    },
+    {
+        "sport_id": 40,
+        "interest": "competing in national kalaripayattu championships"
+    },
+    {
+        "sport_id": 40,
+        "interest": "promoting kalaripayattu globally"
+    },
+    {
+        "sport_id": 40,
+        "interest": "writing a book on kalaripayattu techniques"
+    }
+]

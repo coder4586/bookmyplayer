@@ -1,0 +1,585 @@
+{"sport_id":29,"skill":"Technique Analysis","description":"Assessing and refining shooting form and technique"}
+{"sport_id":29,"skill":"Bow Tuning","description":"Adjusting the bow for optimal performance"}
+{"sport_id":29,"skill":"Arrow Selection","description":"Choosing the right arrows for accuracy and consistency"}
+{"sport_id":29,"skill":"Stance and Posture","description":"Teaching proper stance and body alignment"}
+{"sport_id":29,"skill":"Mental Focus","description":"Developing concentration and mental resilience"}
+{"sport_id":29,"skill":"Breathing Techniques","description":"Using breathing exercises to enhance shooting stability"}
+{"sport_id":29,"skill":"Shot Execution","description":"Ensuring consistent shot release and follow-through"}
+{"sport_id":29,"skill":"Equipment Maintenance","description":"Teaching proper care and maintenance of archery equipment"}
+{"sport_id":29,"skill":"Goal Setting","description":"Helping archers set and achieve realistic performance goals"}
+{"sport_id":29,"skill":"Strength Training","description":"Implementing exercises to improve physical strength and endurance"}
+{"sport_id":29,"skill":"Flexibility Training","description":"Incorporating stretching routines to increase flexibility and prevent injury"}
+{"sport_id":29,"skill":"Visualization","description":"Using mental imagery to improve performance and confidence"}
+{"sport_id":29,"skill":"Video Analysis","description":"Recording and analyzing shots to identify areas for improvement"}
+{"sport_id":29,"skill":"Personalized Coaching","description":"Providing tailored feedback and training plans based on individual needs"}
+{"sport_id":29,"skill":"Competition Strategy","description":"Developing strategies for competitive archery, including handling pressure and scoring tactics"}
+{"sport_id":32,"skill":"Alignment Correction","description":"Ensuring proper body alignment to prevent injuries and maximize benefits."}
+{"sport_id":32,"skill":"Breath Control","description":"Teaching pranayama techniques to enhance breathing and overall practice."}
+{"sport_id":32,"skill":"Flexibility Improvement","description":"Guiding students through exercises to increase flexibility."}
+{"sport_id":32,"skill":"Strength Building","description":"Developing routines to build core and overall body strength."}
+{"sport_id":32,"skill":"Meditation Guidance","description":"Leading meditation sessions to enhance mental focus and relaxation."}
+{"sport_id":32,"skill":"Personalized Adjustments","description":"Providing individualized adjustments to improve poses."}
+{"sport_id":32,"skill":"Sequencing","description":"Creating effective yoga sequences for various levels and goals."}
+{"sport_id":32,"skill":"Mind-Body Connection","description":"Promoting awareness of the connection between mind and body during practice."}
+{"sport_id":32,"skill":"Injury Prevention","description":"Teaching techniques to avoid common yoga injuries."}
+{"sport_id":32,"skill":"Relaxation Techniques","description":"Introducing methods for deep relaxation and stress relief."}
+{"sport_id":32,"skill":"Progression Planning","description":"Developing plans for students to progress in their practice."}
+{"sport_id":32,"skill":"Use of Props","description":"Educating on the use of props to enhance practice and accessibility."}
+{"sport_id":32,"skill":"Yoga Philosophy","description":"Incorporating yoga philosophy into teaching to deepen understanding."}
+{"sport_id":32,"skill":"Teaching Diverse Styles","description":"Being proficient in multiple yoga styles to cater to different needs."}
+{"sport_id":32,"skill":"Positive Reinforcement","description":"Encouraging and motivating students through positive feedback."}
+{"sport_id":1,"skill":"Technical Proficiency","description":"Understanding and teaching fundamental techniques such as ball control, dribbling, and shooting."}
+{"sport_id":1,"skill":"Tactical Awareness","description":"Developing and implementing game plans, formations, and strategies for different match situations."}
+{"sport_id":1,"skill":"Fitness Training","description":"Designing and overseeing fitness regimes to enhance players strength, endurance, agility, and flexibility."}
+{"sport_id":1,"skill":"Mental Toughness","description":"Building players psychological resilience and focus through mental conditioning techniques."}
+{"sport_id":1,"skill":"Skill Analysis","description":"Analyzing players performance through video analysis and providing constructive feedback."}
+{"sport_id":1,"skill":"Communication","description":"Clearly and effectively communicating instructions, feedback, and encouragement to players."}
+{"sport_id":1,"skill":"Motivation","description":"Inspiring and motivating players to reach their full potential and maintain a positive attitude."}
+{"sport_id":1,"skill":"Dribbling Skills","description":"Teaching and refining dribbling techniques to improve ball control and maneuverability."}
+{"sport_id":1,"skill":"Shooting Techniques","description":"Coaching different shooting techniques to enhance accuracy and power in front of the goal."}
+{"sport_id":1,"skill":"Passing and Receiving","description":"Improving passing accuracy and the ability to receive the ball under pressure."}
+{"sport_id":1,"skill":"Defensive Skills","description":"Teaching effective defensive techniques including tackling, positioning, and marking."}
+{"sport_id":1,"skill":"Match Simulation","description":"Organizing practice matches and scenarios to simulate real-game conditions."}
+{"sport_id":1,"skill":"Injury Prevention and Management","description":"Educating players on how to prevent injuries and providing guidance on recovery and rehabilitation."}
+{"sport_id":1,"skill":"Team Building","description":"Fostering team spirit, collaboration, and a positive team environment."}
+{"sport_id":1,"skill":"Nutritional Guidance","description":"Advising players on proper nutrition and hydration to support their training and performance."}
+{"sport_id":3,"skill":"Technical Proficiency","description":"Understanding and teaching the fundamental techniques of batting, bowling, and fielding"}
+{"sport_id":3,"skill":"Game Strategy","description":"Developing and implementing game plans, tactics, and strategies for different match situations"}
+{"sport_id":3,"skill":"Fitness Training","description":"Designing and overseeing fitness regimes to enhance players' strength, endurance, agility, and flexibility"}
+{"sport_id":3,"skill":"Mental Toughness","description":"Building players' psychological resilience and focus through mental conditioning techniques"}
+{"sport_id":3,"skill":"Skill Analysis","description":"Analyzing players' performance through video analysis and providing constructive feedback"}
+{"sport_id":3,"skill":"Communication","description":"Clearly and effectively communicating instructions, feedback, and encouragement to players"}
+{"sport_id":3,"skill":"Motivation","description":"Inspiring and motivating players to reach their full potential and maintain a positive attitude"}
+{"sport_id":3,"skill":"Fielding Drills","description":"Creating and implementing drills to improve fielding skills such as catching, throwing, and ground fielding"}
+{"sport_id":3,"skill":"Batting Techniques","description":"Teaching and refining batting techniques, including stance, grip, shot selection, and footwork"}
+{"sport_id":3,"skill":"Bowling Techniques","description":"Coaching different types of bowling fast, spin, swing and focusing on line, length, and variations"}
+{"sport_id":3,"skill":"Match Simulation","description":"Organizing practice matches and scenarios to simulate real-game conditions"}
+{"sport_id":3,"skill":"Injury Prevention and Management","description":"Educating players on how to prevent injuries and providing guidance on recovery and rehabilitation"}
+{"sport_id":3,"skill":"Team Building","description":"Fostering team spirit, collaboration, and a positive team environment"}
+{"sport_id":3,"skill":"Nutritional Guidance","description":"Advising players on proper nutrition and hydration to support their training and performance"}
+{"sport_id":3,"skill":"Performance Tracking","description":"Keeping detailed records of players' performances and progress to tailor training programs and set goals"}
+{"sport_id":26,"skill":"Technical Proficiency","description":"Understanding and teaching fundamental techniques specific to the sport."}
+{"sport_id":26,"skill":"Game Strategy","description":"Developing and implementing game plans, tactics, and strategies for different match situations."}
+{"sport_id":26,"skill":"Fitness Training","description":"Designing and overseeing fitness regimes to enhance strength, endurance, agility, and flexibility."}
+{"sport_id":26,"skill":"Mental Toughness","description":"Building psychological resilience and focus through mental conditioning techniques."}
+{"sport_id":26,"skill":"Skill Analysis","description":"Analyzing performance through video analysis and providing constructive feedback."}
+{"sport_id":26,"skill":"Communication","description":"Clearly and effectively communicating instructions, feedback, and encouragement."}
+{"sport_id":26,"skill":"Motivation","description":"Inspiring and motivating athletes to reach their full potential and maintain a positive attitude."}
+{"sport_id":26,"skill":"Fielding Drills","description":"Creating and implementing drills to improve fielding skills such as catching, throwing, and ground fielding."}
+{"sport_id":26,"skill":"Batting Techniques","description":"Teaching and refining batting techniques including stance, grip, shot selection, and footwork."}
+{"sport_id":26,"skill":"Bowling Techniques","description":"Coaching different types of bowling focusing on line, length, and variations."}
+{"sport_id":26,"skill":"Match Simulation","description":"Organizing practice matches and scenarios to simulate real-game conditions."}
+{"sport_id":26,"skill":"Injury Prevention","description":"Educating on how to prevent injuries and providing guidance on recovery and rehabilitation."}
+{"sport_id":26,"skill":"Team Building","description":"Fostering team spirit, collaboration, and a positive team environment."}
+{"sport_id":26,"skill":"Nutritional Guidance","description":"Advising on proper nutrition and hydration to support training and performance."}
+{"sport_id":26,"skill":"Performance Tracking","description":"Keeping detailed records of performance and progress to tailor training programs and set goals."}
+{"sport_id":18,"skill":"Technique Training","description":"Teaching proper stance, footwork, punches, and defense"}
+{"sport_id":18,"skill":"Conditioning","description":"Improving overall fitness, endurance, and strength"}
+{"sport_id":18,"skill":"Speed and Agility","description":"Enhancing quickness and movement efficiency"}
+{"sport_id":18,"skill":"Power Development","description":"Increasing punching power through targeted exercises"}
+{"sport_id":18,"skill":"Defensive Skills","description":"Teaching techniques like blocking, slipping, and parrying"}
+{"sport_id":18,"skill":"Sparring Supervision","description":"Overseeing sparring sessions to apply techniques in practice"}
+{"sport_id":18,"skill":"Strategy and Tactics","description":"Developing fight plans and in-ring strategies"}
+{"sport_id":18,"skill":"Mental Toughness","description":"Building resilience, focus, and confidence"}
+{"sport_id":18,"skill":"Hand-Eye Coordination","description":"Improving reaction time and accuracy"}
+{"sport_id":18,"skill":"Nutrition Planning","description":"Advising on proper diet and hydration for performance"}
+{"sport_id":18,"skill":"Flexibility Training","description":"Enhancing range of motion and injury prevention"}
+{"sport_id":18,"skill":"Injury Prevention","description":"Educating on techniques and exercises to avoid injuries"}
+{"sport_id":18,"skill":"Recovery Techniques","description":"Implementing effective recovery practices post-training"}
+{"sport_id":18,"skill":"Motivation and Support","description":"Providing encouragement and mental support"}
+{"sport_id":18,"skill":"Performance Analysis","description":"Reviewing and analyzing fights to identify areas for improvement"}
+{"sport_id":34,"skill":"Strength Training Techniques","description":"Teaching the correct techniques for using weights and resistance machines to build muscle and strength."}
+{"sport_id":34,"skill":"Cardiovascular Training","description":"Guiding clients through effective cardio workouts using equipment like treadmills, ellipticals, and stationary bikes."}
+{"sport_id":34,"skill":"Flexibility and Mobility Training","description":"Incorporating stretching and mobility exercises to improve flexibility and reduce the risk of injury."}
+{"sport_id":34,"skill":"Proper Form and Posture","description":"Ensuring clients maintain proper form and posture during exercises to maximize effectiveness and prevent injuries."}
+{"sport_id":34,"skill":"Equipment Familiarity","description":"Educating clients on how to safely and effectively use various gym equipment."}
+{"sport_id":34,"skill":"Program Design","description":"Designing comprehensive fitness programs tailored to individual goals and fitness levels."}
+{"sport_id":34,"skill":"Nutritional Advice","description":"Providing advice on proper nutrition to support fitness goals and overall health."}
+{"sport_id":34,"skill":"Motivation and Encouragement","description":"Inspiring and motivating clients to stay committed to their fitness routines and achieve their goals."}
+{"sport_id":34,"skill":"Injury Prevention","description":"Implementing strategies to prevent common workout injuries and promote long-term health."}
+{"sport_id":34,"skill":"Progress Monitoring","description":"Tracking clients' progress to adjust training programs and keep them on track toward their goals."}
+{"sport_id":34,"skill":"Functional Training","description":"Focusing on exercises that improve daily function and overall physical performance."}
+{"sport_id":34,"skill":"Recovery Techniques","description":"Teaching techniques for proper recovery, including stretching, foam rolling, and rest."}
+{"sport_id":34,"skill":"Personalized Training Plans","description":"Creating personalized training plans that cater to the unique needs and goals of each client."}
+{"sport_id":34,"skill":"Adaptability","description":"Adjusting training methods and programs to meet the changing needs and progress of clients."}
+{"sport_id":34,"skill":"Client Education","description":"Educating clients on the principles of fitness, exercise, and healthy living."}
+{"sport_id":13,"skill":"Strategic Thinking","description":"Ability to understand and teach complex strategies and tactics in chess."}
+{"sport_id":13,"skill":"Patience","description":"Demonstrating patience to effectively teach students of varying skill levels and learning speeds."}
+{"sport_id":13,"skill":"Communication","description":"Clear and effective communication skills to explain concepts and provide feedback."}
+{"sport_id":13,"skill":"Analytical Skills","description":"Strong analytical skills to evaluate games and identify areas for improvement."}
+{"sport_id":13,"skill":"Knowledge of Openings","description":"Deep understanding of various opening strategies and their advantages."}
+{"sport_id":13,"skill":"Endgame Proficiency","description":"Expertise in endgame strategies to guide students in finishing games successfully."}
+{"sport_id":13,"skill":"Teaching Techniques","description":"Utilizing effective teaching methods tailored to different learning styles."}
+{"sport_id":13,"skill":"Motivation","description":"Ability to inspire and motivate students to improve and stay committed to their training."}
+{"sport_id":13,"skill":"Adaptability","description":"Flexibility to adjust teaching methods and strategies based on student needs and progress."}
+{"sport_id":13,"skill":"Game Analysis","description":"Proficient in analyzing games and positions to provide insightful feedback."}
+{"sport_id":13,"skill":"Time Management","description":"Teaching students how to manage their time effectively during a game."}
+{"sport_id":13,"skill":"Emotional Control","description":"Helping students manage their emotions and maintain focus under pressure."}
+{"sport_id":13,"skill":"Problem-Solving","description":"Encouraging critical thinking and problem-solving skills in game situations."}
+{"sport_id":13,"skill":"Knowledge of Chess History","description":"Understanding the history of chess to provide context and inspiration."}
+{"sport_id":13,"skill":"Use of Technology","description":"Familiarity with chess software and online resources to enhance training sessions."}
+{"sport_id":16,"skill":"Technique Correction","description":"Identifying and correcting form errors"}
+{"sport_id":16,"skill":"Stroke Development","description":"Teaching proper forehand and backhand"}
+{"sport_id":16,"skill":"Footwork Drills","description":"Improving agility and court movement"}
+{"sport_id":16,"skill":"Serve Instruction","description":"Guiding students on serving techniques"}
+{"sport_id":16,"skill":"Rally Techniques","description":"Enhancing rally consistency and control"}
+{"sport_id":16,"skill":"Match Strategy","description":"Developing tactical game plans"}
+{"sport_id":16,"skill":"Mental Toughness","description":"Building focus and resilience"}
+{"sport_id":16,"skill":"Fitness Training","description":"Implementing tennis-specific workouts"}
+{"sport_id":16,"skill":"Grip Adjustments","description":"Teaching proper grip for various strokes"}
+{"sport_id":16,"skill":"Nutrition Guidance","description":"Advising on diet for peak performance"}
+{"sport_id":16,"skill":"Injury Prevention","description":"Educating on safe training practices"}
+{"sport_id":16,"skill":"Video Analysis","description":"Using video to analyze and improve skills"}
+{"sport_id":16,"skill":"Motivation Techniques","description":"Encouraging and inspiring students"}
+{"sport_id":16,"skill":"Game Scenarios","description":"Simulating match situations for practice"}
+{"sport_id":16,"skill":"Communication Skills","description":"Clearly conveying instructions and feedback"}
+{"sport_id":2,"skill":"Dribbling","description":"Control and maneuver the ball while dribbling"}
+{"sport_id":2,"skill":"Passing","description":"Techniques for accurate passing"}
+{"sport_id":2,"skill":"Shooting","description":"Executing powerful and accurate shots"}
+{"sport_id":2,"skill":"Rebounding","description":"Effective techniques for rebounding"}
+{"sport_id":2,"skill":"Defense","description":"Developing strong defensive strategies"}
+{"sport_id":2,"skill":"Footwork","description":"Quick and precise footwork"}
+{"sport_id":2,"skill":"Ball Handling","description":"Improving overall ball handling skills"}
+{"sport_id":2,"skill":"Court Vision","description":"Awareness of teammates' positioning"}
+{"sport_id":2,"skill":"Screen Setting","description":"Setting effective screens for teammates"}
+{"sport_id":2,"skill":"Free Throws","description":"Techniques for accurate free throws"}
+{"sport_id":2,"skill":"Post Moves","description":"Executing moves in the post area"}
+{"sport_id":2,"skill":"Transition Play","description":"Playing effectively during transitions"}
+{"sport_id":2,"skill":"Team Play","description":"Coordinating plays with teammates"}
+{"sport_id":2,"skill":"Endurance Training","description":"Building stamina for prolonged play"}
+{"sport_id":2,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":4,"skill":"Basic Stances","description":"Learning the basic stances in karate"}
+{"sport_id":4,"skill":"Punching Techniques","description":"Executing various punching techniques"}
+{"sport_id":4,"skill":"Kicking Techniques","description":"Executing various kicking techniques"}
+{"sport_id":4,"skill":"Blocking Techniques","description":"Proper techniques for blocking attacks"}
+{"sport_id":4,"skill":"Kata Practice","description":"Practicing forms and patterns"}
+{"sport_id":4,"skill":"Sparring","description":"Techniques and strategies for sparring"}
+{"sport_id":4,"skill":"Self-Defense","description":"Applying self-defense techniques"}
+{"sport_id":4,"skill":"Flexibility Training","description":"Improving flexibility for high kicks"}
+{"sport_id":4,"skill":"Endurance Training","description":"Building stamina for sustained practice"}
+{"sport_id":4,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":4,"skill":"Balance Training","description":"Training for better balance and stability"}
+{"sport_id":4,"skill":"Breathing Techniques","description":"Effective breathing techniques for stamina"}
+{"sport_id":4,"skill":"Power Generation","description":"Generating power in strikes and kicks"}
+{"sport_id":4,"skill":"Speed Development","description":"Developing speed in movements and strikes"}
+{"sport_id":4,"skill":"Mental Focus","description":"Maintaining focus and concentration"}
+{"sport_id":5,"skill":"Stroke Mechanics","description":"Teaching correct arm and leg movements."}
+{"sport_id":5,"skill":"Breathing Techniques","description":"Instructing proper breathing patterns for strokes."}
+{"sport_id":5,"skill":"Kick Techniques","description":"Improving efficiency in kicking techniques."}
+{"sport_id":5,"skill":"Turn Techniques","description":"Practicing flip turns and open turns."}
+{"sport_id":5,"skill":"Start Techniques","description":"Focusing on dive starts and push offs."}
+{"sport_id":5,"skill":"Endurance Training","description":"Building swimming stamina and endurance."}
+{"sport_id":5,"skill":"Speed Training","description":"Enhancing swimmer's speed through drills."}
+{"sport_id":5,"skill":"Flexibility Training","description":"Improving flexibility for better performance."}
+{"sport_id":5,"skill":"Strength Training","description":"Building muscle strength for swimming."}
+{"sport_id":5,"skill":"Water Safety","description":"Ensuring knowledge of safety in water."}
+{"sport_id":5,"skill":"Body Positioning","description":"Teaching correct body alignment in water."}
+{"sport_id":5,"skill":"Pacing Strategies","description":"Developing strategies for pacing during races."}
+{"sport_id":5,"skill":"Mental Preparation","description":"Preparing mentally for competition."}
+{"sport_id":5,"skill":"Race Strategy","description":"Planning tactics for competitive races."}
+{"sport_id":5,"skill":"Equipment Usage","description":"Using and maintaining swim gear properly."}
+{"sport_id":6,"skill":"Grip Technique","description":"Teaching proper grip for various shots."}
+{"sport_id":6,"skill":"Footwork Drills","description":"Improving movement and positioning on court."}
+{"sport_id":6,"skill":"Stroke Mechanics","description":"Developing correct swing mechanics."}
+{"sport_id":6,"skill":"Serve Technique","description":"Instructing accurate and powerful serves."}
+{"sport_id":6,"skill":"Smash Technique","description":"Focusing on powerful and effective smashes."}
+{"sport_id":6,"skill":"Drop Shot","description":"Executing precise and controlled drop shots."}
+{"sport_id":6,"skill":"Net Play","description":"Mastering techniques for playing near the net."}
+{"sport_id":6,"skill":"Defensive Skills","description":"Building skills to counter opponent's shots."}
+{"sport_id":6,"skill":"Clear Shot","description":"Training for deep and high defensive shots."}
+{"sport_id":6,"skill":"Drive Shot","description":"Practicing fast and low attacking shots."}
+{"sport_id":6,"skill":"Backhand Skills","description":"Enhancing backhand shot techniques."}
+{"sport_id":6,"skill":"Forehand Skills","description":"Improving forehand shot techniques."}
+{"sport_id":6,"skill":"Game Strategy","description":"Planning and executing game tactics."}
+{"sport_id":6,"skill":"Fitness Training","description":"Building overall fitness for better play."}
+{"sport_id":6,"skill":"Mental Toughness","description":"Developing resilience and focus during matches."}
+{"sport_id":7,"skill":"Grip Technique","description":"Teaching correct grip for control and power."}
+{"sport_id":7,"skill":"Stance Alignment","description":"Aligning stance for accurate shots."}
+{"sport_id":7,"skill":"Swing Mechanics","description":"Developing proper full swing mechanics."}
+{"sport_id":7,"skill":"Putting Skills","description":"Improving accuracy and consistency in putting."}
+{"sport_id":7,"skill":"Chipping Technique","description":"Mastering short, precise chip shots."}
+{"sport_id":7,"skill":"Pitching Skills","description":"Enhancing pitching for short distances."}
+{"sport_id":7,"skill":"Driving Skills","description":"Driving the ball long and straight."}
+{"sport_id":7,"skill":"Bunker Play","description":"Techniques for effective bunker shots."}
+{"sport_id":7,"skill":"Course Management","description":"Planning shots strategically on the course."}
+{"sport_id":7,"skill":"Shot Shaping","description":"Shaping shots to navigate obstacles."}
+{"sport_id":7,"skill":"Distance Control","description":"Controlling shot distance precisely."}
+{"sport_id":7,"skill":"Club Selection","description":"Selecting the right club for each shot."}
+{"sport_id":7,"skill":"Mental Focus","description":"Maintaining focus and composure."}
+{"sport_id":7,"skill":"Fitness Training","description":"Building fitness for better performance."}
+{"sport_id":7,"skill":"Pre-shot Routine","description":"Establishing a consistent pre-shot routine."}
+{"sport_id":8,"skill":"Grip Technique","description":"Teaching correct grip for stability."}
+{"sport_id":8,"skill":"Stance and Posture","description":"Proper stance and posture for accuracy."}
+{"sport_id":8,"skill":"Breathing Control","description":"Controlling breathing to steady shots."}
+{"sport_id":8,"skill":"Trigger Control","description":"Smooth and controlled trigger pull."}
+{"sport_id":8,"skill":"Sight Alignment","description":"Aligning sights for accurate aiming."}
+{"sport_id":8,"skill":"Follow Through","description":"Maintaining position after the shot."}
+{"sport_id":8,"skill":"Shot Placement","description":"Precise placement of shots on target."}
+{"sport_id":8,"skill":"Range Estimation","description":"Estimating distances accurately."}
+{"sport_id":8,"skill":"Wind Reading","description":"Reading and compensating for wind."}
+{"sport_id":8,"skill":"Aiming Technique","description":"Techniques for precise aiming."}
+{"sport_id":8,"skill":"Recoil Management","description":"Managing recoil for follow-up shots."}
+{"sport_id":8,"skill":"Mental Focus","description":"Maintaining focus under pressure."}
+{"sport_id":8,"skill":"Safety Procedures","description":"Ensuring safety at all times."}
+{"sport_id":8,"skill":"Equipment Maintenance","description":"Proper care and maintenance of equipment."}
+{"sport_id":8,"skill":"Competition Strategy","description":"Planning strategies for competitions."}
+{"sport_id":9,"skill":"Striking Techniques","description":"Teaching punches, kicks, elbows, and knees."}
+{"sport_id":9,"skill":"Ground Control","description":"Maintaining control on the ground."}
+{"sport_id":9,"skill":"Submission Skills","description":"Executing and defending submissions."}
+{"sport_id":9,"skill":"Takedown Defense","description":"Preventing and countering takedowns."}
+{"sport_id":9,"skill":"Cardio Training","description":"Improving cardiovascular endurance."}
+{"sport_id":9,"skill":"Strength Conditioning","description":"Building overall body strength."}
+{"sport_id":9,"skill":"Flexibility Training","description":"Enhancing flexibility for better performance."}
+{"sport_id":9,"skill":"Clinch Work","description":"Working on clinch techniques."}
+{"sport_id":9,"skill":"Footwork Drills","description":"Improving movement and positioning."}
+{"sport_id":9,"skill":"Counter Attacks","description":"Developing effective counter attacks."}
+{"sport_id":9,"skill":"Defensive Skills","description":"Building defensive techniques and reactions."}
+{"sport_id":9,"skill":"Fight Strategy","description":"Planning and executing fight strategies."}
+{"sport_id":9,"skill":"Mental Toughness","description":"Building mental resilience for fights."}
+{"sport_id":9,"skill":"Recovery Techniques","description":"Techniques for recovery between rounds."}
+{"sport_id":9,"skill":"Nutrition Planning","description":"Planning diet for optimal performance."}
+{"sport_id":10,"skill":"Raid Technique","description":"Executing effective raids into opponent's half."}
+{"sport_id":10,"skill":"Defense Formation","description":"Organizing defensive positions and formations."}
+{"sport_id":10,"skill":"Dodging Skills","description":"Dodging opponents to avoid being tackled."}
+{"sport_id":10,"skill":"Grip and Hold","description":"Strong grip and holding techniques."}
+{"sport_id":10,"skill":"Anticipation Skills","description":"Anticipating opponent's moves."}
+{"sport_id":10,"skill":"Mat Awareness","description":"Awareness of boundaries and mat positions."}
+{"sport_id":10,"skill":"Breath Control","description":"Controlling breath while raiding."}
+{"sport_id":10,"skill":"Tackling Technique","description":"Effective tackling methods and techniques."}
+{"sport_id":10,"skill":"Escape Techniques","description":"Escaping from opponent's holds."}
+{"sport_id":10,"skill":"Team Coordination","description":"Coordinating with team during play."}
+{"sport_id":10,"skill":"Agility Drills","description":"Improving agility for quick movements."}
+{"sport_id":10,"skill":"Strength Training","description":"Building physical strength for tackles."}
+{"sport_id":10,"skill":"Endurance Building","description":"Enhancing stamina for prolonged play."}
+{"sport_id":10,"skill":"Game Strategy","description":"Developing strategies for matches."}
+{"sport_id":10,"skill":"Mental Toughness","description":"Building resilience and focus in play."}
+{"sport_id":11,"skill":"Flexibility Training","description":"Enhancing flexibility for complex movements."}
+{"sport_id":11,"skill":"Strength Building","description":"Building core and overall body strength."}
+{"sport_id":11,"skill":"Balance Drills","description":"Improving balance for various exercises."}
+{"sport_id":11,"skill":"Coordination Skills","description":"Developing hand-eye coordination."}
+{"sport_id":11,"skill":"Vault Techniques","description":"Teaching vaulting techniques and drills."}
+{"sport_id":11,"skill":"Floor Exercise","description":"Mastering floor routines and exercises."}
+{"sport_id":11,"skill":"Pommel Horse Skills","description":"Skills specific to pommel horse routines."}
+{"sport_id":11,"skill":"Rings Techniques","description":"Techniques for ring exercises and strength."}
+{"sport_id":11,"skill":"Parallel Bars","description":"Practicing parallel bars routines."}
+{"sport_id":11,"skill":"High Bar Skills","description":"Developing high bar skills and routines."}
+{"sport_id":11,"skill":"Beam Techniques","description":"Training for balance beam techniques."}
+{"sport_id":11,"skill":"Trampoline Skills","description":"Mastering trampoline exercises."}
+{"sport_id":11,"skill":"Routine Composition","description":"Composing and planning routines."}
+{"sport_id":11,"skill":"Safety Procedures","description":"Ensuring safety during practice."}
+{"sport_id":11,"skill":"Mental Focus","description":"Maintaining focus and mental toughness."}
+{"sport_id":12,"skill":"Drawing Techniques","description":"Teaching various drawing methods."}
+{"sport_id":12,"skill":"Color Theory","description":"Understanding and applying color theory."}
+{"sport_id":12,"skill":"Perspective Drawing","description":"Creating depth using perspective."}
+{"sport_id":12,"skill":"Anatomy Drawing","description":"Drawing accurate human anatomy."}
+{"sport_id":12,"skill":"Shading Techniques","description":"Mastering shading for realism."}
+{"sport_id":12,"skill":"Composition Skills","description":"Organizing elements in artwork."}
+{"sport_id":12,"skill":"Digital Art","description":"Creating art using digital tools."}
+{"sport_id":12,"skill":"Printmaking Skills","description":"Techniques for printmaking processes."}
+{"sport_id":12,"skill":"Sculpting Techniques","description":"Mastering sculpting with various materials."}
+{"sport_id":12,"skill":"Art History","description":"Studying important art movements."}
+{"sport_id":12,"skill":"Mixed Media","description":"Combining different media in art."}
+{"sport_id":12,"skill":"Painting Techniques","description":"Learning different painting methods."}
+{"sport_id":12,"skill":"Critique Skills","description":"Providing and receiving art critiques."}
+{"sport_id":12,"skill":"Portfolio Development","description":"Building a professional art portfolio."}
+{"sport_id":12,"skill":"Creative Thinking","description":"Fostering original and creative ideas."}
+{"sport_id":15,"skill":"Skating Technique","description":"Teaching proper skating form and agility."}
+{"sport_id":15,"skill":"Shooting Accuracy","description":"Improving precision in goal shooting."}
+{"sport_id":15,"skill":"Stick Handling","description":"Training players on effective puck control."}
+{"sport_id":15,"skill":"Passing Skills","description":"Enhancing passing techniques and timing."}
+{"sport_id":15,"skill":"Defensive Tactics","description":"Teaching strategies for effective defense."}
+{"sport_id":15,"skill":"Positional Play","description":"Instructing on correct field positioning."}
+{"sport_id":15,"skill":"Game Strategy","description":"Developing overall team game plans."}
+{"sport_id":15,"skill":"Physical Fitness","description":"Ensuring players maintain peak fitness."}
+{"sport_id":15,"skill":"Team Coordination","description":"Building effective teamwork and synergy."}
+{"sport_id":15,"skill":"Mental Toughness","description":"Training players to handle pressure well."}
+{"sport_id":15,"skill":"Injury Prevention","description":"Educating on techniques to avoid injuries."}
+{"sport_id":15,"skill":"Communication","description":"Enhancing on-ice and off-ice communication."}
+{"sport_id":15,"skill":"Leadership Skills","description":"Developing leadership qualities in players."}
+{"sport_id":15,"skill":"Nutrition Advice","description":"Guiding players on optimal dietary habits."}
+{"sport_id":15,"skill":"Game Analysis","description":"Analyzing games to improve performance."}
+{"sport_id":17,"skill":"Stance and Motion","description":"Teaching proper stance and movement techniques."}
+{"sport_id":17,"skill":"Takedowns","description":"Training on various takedown methods."}
+{"sport_id":17,"skill":"Escapes","description":"Instructing how to escape from bottom position."}
+{"sport_id":17,"skill":"Reversals","description":"Teaching how to reverse an opponent\u2019s hold."}
+{"sport_id":17,"skill":"Riding","description":"Techniques for controlling an opponent on the mat."}
+{"sport_id":17,"skill":"Pinning","description":"Methods for pinning an opponent."}
+{"sport_id":17,"skill":"Defense","description":"Developing defensive techniques to counter attacks."}
+{"sport_id":17,"skill":"Conditioning","description":"Building cardiovascular endurance specific to wrestling."}
+{"sport_id":17,"skill":"Strength Training","description":"Strength training exercises tailored for wrestlers."}
+{"sport_id":17,"skill":"Flexibility","description":"Flexibility exercises to enhance performance."}
+{"sport_id":17,"skill":"Mental Toughness","description":"Building mental resilience and focus."}
+{"sport_id":17,"skill":"Strategy","description":"Developing strategic thinking for matches."}
+{"sport_id":17,"skill":"Nutrition","description":"Educating on proper diet and hydration."}
+{"sport_id":17,"skill":"Match Preparation","description":"Preparing students for competition scenarios."}
+{"sport_id":17,"skill":"Injury Prevention","description":"Techniques for avoiding common wrestling injuries."}
+{"sport_id":19,"skill":"Driving Techniques","description":"Teaching proper control and maneuvering."}
+{"sport_id":19,"skill":"Vehicle Dynamics","description":"Understanding how vehicles behave on track."}
+{"sport_id":19,"skill":"Race Strategy","description":"Planning and executing race strategies."}
+{"sport_id":19,"skill":"Safety Procedures","description":"Ensuring adherence to safety protocols."}
+{"sport_id":19,"skill":"Mechanical Knowledge","description":"Basic understanding of vehicle mechanics."}
+{"sport_id":19,"skill":"Track Analysis","description":"Studying and interpreting track layouts."}
+{"sport_id":19,"skill":"Fitness Training","description":"Improving physical fitness and stamina."}
+{"sport_id":19,"skill":"Mental Conditioning","description":"Enhancing focus and mental resilience."}
+{"sport_id":19,"skill":"Data Analysis","description":"Analyzing performance data for improvement."}
+{"sport_id":19,"skill":"Communication Skills","description":"Effective communication with team members."}
+{"sport_id":19,"skill":"Tire Management","description":"Managing tire wear and performance."}
+{"sport_id":19,"skill":"Suspension Tuning","description":"Adjusting suspension for optimal handling."}
+{"sport_id":19,"skill":"Fuel Management","description":"Planning and managing fuel consumption."}
+{"sport_id":19,"skill":"Brake Techniques","description":"Teaching efficient and safe braking."}
+{"sport_id":19,"skill":"Aerodynamics","description":"Understanding and utilizing aerodynamic principles."}
+{"sport_id":20,"skill":"Cue Grip","description":"Teaching proper hand positioning on the cue"}
+{"sport_id":20,"skill":"Stance and Balance","description":"Ensuring a stable and balanced stance"}
+{"sport_id":20,"skill":"Stroke Mechanics","description":"Developing a smooth and consistent stroke"}
+{"sport_id":20,"skill":"Aiming Techniques","description":"Techniques for accurate aiming"}
+{"sport_id":20,"skill":"Shot Selection","description":"Choosing the best shot in various situations"}
+{"sport_id":20,"skill":"Position Play","description":"Planning cue ball position for next shots"}
+{"sport_id":20,"skill":"Spin Control","description":"Applying and controlling spin on the cue ball"}
+{"sport_id":20,"skill":"Break Shot","description":"Executing a powerful and effective break shot"}
+{"sport_id":20,"skill":"Safety Play","description":"Strategies for defensive shots"}
+{"sport_id":20,"skill":"Bank Shots","description":"Techniques for making bank shots"}
+{"sport_id":20,"skill":"Kick Shots","description":"Techniques for making kick shots"}
+{"sport_id":20,"skill":"Combination Shots","description":"Techniques for making combination shots"}
+{"sport_id":20,"skill":"Mental Focus","description":"Maintaining concentration and focus during play"}
+{"sport_id":20,"skill":"Game Strategy","description":"Developing overall game strategy"}
+{"sport_id":20,"skill":"Etiquette","description":"Teaching proper billiards etiquette and rules"}
+{"sport_id":21,"skill":"Grip","description":"Proper holding technique for the paddle"}
+{"sport_id":21,"skill":"Stance and Footwork","description":"Stable stance and quick footwork"}
+{"sport_id":21,"skill":"Forehand Stroke","description":"Executing effective forehand strokes"}
+{"sport_id":21,"skill":"Backhand Stroke","description":"Executing effective backhand strokes"}
+{"sport_id":21,"skill":"Serve Techniques","description":"Various serve techniques for advantage"}
+{"sport_id":21,"skill":"Spin Control","description":"Applying and controlling spin"}
+{"sport_id":21,"skill":"Rallying Skills","description":"Maintaining rallies with consistency"}
+{"sport_id":21,"skill":"Return of Serve","description":"Returning serves effectively"}
+{"sport_id":21,"skill":"Looping","description":"Executing powerful looping shots"}
+{"sport_id":21,"skill":"Blocking","description":"Blocking opponent\u2019s shots effectively"}
+{"sport_id":21,"skill":"Smashing","description":"Executing powerful smash shots"}
+{"sport_id":21,"skill":"Push Shots","description":"Performing defensive push shots"}
+{"sport_id":21,"skill":"Chopping","description":"Defensive chopping techniques"}
+{"sport_id":21,"skill":"Mental Focus","description":"Maintaining focus and concentration"}
+{"sport_id":21,"skill":"Game Strategy","description":"Developing overall game strategy"}
+{"sport_id":22,"skill":"Chasing Techniques","description":"Effective techniques for chasing opponents"}
+{"sport_id":22,"skill":"Dodging Skills","description":"Skills to dodge and avoid being tagged"}
+{"sport_id":22,"skill":"Running Speed","description":"Improving running speed and acceleration"}
+{"sport_id":22,"skill":"Endurance Training","description":"Building stamina for prolonged play"}
+{"sport_id":22,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":22,"skill":"Directional Change","description":"Changing directions swiftly during play"}
+{"sport_id":22,"skill":"Tagging Accuracy","description":"Accuracy in tagging opponents"}
+{"sport_id":22,"skill":"Pole Dive","description":"Diving technique around the pole"}
+{"sport_id":22,"skill":"Quick Reflexes","description":"Developing quick reflexes and reactions"}
+{"sport_id":22,"skill":"Team Coordination","description":"Coordinating effectively with team members"}
+{"sport_id":22,"skill":"Tapping Technique","description":"Proper tapping technique to avoid fouls"}
+{"sport_id":22,"skill":"Turning Efficiency","description":"Efficient turning techniques in the game"}
+{"sport_id":22,"skill":"Defensive Skills","description":"Skills for effective defense"}
+{"sport_id":22,"skill":"Offensive Strategies","description":"Strategies for offensive gameplay"}
+{"sport_id":22,"skill":"Game Rules","description":"Understanding and applying game rules"}
+{"sport_id":23,"skill":"Grip","description":"Proper holding technique for the racket"}
+{"sport_id":23,"skill":"Stance","description":"Correct stance for balance and power"}
+{"sport_id":23,"skill":"Forehand Stroke","description":"Executing effective forehand strokes"}
+{"sport_id":23,"skill":"Backhand Stroke","description":"Executing effective backhand strokes"}
+{"sport_id":23,"skill":"Serve Techniques","description":"Various serve techniques for advantage"}
+{"sport_id":23,"skill":"Footwork","description":"Quick and efficient footwork"}
+{"sport_id":23,"skill":"Volleying","description":"Techniques for volleying shots"}
+{"sport_id":23,"skill":"Drop Shots","description":"Executing accurate drop shots"}
+{"sport_id":23,"skill":"Lob Shots","description":"Performing effective lob shots"}
+{"sport_id":23,"skill":"Boast Shots","description":"Executing boast shots accurately"}
+{"sport_id":23,"skill":"Drive Shots","description":"Performing powerful drive shots"}
+{"sport_id":23,"skill":"Court Movement","description":"Effective movement around the court"}
+{"sport_id":23,"skill":"Tactics","description":"Applying tactics during play"}
+{"sport_id":23,"skill":"Mental Focus","description":"Maintaining focus and concentration"}
+{"sport_id":23,"skill":"Game Strategy","description":"Developing overall game strategy"}
+{"sport_id":24,"skill":"Grip","description":"Proper holding technique for the weapon"}
+{"sport_id":24,"skill":"En Garde Stance","description":"Basic stance for balance and readiness"}
+{"sport_id":24,"skill":"Footwork","description":"Quick and precise footwork"}
+{"sport_id":24,"skill":"Lunge","description":"Executing effective lunges"}
+{"sport_id":24,"skill":"Parry","description":"Blocking opponent's attacks with parries"}
+{"sport_id":24,"skill":"Riposte","description":"Counterattacking after a parry"}
+{"sport_id":24,"skill":"Feint","description":"Deceiving the opponent with feints"}
+{"sport_id":24,"skill":"Thrust","description":"Executing thrusting attacks"}
+{"sport_id":24,"skill":"Disengage","description":"Avoiding opponent's blade with disengages"}
+{"sport_id":24,"skill":"Counter Attack","description":"Launching counter attacks"}
+{"sport_id":24,"skill":"Distance Control","description":"Controlling distance from the opponent"}
+{"sport_id":24,"skill":"Timing","description":"Perfecting timing for attacks"}
+{"sport_id":24,"skill":"Blade Work","description":"Skilled manipulation of the blade"}
+{"sport_id":24,"skill":"Defense Strategy","description":"Developing strong defensive strategies"}
+{"sport_id":24,"skill":"Offense Strategy","description":"Developing strong offensive strategies"}
+{"sport_id":25,"skill":"Basic Balance","description":"Maintaining balance on skates."}
+{"sport_id":25,"skill":"Forward Stride","description":"Proper forward skating technique."}
+{"sport_id":25,"skill":"Backward Stride","description":"Proper backward skating technique."}
+{"sport_id":25,"skill":"Stopping Techniques","description":"Different methods of stopping."}
+{"sport_id":25,"skill":"Turning Techniques","description":"Techniques for smooth turns."}
+{"sport_id":25,"skill":"Edge Control","description":"Controlling edges of the skates."}
+{"sport_id":25,"skill":"Speed Control","description":"Maintaining and controlling speed."}
+{"sport_id":25,"skill":"Skating Posture","description":"Correct skating posture and alignment."}
+{"sport_id":25,"skill":"Crossovers","description":"Executing crossovers for turns."}
+{"sport_id":25,"skill":"Acceleration","description":"Techniques for quick acceleration."}
+{"sport_id":25,"skill":"Deceleration","description":"Methods for controlled slowing down."}
+{"sport_id":25,"skill":"Power Skating","description":"Building power and efficiency in skating."}
+{"sport_id":25,"skill":"Agility Drills","description":"Exercises to enhance agility."}
+{"sport_id":25,"skill":"Endurance Training","description":"Training for long-lasting stamina."}
+{"sport_id":25,"skill":"Injury Prevention","description":"Preventing and handling injuries."}
+{"sport_id":27,"skill":"Serving","description":"Techniques for effective serves"}
+{"sport_id":27,"skill":"Passing","description":"Receiving and passing the ball accurately"}
+{"sport_id":27,"skill":"Setting","description":"Setting up the ball for hitters"}
+{"sport_id":27,"skill":"Hitting","description":"Executing powerful and accurate hits"}
+{"sport_id":27,"skill":"Blocking","description":"Blocking opponent's attacks at the net"}
+{"sport_id":27,"skill":"Digging","description":"Defensive technique to save the ball"}
+{"sport_id":27,"skill":"Footwork","description":"Efficient movement and positioning"}
+{"sport_id":27,"skill":"Court Awareness","description":"Awareness of court positioning"}
+{"sport_id":27,"skill":"Communication","description":"Effective communication with teammates"}
+{"sport_id":27,"skill":"Defensive Skills","description":"Developing strong defensive strategies"}
+{"sport_id":27,"skill":"Offensive Skills","description":"Developing strong offensive strategies"}
+{"sport_id":27,"skill":"Team Coordination","description":"Coordinating plays with teammates"}
+{"sport_id":27,"skill":"Endurance Training","description":"Building stamina for prolonged play"}
+{"sport_id":27,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":27,"skill":"Jumping Technique","description":"Proper technique for jumping and spiking"}
+{"sport_id":28,"skill":"Basic Stances","description":"Learning the basic stances in taekwondo"}
+{"sport_id":28,"skill":"Kicking Techniques","description":"Executing various kicking techniques"}
+{"sport_id":28,"skill":"Punching Techniques","description":"Executing various punching techniques"}
+{"sport_id":28,"skill":"Blocking Techniques","description":"Proper techniques for blocking attacks"}
+{"sport_id":28,"skill":"Forms (Poomsae)","description":"Practicing forms and patterns"}
+{"sport_id":28,"skill":"Sparring","description":"Techniques and strategies for sparring"}
+{"sport_id":28,"skill":"Self-Defense","description":"Applying self-defense techniques"}
+{"sport_id":28,"skill":"Flexibility Training","description":"Improving flexibility for high kicks"}
+{"sport_id":28,"skill":"Endurance Training","description":"Building stamina for sustained practice"}
+{"sport_id":28,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":28,"skill":"Balance Training","description":"Training for better balance and stability"}
+{"sport_id":28,"skill":"Mental Focus","description":"Maintaining focus and concentration"}
+{"sport_id":28,"skill":"Breathing Techniques","description":"Effective breathing techniques for stamina"}
+{"sport_id":28,"skill":"Power Generation","description":"Generating power in strikes and kicks"}
+{"sport_id":28,"skill":"Speed Development","description":"Developing speed in movements and strikes"}
+{"sport_id":30,"skill":"Tackling Technique","description":"Teaching safe and effective tackling."}
+{"sport_id":30,"skill":"Passing Accuracy","description":"Improving accuracy and timing of passes."}
+{"sport_id":30,"skill":"Scrum Skills","description":"Developing skills for effective scrums."}
+{"sport_id":30,"skill":"Rucking Skills","description":"Mastering rucking techniques."}
+{"sport_id":30,"skill":"Kicking Technique","description":"Teaching accurate and powerful kicking."}
+{"sport_id":30,"skill":"Lineout Techniques","description":"Training for successful lineouts."}
+{"sport_id":30,"skill":"Speed Training","description":"Enhancing speed and quickness."}
+{"sport_id":30,"skill":"Agility Drills","description":"Improving agility through specific drills."}
+{"sport_id":30,"skill":"Strength Conditioning","description":"Building strength for physical demands."}
+{"sport_id":30,"skill":"Endurance Building","description":"Training for high endurance levels."}
+{"sport_id":30,"skill":"Game Strategy","description":"Planning and executing game strategies."}
+{"sport_id":30,"skill":"Team Communication","description":"Promoting clear and effective communication."}
+{"sport_id":30,"skill":"Situational Awareness","description":"Understanding and reacting to game situations."}
+{"sport_id":30,"skill":"Mental Toughness","description":"Building mental resilience and focus."}
+{"sport_id":30,"skill":"Injury Prevention","description":"Preventing and managing injuries."}
+{"sport_id":31,"skill":"Weightlifting Form","description":"Teaching correct weightlifting techniques."}
+{"sport_id":31,"skill":"Cardio Techniques","description":"Effective cardio exercise methods."}
+{"sport_id":31,"skill":"Strength Training","description":"Building muscle strength."}
+{"sport_id":31,"skill":"Flexibility Exercises","description":"Improving flexibility through exercises."}
+{"sport_id":31,"skill":"Endurance Building","description":"Enhancing endurance and stamina."}
+{"sport_id":31,"skill":"Core Workouts","description":"Focused workouts for core muscles."}
+{"sport_id":31,"skill":"Proper Nutrition","description":"Guidance on proper nutrition."}
+{"sport_id":31,"skill":"Injury Prevention","description":"Preventing injuries during workouts."}
+{"sport_id":31,"skill":"Recovery Techniques","description":"Techniques for effective recovery."}
+{"sport_id":31,"skill":"Personalized Programs","description":"Creating customized fitness programs."}
+{"sport_id":31,"skill":"Motivation Strategies","description":"Strategies to keep students motivated."}
+{"sport_id":31,"skill":"Body Mechanics","description":"Understanding and teaching body mechanics."}
+{"sport_id":31,"skill":"Equipment Use","description":"Safe and effective equipment usage."}
+{"sport_id":31,"skill":"Fitness Assessment","description":"Assessing fitness levels of students."}
+{"sport_id":31,"skill":"Progress Tracking","description":"Tracking and evaluating progress."}
+{"sport_id":32,"skill":"Breathing Techniques","description":"Teaching proper breathing methods."}
+{"sport_id":32,"skill":"Basic Poses","description":"Introducing foundational yoga poses."}
+{"sport_id":32,"skill":"Balance Poses","description":"Training on poses for balance."}
+{"sport_id":32,"skill":"Flexibility Training","description":"Improving flexibility through specific poses."}
+{"sport_id":32,"skill":"Strength Building","description":"Building strength with yoga practices."}
+{"sport_id":32,"skill":"Meditation Techniques","description":"Guiding various meditation techniques."}
+{"sport_id":32,"skill":"Alignment","description":"Ensuring correct body alignment."}
+{"sport_id":32,"skill":"Flow Sequences","description":"Creating smooth flow sequences."}
+{"sport_id":32,"skill":"Restorative Poses","description":"Teaching restorative and relaxing poses."}
+{"sport_id":32,"skill":"Inversions","description":"Guiding safe inversion poses."}
+{"sport_id":32,"skill":"Pranayama","description":"Practicing controlled breathing exercises."}
+{"sport_id":32,"skill":"Mindfulness","description":"Promoting mindfulness during practice."}
+{"sport_id":32,"skill":"Core Strengthening","description":"Strengthening core muscles through poses."}
+{"sport_id":32,"skill":"Warm-up Exercises","description":"Exercises to prepare for yoga sessions."}
+{"sport_id":32,"skill":"Cool-down Techniques","description":"Techniques to relax after sessions."}
+{"sport_id":35,"skill":"Basic Stances","description":"Learning the basic stances of silambam"}
+{"sport_id":35,"skill":"Footwork","description":"Developing quick and agile footwork"}
+{"sport_id":35,"skill":"Stick Handling","description":"Proper handling of the silambam stick"}
+{"sport_id":35,"skill":"Striking Techniques","description":"Executing various striking techniques"}
+{"sport_id":35,"skill":"Blocking Techniques","description":"Effective techniques for blocking attacks"}
+{"sport_id":35,"skill":"Defensive Moves","description":"Learning defensive maneuvers"}
+{"sport_id":35,"skill":"Offensive Moves","description":"Mastering offensive strategies and moves"}
+{"sport_id":35,"skill":"Spinning Techniques","description":"Techniques for spinning the stick"}
+{"sport_id":35,"skill":"Flexibility Training","description":"Improving flexibility for better performance"}
+{"sport_id":35,"skill":"Endurance Training","description":"Building endurance for long practice sessions"}
+{"sport_id":35,"skill":"Coordination","description":"Enhancing hand-eye coordination"}
+{"sport_id":35,"skill":"Breathing Techniques","description":"Effective breathing techniques for stamina"}
+{"sport_id":35,"skill":"Speed Development","description":"Developing speed in movements and strikes"}
+{"sport_id":35,"skill":"Power Generation","description":"Generating power in strikes"}
+{"sport_id":35,"skill":"Forms Practice","description":"Practicing traditional silambam forms"}
+{"sport_id":36,"skill":"Batting Technique","description":"Teaching proper batting form and mechanics."}
+{"sport_id":36,"skill":"Pitching Skills","description":"Developing effective pitching techniques."}
+{"sport_id":36,"skill":"Fielding Techniques","description":"Improving fielding skills and accuracy."}
+{"sport_id":36,"skill":"Base Running","description":"Enhancing base running speed and tactics."}
+{"sport_id":36,"skill":"Throwing Accuracy","description":"Training for accurate and strong throws."}
+{"sport_id":36,"skill":"Catching Skills","description":"Techniques for catching balls effectively."}
+{"sport_id":36,"skill":"Situational Awareness","description":"Understanding game situations and making quick decisions."}
+{"sport_id":36,"skill":"Strength Training","description":"Strength training specific to baseball."}
+{"sport_id":36,"skill":"Endurance Building","description":"Building endurance for longer games."}
+{"sport_id":36,"skill":"Team Communication","description":"Promoting effective communication within the team."}
+{"sport_id":36,"skill":"Game Strategy","description":"Planning and executing game strategies."}
+{"sport_id":36,"skill":"Hand-Eye Coordination","description":"Enhancing hand-eye coordination for batting."}
+{"sport_id":36,"skill":"Agility Drills","description":"Improving agility and quick movements."}
+{"sport_id":36,"skill":"Mental Toughness","description":"Building mental resilience and focus."}
+{"sport_id":36,"skill":"Injury Prevention","description":"Preventing common baseball injuries."}
+{"sport_id":37,"skill":"Stance and Grip","description":"Proper stance and cue grip."}
+{"sport_id":37,"skill":"Cue Action","description":"Developing a smooth cue action."}
+{"sport_id":37,"skill":"Aiming Techniques","description":"Techniques for accurate aiming."}
+{"sport_id":37,"skill":"Break Building","description":"Building and maintaining breaks."}
+{"sport_id":37,"skill":"Safety Play","description":"Playing effective safety shots."}
+{"sport_id":37,"skill":"Positional Play","description":"Controlling the cue ball's position."}
+{"sport_id":37,"skill":"Potting Skills","description":"Enhancing potting accuracy."}
+{"sport_id":37,"skill":"Spin Control","description":"Managing cue ball spin."}
+{"sport_id":37,"skill":"Shot Selection","description":"Choosing the right shot."}
+{"sport_id":37,"skill":"Mental Focus","description":"Maintaining mental focus."}
+{"sport_id":37,"skill":"Table Etiquette","description":"Understanding table etiquette."}
+{"sport_id":37,"skill":"Match Strategy","description":"Planning match strategies."}
+{"sport_id":37,"skill":"Concentration Drills","description":"Improving concentration skills."}
+{"sport_id":37,"skill":"Practice Routines","description":"Effective practice routines."}
+{"sport_id":37,"skill":"Endurance Training","description":"Training for long matches."}
+{"sport_id":38,"skill":"Striker Grip","description":"Proper grip for the striker"}
+{"sport_id":38,"skill":"Striking Techniques","description":"Various techniques for striking"}
+{"sport_id":38,"skill":"Board Positioning","description":"Optimal positioning on the board"}
+{"sport_id":38,"skill":"Aiming Accuracy","description":"Aiming the striker accurately"}
+{"sport_id":38,"skill":"Spin Control","description":"Applying and controlling spin on the striker"}
+{"sport_id":38,"skill":"Shot Selection","description":"Choosing the best shot in situations"}
+{"sport_id":38,"skill":"Break Shot","description":"Executing an effective break shot"}
+{"sport_id":38,"skill":"Defensive Play","description":"Strategies for defensive shots"}
+{"sport_id":38,"skill":"Rebound Shots","description":"Techniques for making rebound shots"}
+{"sport_id":38,"skill":"Speed Control","description":"Controlling the speed of the striker"}
+{"sport_id":38,"skill":"Carrom Rules","description":"Understanding and applying carrom rules"}
+{"sport_id":38,"skill":"Mental Focus","description":"Maintaining focus and concentration"}
+{"sport_id":38,"skill":"Finger Strength","description":"Building finger strength for striking"}
+{"sport_id":38,"skill":"Endgame Strategy","description":"Developing strategies for the endgame"}
+{"sport_id":38,"skill":"Coordination","description":"Coordinating hand and eye movements"}
+{"sport_id":39,"skill":"Passing","description":"Techniques for accurate passing"}
+{"sport_id":39,"skill":"Dribbling","description":"Control and maneuver the ball while dribbling"}
+{"sport_id":39,"skill":"Shooting","description":"Executing powerful and accurate shots"}
+{"sport_id":39,"skill":"Blocking","description":"Blocking opponent's shots"}
+{"sport_id":39,"skill":"Catching","description":"Effective techniques for catching the ball"}
+{"sport_id":39,"skill":"Defensive Play","description":"Developing strong defensive strategies"}
+{"sport_id":39,"skill":"Offensive Play","description":"Developing strong offensive strategies"}
+{"sport_id":39,"skill":"Footwork","description":"Quick and precise footwork"}
+{"sport_id":39,"skill":"Goalkeeping","description":"Skills and techniques for goalkeeping"}
+{"sport_id":39,"skill":"Team Coordination","description":"Coordinating plays with teammates"}
+{"sport_id":39,"skill":"Court Awareness","description":"Awareness of positioning on the court"}
+{"sport_id":39,"skill":"Tactical Play","description":"Applying tactical strategies during play"}
+{"sport_id":39,"skill":"Endurance Training","description":"Building stamina for prolonged play"}
+{"sport_id":39,"skill":"Agility Drills","description":"Enhancing quick and agile movements"}
+{"sport_id":39,"skill":"Speed Training","description":"Improving speed and acceleration"}
+{"sport_id":40,"skill":"Basic Stances","description":"Teaching the fundamental stances."}
+{"sport_id":40,"skill":"Footwork Techniques","description":"Training on effective footwork."}
+{"sport_id":40,"skill":"Kicks","description":"Executing various kicks accurately."}
+{"sport_id":40,"skill":"Punches","description":"Techniques for powerful punches."}
+{"sport_id":40,"skill":"Blocks","description":"Mastering different blocking techniques."}
+{"sport_id":40,"skill":"Flexibility Training","description":"Improving flexibility for combat."}
+{"sport_id":40,"skill":"Strength Building","description":"Building strength for combat readiness."}
+{"sport_id":40,"skill":"Weapon Handling","description":"Proper handling of traditional weapons."}
+{"sport_id":40,"skill":"Combat Sequences","description":"Practicing combat sequences and forms."}
+{"sport_id":40,"skill":"Breathing Techniques","description":"Teaching proper breathing methods."}
+{"sport_id":40,"skill":"Meditation","description":"Guiding meditation techniques."}
+{"sport_id":40,"skill":"Balance Training","description":"Training for maintaining balance."}
+{"sport_id":40,"skill":"Coordination Drills","description":"Enhancing coordination through drills."}
+{"sport_id":40,"skill":"Agility Training","description":"Improving agility for quick movements."}
+{"sport_id":40,"skill":"Injury Prevention","description":"Preventing and managing injuries."}

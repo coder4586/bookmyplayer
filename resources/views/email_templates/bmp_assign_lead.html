@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Template</title>
+</head>
+
+<body style="background-color: #f4f4f4; margin: 0; padding: 0; box-sizing: border-box; font-family: 'DM Sans', sans-serif;">
+    <main style="background-color: #f4f4f4; display: flex; justify-content: center; align-items: center; padding: 20px 0;">
+        <table style="width: 100%; border-spacing:0; background-color: #f4f4f4; border-collapse: collapse;">
+            <tbody>
+                <tr>
+                    <td align="start" style="text-align: center;">
+                        <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/logo.png" alt="logo" style="display: block; margin: 0 auto; width: 120px; height: auto; margin-bottom: 1rem;">
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 0; margin: 0;">
+                        <div style="max-width: 600px; background-color: #fff; margin: 0 auto;">
+                            <div style="display: flex; align-items: start; justify-content: start; height: 100%; padding: 1rem 1rem 0 1rem;">
+                                <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_bell.png" alt="notification" style="margin-right: 10px;">
+                                <span style="font-size: 20px; font-weight: bold;">{{lead_name}} wants to contact with you</span>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 0; margin: 0;">
+                        <div style="max-width: 600px; background-color: #fff; margin: 0 auto; display: flex; justify-content:start; align-items: center;">
+                            <div style="background-color: rgb(246, 226, 229); border-radius: 5rem; height: 2.2rem; line-height: 2.2rem; text-align: center; padding: 0 1rem; margin-left: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
+                                <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_arrow.png" alt="urgent" style="vertical-align: middle; height: 1rem; width: 1rem;">
+                                <span style="font-size: 0.8rem; margin-left: 5px;">Urgent</span>
+                            </div>
+                            <div style="background-color: #ebf8f5; border-radius: 5rem; height: 2.2rem; line-height: 2.2rem; text-align: center; padding: 0 1rem; margin:1rem">
+                                <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_tick.png" alt="verify" style="vertical-align: middle; height: 1rem; width: 1rem;">
+                                <span style="font-size: 0.8rem; margin-left: 5px;">Verified Number</span>
+                            </div>
+                            <div style="background-color: #ebf8f5; border-radius: 5rem; height: 2.2rem; line-height: 2.2rem; text-align: center; padding: 0 1rem; margin-right: 1rem; margin-top: 1rem; margin-bottom: 1rem;">
+                                <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_info.png" alt="details" style="vertical-align: middle; height: 1rem; width: 1rem;">
+                                <span style="font-size: 0.8rem; margin-left: 5px;"><a href="https://www.bookmyplayer.com/{{type}}/dashboard/edit-profile/{{parent_id}}">Login</a></span>
+                            </div>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding: 0; margin: 0;">
+                        <div style="max-width: 600px; background-color: #fff; margin: 0 auto; display: flex; justify-content:center; align-items: start; padding-top: 2rem; flex-wrap: wrap-reverse;">
+                           <div>
+                                <div style="display: flex; justify-content: start; align-items: center; padding-bottom: 1rem; margin-left: 1rem;margin-right: 1rem;">
+                                    <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_img.png" alt="credits" style="height: 30px; width: 30px; margin-right:1rem;">
+                                    <span style="font-size: 16px; color: #111539;">Login to respond</span>
+                                </div>
+                                <div style="display: flex; justify-content: start; align-items: center; padding-bottom: 1rem; margin-left: 1rem; margin-right: 1rem;">
+                                    <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_phone.png" alt="phone" style="height: 30px; width: 30px; margin-right:1rem;">
+                                    <span style="font-size: 16px; color: #111539;">{{lead_phone}}</span>
+                                </div>
+                                <div style="display: flex; justify-content: start; align-items: center; padding-bottom: 1rem; margin-left: 1rem; margin-right: 1rem;">
+                                    <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_message.png" alt="email" style="height: 23px; width: 30px; margin-right:1rem;">
+                                    <span style="font-size: 16px; color: #111539;">{{lead_email}}</span>
+                                </div>
+                                <div style="display: flex; justify-content: start; align-items: start; margin-left: 1rem; margin-right: 1rem; margin-bottom: 1rem;">
+                                    <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_info_2.png" alt="description" style="height: 33px; width: 30px; margin-right:1rem;">
+                                    <span style="font-size: 16px; color: #111539;">{{lead_des}}
+                                        <a href="" target="_blank" style="color: #2d79f1; text-decoration: underline; cursor: pointer;">
+                                            <span>See more</span>
+                                        </a>
+                                    </span>
+                                </div>
+                            </div>
+
+                            <div style="margin-right: 1rem; margin-left: 2rem;">
+                                <img src="http://d2bdxhtfh3zsqc.cloudfront.net/asset/images/email_map.png" alt="map" style="height: 108px; width: 180px;">
+                                <div>
+                                    <p style="color: #808487; font-size: 0.8rem; margin-top: 2rem; font-weight: 600;">1/5 Professionals have responded</p>
+                                    <p style="color: #808487; font-size: 0.7rem;">Last updated 26 may, 13:05</p>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="margin: 0; padding: 0;">
+                        <div style="max-width: 600px; background-color: #fff; margin: 0 auto; text-align: center; padding-bottom: 1rem; padding-top: 2rem;">
+                            <a href="" target="_blank" style="cursor: pointer;">
+                            <button style="background-color: #2d79f0; padding: 0.6rem 1.2rem; color: #fff; outline: none; border: none; border-radius: 0.3125rem; font-size: 1.2rem; cursor: pointer; margin: 0 0.5rem; width: 10rem;"><a href="https://www.bookmyplayer.com/{{type}}/dashboard/edit-profile/{{parent_id}}">Contact</a></button></a>
+                            <a href="" target="_blank" style="cursor: pointer;">
+                            <button style="background-color: #fff; color: #2d79f0; padding: 0.6rem 1.2rem; outline: none; border: 1px solid #2d79f0; border-radius: 0.3125rem; font-size: 1.2rem; cursor: pointer; margin: 0 0.5rem; width: 10rem;"><a href="https://www.bookmyplayer.com/{{type}}/dashboard/edit-profile/{{parent_id}}">View Details</a></button></a>
+                        </div>
+
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+</body>
+
+</html>

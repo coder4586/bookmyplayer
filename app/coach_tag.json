@@ -1,0 +1,1562 @@
+[
+    {
+        "sport_id":1,
+        "tag":"Elevating Soccer Excellence Daily"
+    },
+    {
+        "sport_id":2,
+        "tag":"Dunk Dreams, Achieve Greatness"
+    },
+    {
+        "sport_id":3,
+        "tag":"From Nets to Glory"
+    },
+    {
+        "sport_id":4,
+        "tag":"Strength, Discipline, Victory Achieved"
+    },
+    {
+        "sport_id":5,
+        "tag":"Beyond Laps, Achieving Excellence"
+    },
+    {
+        "sport_id":6,
+        "tag":"Precision, Power, Peak Performance"
+    },
+    {
+        "sport_id":7,
+        "tag":"Golf Excellence, Every Hole"
+    },
+    {
+        "sport_id":8,
+        "tag":"Target Mastery, Achieve Greatness"
+    },
+    {
+        "sport_id":9,
+        "tag":"Fight Hard, Win Big"
+    },
+    {
+        "sport_id":10,
+        "tag":"Defend Strong, Raid Fierce"
+    },
+    {
+        "sport_id":11,
+        "tag":"Flip, Twist, Achieve Greatness"
+    },
+    {
+        "sport_id":12,
+        "tag":"Inspiring Creativity, Achieving Mastery"
+    },
+    {
+        "sport_id":13,
+        "tag":"Master Moves, Checkmate Success"
+    },
+    {
+        "sport_id":14,
+        "tag":"Drive Success, Build Champions"
+    },
+    {
+        "sport_id":15,
+        "tag":"Hockey Excellence, Every Game"
+    },
+    {
+        "sport_id":16,
+        "tag":"Game, Set, Match Success"
+    },
+    {
+        "sport_id":17,
+        "tag":"Grapple Hard, Win Big"
+    },
+    {
+        "sport_id":18,
+        "tag":"Champion Mindset, Knockout Win"
+    },
+    {
+        "sport_id":19,
+        "tag":"Race Fast, Win Big"
+    },
+    {
+        "sport_id":20,
+        "tag":"Cue Control, Championship Success"
+    },
+    {
+        "sport_id":21,
+        "tag":"Spin, Smash, Win Big"
+    },
+    {
+        "sport_id":22,
+        "tag":"Swift Moves, Ultimate Victory"
+    },
+    {
+        "sport_id":23,
+        "tag":"Dominate Walls, Win All"
+    },
+    {
+        "sport_id":24,
+        "tag":"Parry, Thrust, Win Big"
+    },
+    {
+        "sport_id":25,
+        "tag":"Glide to Greatness"
+    },
+    {
+        "sport_id":26,
+        "tag":"Push Limits, Break Records"
+    },
+    {
+        "sport_id":27,
+        "tag":"Serve, Set, Succeed"
+    },
+    {
+        "sport_id":28,
+        "tag":"Kick Higher, Win Stronger"
+    },
+    {
+        "sport_id":29,
+        "tag":"From Bullseye to Victory"
+    },
+    {
+        "sport_id":30,
+        "tag":"Rugby Resilience Redefined"
+    },
+    {
+        "sport_id":31,
+        "tag":"Power, Progress, Performance"
+    },
+    {
+        "sport_id":32,
+        "tag":"Calm Body, Focused Mind"
+    },
+    {
+        "sport_id":34,
+        "tag":"Transform Your Life, Today"
+    },
+    {
+        "sport_id":35,
+        "tag":"Skillful Sticks, Mighty Strikes"
+    },
+    {
+        "sport_id":36,
+        "tag":"Hit Hard, Play Smart"
+    },
+    {
+        "sport_id":37,
+        "tag":"Precision in Every Shot"
+    },
+    {
+        "sport_id":38,
+        "tag":"Precision in Every Strike"
+    },
+    {
+        "sport_id":39,
+        "tag":"Handball Excellence Achieved"
+    },
+    {
+        "sport_id":40,
+        "tag":"Unleash Your Inner Warrior"
+    },
+    {
+        "sport_id":1,
+        "tag":"Kicking Goals, Shaping Legends"
+    },
+    {
+        "sport_id":2,
+        "tag":"Beyond Baskets, Building Champions"
+    },
+    {
+        "sport_id":3,
+        "tag":"Wickets, Runs, Unmatched Success"
+    },
+    {
+        "sport_id":4,
+        "tag":"Empower, Excel, Achieve Black"
+    },
+    {
+        "sport_id":5,
+        "tag":"Dive In, Conquer Waters"
+    },
+    {
+        "sport_id":6,
+        "tag":"Smash Limits, Achieve Greatness"
+    },
+    {
+        "sport_id":7,
+        "tag":"From Tee to Triumph"
+    },
+    {
+        "sport_id":8,
+        "tag":"Sharp Eyes, Sure Wins"
+    },
+    {
+        "sport_id":9,
+        "tag":"Strength, Skill, Supreme Success"
+    },
+    {
+        "sport_id":10,
+        "tag":"Grit, Glory, Kabaddi Excellence"
+    },
+    {
+        "sport_id":11,
+        "tag":"Grace, Strength, Winning Routine"
+    },
+    {
+        "sport_id":12,
+        "tag":"Crafting Talent, Winning Art"
+    },
+    {
+        "sport_id":13,
+        "tag":"Brains, Strategy, Chess Excellence"
+    },
+    {
+        "sport_id":14,
+        "tag":"Strength, Skill, Winning Thrills"
+    },
+    {
+        "sport_id":15,
+        "tag":"Skate Hard, Win Big"
+    },
+    {
+        "sport_id":16,
+        "tag":"Serve Strong, Win Big"
+    },
+    {
+        "sport_id":17,
+        "tag":"Master Moves, Dominate Mat"
+    },
+    {
+        "sport_id":18,
+        "tag":"Punch Through, Dominate Ring"
+    },
+    {
+        "sport_id":19,
+        "tag":"Drive Hard, Dominate Track"
+    },
+    {
+        "sport_id":20,
+        "tag":"Strategic Shots, Ultimate Victory"
+    },
+    {
+        "sport_id":21,
+        "tag":"Fast Reflexes, Ultimate Success"
+    },
+    {
+        "sport_id":22,
+        "tag":"Tag Smart, Conquer All"
+    },
+    {
+        "sport_id":23,
+        "tag":"Rally Strong, Conquer Court"
+    },
+    {
+        "sport_id":24,
+        "tag":"Master the Blade, Excel"
+    },
+    {
+        "sport_id":25,
+        "tag":"Skate with Confidence, Win"
+    },
+    {
+        "sport_id":26,
+        "tag":"Speed, Strength, Success"
+    },
+    {
+        "sport_id":27,
+        "tag":"Spike to Victory"
+    },
+    {
+        "sport_id":28,
+        "tag":"Mastery Through Discipline"
+    },
+    {
+        "sport_id":29,
+        "tag":"Precision, Focus, Winning Shots"
+    },
+    {
+        "sport_id":30,
+        "tag":"Unleash Your Inner Beast"
+    },
+    {
+        "sport_id":31,
+        "tag":"Train Hard, Transform"
+    },
+    {
+        "sport_id":32,
+        "tag":"Find Balance Within"
+    },
+    {
+        "sport_id":34,
+        "tag":"Fit, Focused, Fabulous"
+    },
+    {
+        "sport_id":35,
+        "tag":"Tradition, Technique, Triumph"
+    },
+    {
+        "sport_id":36,
+        "tag":"Pitch Perfect, Win Big"
+    },
+    {
+        "sport_id":37,
+        "tag":"Sharp Focus, Smooth Victory"
+    },
+    {
+        "sport_id":38,
+        "tag":"Aim, Flick, Conquer"
+    },
+    {
+        "sport_id":39,
+        "tag":"Victory Through Teamwork"
+    },
+    {
+        "sport_id":40,
+        "tag":"Mastering Ancient Martial Arts"
+    },
+    {
+        "sport_id":1,
+        "tag":"Power Win Win"
+    },
+    {
+        "sport_id":2,
+        "tag":"Skill Mastery Excel"
+    },
+    {
+        "sport_id":3,
+        "tag":"Excel Power Success"
+    },
+    {
+        "sport_id":4,
+        "tag":"Power Excel Power"
+    },
+    {
+        "sport_id":5,
+        "tag":"Mastery Success Success"
+    },
+    {
+        "sport_id":6,
+        "tag":"Strength Skill Champion"
+    },
+    {
+        "sport_id":7,
+        "tag":"Success Champion Win"
+    },
+    {
+        "sport_id":8,
+        "tag":"Skill Excel Power"
+    },
+    {
+        "sport_id":9,
+        "tag":"Power Strength Achieve"
+    },
+    {
+        "sport_id":10,
+        "tag":"Power Champion Excel"
+    },
+    {
+        "sport_id":11,
+        "tag":"Power Excel Success"
+    },
+    {
+        "sport_id":12,
+        "tag":"Victory Strength Mastery"
+    },
+    {
+        "sport_id":13,
+        "tag":"Champion Victory Win"
+    },
+    {
+        "sport_id":14,
+        "tag":"Success Skill Strength"
+    },
+    {
+        "sport_id":15,
+        "tag":"Excel Win Achieve"
+    },
+    {
+        "sport_id":16,
+        "tag":"Mastery Champion Victory"
+    },
+    {
+        "sport_id":17,
+        "tag":"Success Strength Power"
+    },
+    {
+        "sport_id":18,
+        "tag":"Power Excel Win"
+    },
+    {
+        "sport_id":19,
+        "tag":"Skill Strength Win"
+    },
+    {
+        "sport_id":20,
+        "tag":"Success Power Champion"
+    },
+    {
+        "sport_id":21,
+        "tag":"Excel Strength Power"
+    },
+    {
+        "sport_id":22,
+        "tag":"Mastery Power Skill"
+    },
+    {
+        "sport_id":23,
+        "tag":"Champion Win Power"
+    },
+    {
+        "sport_id":24,
+        "tag":"Strength Excel Skill"
+    },
+    {
+        "sport_id":25,
+        "tag":"Champion Skill Power"
+    },
+    {
+        "sport_id":26,
+        "tag":"Excel Success Power"
+    },
+    {
+        "sport_id":27,
+        "tag":"Skill Power Win"
+    },
+    {
+        "sport_id":28,
+        "tag":"Strength Achieve Skill"
+    },
+    {
+        "sport_id":29,
+        "tag":"Excel Strength Champion"
+    },
+    {
+        "sport_id":30,
+        "tag":"Win Achieve Win"
+    },
+    {
+        "sport_id":31,
+        "tag":"Champion Mastery Power"
+    },
+    {
+        "sport_id":32,
+        "tag":"Mastery Mastery Victory"
+    },
+    {
+        "sport_id":34,
+        "tag":"Excel Power Achieve"
+    },
+    {
+        "sport_id":35,
+        "tag":"Win Victory Success"
+    },
+    {
+        "sport_id":36,
+        "tag":"Mastery Skill Success"
+    },
+    {
+        "sport_id":37,
+        "tag":"Power Success Victory"
+    },
+    {
+        "sport_id":38,
+        "tag":"Victory Achieve Success"
+    },
+    {
+        "sport_id":39,
+        "tag":"Power Mastery Achieve"
+    },
+    {
+        "sport_id":40,
+        "tag":"Skill Win Champion"
+    },
+    {
+        "sport_id":1,
+        "tag":"Achieve Power Victory"
+    },
+    {
+        "sport_id":2,
+        "tag":"Champion Mastery Achieve"
+    },
+    {
+        "sport_id":3,
+        "tag":"Success Victory Champion"
+    },
+    {
+        "sport_id":4,
+        "tag":"Power Win Power"
+    },
+    {
+        "sport_id":5,
+        "tag":"Strength Victory Skill"
+    },
+    {
+        "sport_id":6,
+        "tag":"Victory Skill Excel"
+    },
+    {
+        "sport_id":7,
+        "tag":"Skill Skill Excel"
+    },
+    {
+        "sport_id":8,
+        "tag":"Success Win Victory"
+    },
+    {
+        "sport_id":9,
+        "tag":"Excel Excel Mastery"
+    },
+    {
+        "sport_id":10,
+        "tag":"Strength Champion Skill"
+    },
+    {
+        "sport_id":11,
+        "tag":"Success Skill Strength"
+    },
+    {
+        "sport_id":12,
+        "tag":"Skill Success Success"
+    },
+    {
+        "sport_id":13,
+        "tag":"Victory Strength Skill"
+    },
+    {
+        "sport_id":14,
+        "tag":"Victory Win Victory"
+    },
+    {
+        "sport_id":15,
+        "tag":"Strength Champion Excel"
+    },
+    {
+        "sport_id":16,
+        "tag":"Victory Victory Skill"
+    },
+    {
+        "sport_id":17,
+        "tag":"Achieve Power Skill"
+    },
+    {
+        "sport_id":18,
+        "tag":"Skill Achieve Champion"
+    },
+    {
+        "sport_id":19,
+        "tag":"Victory Win Excel"
+    },
+    {
+        "sport_id":20,
+        "tag":"Excel Power Achieve"
+    },
+    {
+        "sport_id":21,
+        "tag":"Mastery Success Success"
+    },
+    {
+        "sport_id":22,
+        "tag":"Skill Skill Win"
+    },
+    {
+        "sport_id":23,
+        "tag":"Strength Mastery Mastery"
+    },
+    {
+        "sport_id":24,
+        "tag":"Win Skill Skill"
+    },
+    {
+        "sport_id":25,
+        "tag":"Win Excel Power"
+    },
+    {
+        "sport_id":26,
+        "tag":"Win Mastery Excel"
+    },
+    {
+        "sport_id":27,
+        "tag":"Strength Champion Champion"
+    },
+    {
+        "sport_id":28,
+        "tag":"Excel Strength Mastery"
+    },
+    {
+        "sport_id":29,
+        "tag":"Excel Mastery Victory"
+    },
+    {
+        "sport_id":30,
+        "tag":"Strength Power Victory"
+    },
+    {
+        "sport_id":31,
+        "tag":"Champion Power Skill"
+    },
+    {
+        "sport_id":32,
+        "tag":"Skill Victory Champion"
+    },
+    {
+        "sport_id":34,
+        "tag":"Mastery Win Achieve"
+    },
+    {
+        "sport_id":35,
+        "tag":"Excel Power Power"
+    },
+    {
+        "sport_id":36,
+        "tag":"Strength Strength Strength"
+    },
+    {
+        "sport_id":37,
+        "tag":"Power Power Win"
+    },
+    {
+        "sport_id":38,
+        "tag":"Champion Win Skill"
+    },
+    {
+        "sport_id":39,
+        "tag":"Victory Power Excel"
+    },
+    {
+        "sport_id":40,
+        "tag":"Champion Strength Skill"
+    },
+    {
+        "sport_id":1,
+        "tag":"Success Win Excel"
+    },
+    {
+        "sport_id":2,
+        "tag":"Success Mastery Excel"
+    },
+    {
+        "sport_id":3,
+        "tag":"Victory Power Power"
+    },
+    {
+        "sport_id":4,
+        "tag":"Victory Victory Power"
+    },
+    {
+        "sport_id":5,
+        "tag":"Champion Strength Champion"
+    },
+    {
+        "sport_id":6,
+        "tag":"Victory Victory Skill"
+    },
+    {
+        "sport_id":7,
+        "tag":"Mastery Success Strength"
+    },
+    {
+        "sport_id":8,
+        "tag":"Win Win Mastery"
+    },
+    {
+        "sport_id":9,
+        "tag":"Skill Strength Success"
+    },
+    {
+        "sport_id":10,
+        "tag":"Success Power Victory"
+    },
+    {
+        "sport_id":11,
+        "tag":"Power Excel Excel"
+    },
+    {
+        "sport_id":12,
+        "tag":"Achieve Skill Strength"
+    },
+    {
+        "sport_id":13,
+        "tag":"Success Skill Win"
+    },
+    {
+        "sport_id":14,
+        "tag":"Win Skill Skill"
+    },
+    {
+        "sport_id":15,
+        "tag":"Strength Success Strength"
+    },
+    {
+        "sport_id":16,
+        "tag":"Achieve Power Excel"
+    },
+    {
+        "sport_id":17,
+        "tag":"Success Success Skill"
+    },
+    {
+        "sport_id":18,
+        "tag":"Mastery Champion Power"
+    },
+    {
+        "sport_id":19,
+        "tag":"Success Strength Champion"
+    },
+    {
+        "sport_id":20,
+        "tag":"Excel Win Achieve"
+    },
+    {
+        "sport_id":21,
+        "tag":"Win Excel Achieve"
+    },
+    {
+        "sport_id":22,
+        "tag":"Achieve Excel Mastery"
+    },
+    {
+        "sport_id":23,
+        "tag":"Success Success Victory"
+    },
+    {
+        "sport_id":24,
+        "tag":"Strength Strength Success"
+    },
+    {
+        "sport_id":25,
+        "tag":"Champion Skill Skill"
+    },
+    {
+        "sport_id":26,
+        "tag":"Excel Excel Excel"
+    },
+    {
+        "sport_id":27,
+        "tag":"Achieve Power Win"
+    },
+    {
+        "sport_id":28,
+        "tag":"Mastery Success Achieve"
+    },
+    {
+        "sport_id":29,
+        "tag":"Strength Win Excel"
+    },
+    {
+        "sport_id":30,
+        "tag":"Victory Victory Victory"
+    },
+    {
+        "sport_id":31,
+        "tag":"Success Power Win"
+    },
+    {
+        "sport_id":32,
+        "tag":"Champion Strength Skill"
+    },
+    {
+        "sport_id":34,
+        "tag":"Excel Excel Excel"
+    },
+    {
+        "sport_id":35,
+        "tag":"Strength Mastery Skill"
+    },
+    {
+        "sport_id":36,
+        "tag":"Champion Mastery Power"
+    },
+    {
+        "sport_id":37,
+        "tag":"Success Power Champion"
+    },
+    {
+        "sport_id":38,
+        "tag":"Power Strength Champion"
+    },
+    {
+        "sport_id":39,
+        "tag":"Success Win Power"
+    },
+    {
+        "sport_id":40,
+        "tag":"Win Achieve Mastery"
+    },
+    {
+        "sport_id":1,
+        "tag":"Champion Victory Excel"
+    },
+    {
+        "sport_id":2,
+        "tag":"Win Win Achieve"
+    },
+    {
+        "sport_id":3,
+        "tag":"Power Power Win"
+    },
+    {
+        "sport_id":4,
+        "tag":"Success Mastery Champion"
+    },
+    {
+        "sport_id":5,
+        "tag":"Win Success Excel"
+    },
+    {
+        "sport_id":6,
+        "tag":"Power Champion Excel"
+    },
+    {
+        "sport_id":7,
+        "tag":"Skill Victory Win"
+    },
+    {
+        "sport_id":8,
+        "tag":"Champion Mastery Champion"
+    },
+    {
+        "sport_id":9,
+        "tag":"Skill Power Win"
+    },
+    {
+        "sport_id":10,
+        "tag":"Excel Achieve Power"
+    },
+    {
+        "sport_id":11,
+        "tag":"Champion Mastery Skill"
+    },
+    {
+        "sport_id":12,
+        "tag":"Win Success Victory"
+    },
+    {
+        "sport_id":13,
+        "tag":"Win Success Power"
+    },
+    {
+        "sport_id":14,
+        "tag":"Achieve Skill Victory"
+    },
+    {
+        "sport_id":15,
+        "tag":"Strength Mastery Excel"
+    },
+    {
+        "sport_id":16,
+        "tag":"Success Achieve Excel"
+    },
+    {
+        "sport_id":17,
+        "tag":"Champion Power Achieve"
+    },
+    {
+        "sport_id":18,
+        "tag":"Achieve Champion Skill"
+    },
+    {
+        "sport_id":19,
+        "tag":"Success Success Power"
+    },
+    {
+        "sport_id":20,
+        "tag":"Power Power Champion"
+    },
+    {
+        "sport_id":21,
+        "tag":"Mastery Excel Skill"
+    },
+    {
+        "sport_id":22,
+        "tag":"Strength Victory Achieve"
+    },
+    {
+        "sport_id":23,
+        "tag":"Skill Success Success"
+    },
+    {
+        "sport_id":24,
+        "tag":"Achieve Excel Excel"
+    },
+    {
+        "sport_id":25,
+        "tag":"Champion Skill Strength"
+    },
+    {
+        "sport_id":26,
+        "tag":"Win Power Excel"
+    },
+    {
+        "sport_id":27,
+        "tag":"Skill Excel Skill"
+    },
+    {
+        "sport_id":28,
+        "tag":"Champion Mastery Mastery"
+    },
+    {
+        "sport_id":29,
+        "tag":"Champion Strength Strength"
+    },
+    {
+        "sport_id":30,
+        "tag":"Strength Power Mastery"
+    },
+    {
+        "sport_id":31,
+        "tag":"Strength Success Success"
+    },
+    {
+        "sport_id":32,
+        "tag":"Strength Skill Achieve"
+    },
+    {
+        "sport_id":34,
+        "tag":"Success Champion Power"
+    },
+    {
+        "sport_id":35,
+        "tag":"Excel Win Mastery"
+    },
+    {
+        "sport_id":36,
+        "tag":"Achieve Mastery Win"
+    },
+    {
+        "sport_id":37,
+        "tag":"Champion Skill Excel"
+    },
+    {
+        "sport_id":38,
+        "tag":"Skill Win Champion"
+    },
+    {
+        "sport_id":39,
+        "tag":"Achieve Excel Excel"
+    },
+    {
+        "sport_id":40,
+        "tag":"Mastery Win Victory"
+    },
+    {
+        "sport_id":1,
+        "tag":"Achieve Mastery Champion"
+    },
+    {
+        "sport_id":2,
+        "tag":"Achieve Success Victory"
+    },
+    {
+        "sport_id":3,
+        "tag":"Victory Skill Mastery"
+    },
+    {
+        "sport_id":4,
+        "tag":"Power Mastery Success"
+    },
+    {
+        "sport_id":5,
+        "tag":"Power Victory Mastery"
+    },
+    {
+        "sport_id":6,
+        "tag":"Win Champion Champion"
+    },
+    {
+        "sport_id":7,
+        "tag":"Power Success Win"
+    },
+    {
+        "sport_id":8,
+        "tag":"Excel Champion Excel"
+    },
+    {
+        "sport_id":9,
+        "tag":"Excel Skill Mastery"
+    },
+    {
+        "sport_id":10,
+        "tag":"Strength Mastery Success"
+    },
+    {
+        "sport_id":11,
+        "tag":"Win Skill Strength"
+    },
+    {
+        "sport_id":12,
+        "tag":"Skill Skill Skill"
+    },
+    {
+        "sport_id":13,
+        "tag":"Power Mastery Victory"
+    },
+    {
+        "sport_id":14,
+        "tag":"Skill Champion Skill"
+    },
+    {
+        "sport_id":15,
+        "tag":"Power Victory Victory"
+    },
+    {
+        "sport_id":16,
+        "tag":"Win Excel Achieve"
+    },
+    {
+        "sport_id":17,
+        "tag":"Power Excel Skill"
+    },
+    {
+        "sport_id":18,
+        "tag":"Skill Strength Victory"
+    },
+    {
+        "sport_id":19,
+        "tag":"Skill Excel Mastery"
+    },
+    {
+        "sport_id":20,
+        "tag":"Power Achieve Skill"
+    },
+    {
+        "sport_id":21,
+        "tag":"Mastery Excel Achieve"
+    },
+    {
+        "sport_id":22,
+        "tag":"Mastery Power Mastery"
+    },
+    {
+        "sport_id":23,
+        "tag":"Achieve Success Power"
+    },
+    {
+        "sport_id":24,
+        "tag":"Strength Achieve Mastery"
+    },
+    {
+        "sport_id":25,
+        "tag":"Strength Skill Win"
+    },
+    {
+        "sport_id":26,
+        "tag":"Skill Strength Victory"
+    },
+    {
+        "sport_id":27,
+        "tag":"Power Strength Achieve"
+    },
+    {
+        "sport_id":28,
+        "tag":"Champion Strength Success"
+    },
+    {
+        "sport_id":29,
+        "tag":"Mastery Achieve Skill"
+    },
+    {
+        "sport_id":30,
+        "tag":"Champion Power Success"
+    },
+    {
+        "sport_id":31,
+        "tag":"Strength Excel Power"
+    },
+    {
+        "sport_id":32,
+        "tag":"Victory Strength Strength"
+    },
+    {
+        "sport_id":34,
+        "tag":"Victory Strength Skill"
+    },
+    {
+        "sport_id":35,
+        "tag":"Excel Excel Achieve"
+    },
+    {
+        "sport_id":36,
+        "tag":"Mastery Champion Strength"
+    },
+    {
+        "sport_id":37,
+        "tag":"Power Victory Power"
+    },
+    {
+        "sport_id":38,
+        "tag":"Strength Achieve Power"
+    },
+    {
+        "sport_id":39,
+        "tag":"Excel Excel Power"
+    },
+    {
+        "sport_id":40,
+        "tag":"Strength Mastery Strength"
+    },
+    {
+        "sport_id":1,
+        "tag":"Victory Victory Success"
+    },
+    {
+        "sport_id":2,
+        "tag":"Strength Achieve Champion"
+    },
+    {
+        "sport_id":3,
+        "tag":"Champion Skill Champion"
+    },
+    {
+        "sport_id":4,
+        "tag":"Skill Win Victory"
+    },
+    {
+        "sport_id":5,
+        "tag":"Champion Champion Strength"
+    },
+    {
+        "sport_id":6,
+        "tag":"Strength Champion Champion"
+    },
+    {
+        "sport_id":7,
+        "tag":"Victory Power Strength"
+    },
+    {
+        "sport_id":8,
+        "tag":"Success Success Excel"
+    },
+    {
+        "sport_id":9,
+        "tag":"Win Success Strength"
+    },
+    {
+        "sport_id":10,
+        "tag":"Skill Victory Strength"
+    },
+    {
+        "sport_id":11,
+        "tag":"Success Excel Champion"
+    },
+    {
+        "sport_id":12,
+        "tag":"Champion Excel Achieve"
+    },
+    {
+        "sport_id":13,
+        "tag":"Mastery Skill Skill"
+    },
+    {
+        "sport_id":14,
+        "tag":"Achieve Win Power"
+    },
+    {
+        "sport_id":15,
+        "tag":"Skill Champion Mastery"
+    },
+    {
+        "sport_id":16,
+        "tag":"Victory Success Mastery"
+    },
+    {
+        "sport_id":17,
+        "tag":"Mastery Skill Mastery"
+    },
+    {
+        "sport_id":18,
+        "tag":"Excel Strength Achieve"
+    },
+    {
+        "sport_id":19,
+        "tag":"Strength Strength Strength"
+    },
+    {
+        "sport_id":20,
+        "tag":"Power Victory Mastery"
+    },
+    {
+        "sport_id":21,
+        "tag":"Excel Power Win"
+    },
+    {
+        "sport_id":22,
+        "tag":"Win Power Achieve"
+    },
+    {
+        "sport_id":23,
+        "tag":"Excel Win Victory"
+    },
+    {
+        "sport_id":24,
+        "tag":"Champion Champion Strength"
+    },
+    {
+        "sport_id":25,
+        "tag":"Power Excel Achieve"
+    },
+    {
+        "sport_id":26,
+        "tag":"Champion Strength Skill"
+    },
+    {
+        "sport_id":27,
+        "tag":"Win Power Mastery"
+    },
+    {
+        "sport_id":28,
+        "tag":"Excel Achieve Power"
+    },
+    {
+        "sport_id":29,
+        "tag":"Excel Excel Power"
+    },
+    {
+        "sport_id":30,
+        "tag":"Skill Victory Mastery"
+    },
+    {
+        "sport_id":31,
+        "tag":"Success Excel Success"
+    },
+    {
+        "sport_id":32,
+        "tag":"Success Power Victory"
+    },
+    {
+        "sport_id":34,
+        "tag":"Victory Victory Mastery"
+    },
+    {
+        "sport_id":35,
+        "tag":"Champion Win Achieve"
+    },
+    {
+        "sport_id":36,
+        "tag":"Strength Victory Mastery"
+    },
+    {
+        "sport_id":37,
+        "tag":"Success Strength Excel"
+    },
+    {
+        "sport_id":38,
+        "tag":"Strength Excel Strength"
+    },
+    {
+        "sport_id":39,
+        "tag":"Power Victory Strength"
+    },
+    {
+        "sport_id":40,
+        "tag":"Excel Power Achieve"
+    },
+    {
+        "sport_id":1,
+        "tag":"Success Strength Success"
+    },
+    {
+        "sport_id":2,
+        "tag":"Champion Skill Mastery"
+    },
+    {
+        "sport_id":3,
+        "tag":"Skill Victory Excel"
+    },
+    {
+        "sport_id":4,
+        "tag":"Strength Win Skill"
+    },
+    {
+        "sport_id":5,
+        "tag":"Mastery Win Power"
+    },
+    {
+        "sport_id":6,
+        "tag":"Strength Victory Excel"
+    },
+    {
+        "sport_id":7,
+        "tag":"Victory Excel Mastery"
+    },
+    {
+        "sport_id":8,
+        "tag":"Success Power Win"
+    },
+    {
+        "sport_id":9,
+        "tag":"Achieve Achieve Skill"
+    },
+    {
+        "sport_id":10,
+        "tag":"Skill Mastery Excel"
+    },
+    {
+        "sport_id":11,
+        "tag":"Strength Skill Strength"
+    },
+    {
+        "sport_id":12,
+        "tag":"Champion Win Champion"
+    },
+    {
+        "sport_id":13,
+        "tag":"Skill Skill Power"
+    },
+    {
+        "sport_id":14,
+        "tag":"Power Mastery Win"
+    },
+    {
+        "sport_id":15,
+        "tag":"Champion Skill Excel"
+    },
+    {
+        "sport_id":16,
+        "tag":"Victory Success Win"
+    },
+    {
+        "sport_id":17,
+        "tag":"Skill Champion Champion"
+    },
+    {
+        "sport_id":18,
+        "tag":"Achieve Success Achieve"
+    },
+    {
+        "sport_id":19,
+        "tag":"Success Champion Victory"
+    },
+    {
+        "sport_id":20,
+        "tag":"Achieve Power Excel"
+    },
+    {
+        "sport_id":21,
+        "tag":"Win Champion Mastery"
+    },
+    {
+        "sport_id":22,
+        "tag":"Strength Skill Victory"
+    },
+    {
+        "sport_id":23,
+        "tag":"Achieve Victory Skill"
+    },
+    {
+        "sport_id":24,
+        "tag":"Strength Champion Win"
+    },
+    {
+        "sport_id":25,
+        "tag":"Achieve Achieve Skill"
+    },
+    {
+        "sport_id":26,
+        "tag":"Achieve Achieve Achieve"
+    },
+    {
+        "sport_id":27,
+        "tag":"Victory Win Strength"
+    },
+    {
+        "sport_id":28,
+        "tag":"Victory Win Mastery"
+    },
+    {
+        "sport_id":29,
+        "tag":"Excel Power Win"
+    },
+    {
+        "sport_id":30,
+        "tag":"Victory Victory Excel"
+    },
+    {
+        "sport_id":31,
+        "tag":"Skill Win Champion"
+    },
+    {
+        "sport_id":32,
+        "tag":"Excel Champion Skill"
+    },
+    {
+        "sport_id":34,
+        "tag":"Skill Champion Strength"
+    },
+    {
+        "sport_id":35,
+        "tag":"Success Skill Achieve"
+    },
+    {
+        "sport_id":36,
+        "tag":"Champion Achieve Power"
+    },
+    {
+        "sport_id":37,
+        "tag":"Champion Champion Skill"
+    },
+    {
+        "sport_id":38,
+        "tag":"Power Champion Power"
+    },
+    {
+        "sport_id":39,
+        "tag":"Excel Skill Power"
+    },
+    {
+        "sport_id":40,
+        "tag":"Victory Strength Victory"
+    },
+    {
+        "sport_id":1,
+        "tag":"Victory Power Strength"
+    },
+    {
+        "sport_id":2,
+        "tag":"Win Achieve Power"
+    },
+    {
+        "sport_id":3,
+        "tag":"Win Success Win"
+    },
+    {
+        "sport_id":4,
+        "tag":"Strength Success Win"
+    },
+    {
+        "sport_id":5,
+        "tag":"Champion Win Power"
+    },
+    {
+        "sport_id":6,
+        "tag":"Excel Excel Skill"
+    },
+    {
+        "sport_id":7,
+        "tag":"Victory Champion Champion"
+    },
+    {
+        "sport_id":8,
+        "tag":"Power Success Success"
+    },
+    {
+        "sport_id":9,
+        "tag":"Achieve Skill Mastery"
+    },
+    {
+        "sport_id":10,
+        "tag":"Skill Win Achieve"
+    },
+    {
+        "sport_id":11,
+        "tag":"Skill Champion Success"
+    },
+    {
+        "sport_id":12,
+        "tag":"Champion Victory Victory"
+    },
+    {
+        "sport_id":13,
+        "tag":"Power Champion Excel"
+    },
+    {
+        "sport_id":14,
+        "tag":"Strength Power Win"
+    },
+    {
+        "sport_id":15,
+        "tag":"Mastery Strength Skill"
+    },
+    {
+        "sport_id":16,
+        "tag":"Skill Strength Excel"
+    },
+    {
+        "sport_id":17,
+        "tag":"Skill Success Victory"
+    },
+    {
+        "sport_id":18,
+        "tag":"Champion Champion Mastery"
+    },
+    {
+        "sport_id":19,
+        "tag":"Victory Win Win"
+    },
+    {
+        "sport_id":20,
+        "tag":"Skill Mastery Excel"
+    },
+    {
+        "sport_id":21,
+        "tag":"Mastery Power Strength"
+    },
+    {
+        "sport_id":22,
+        "tag":"Champion Success Achieve"
+    },
+    {
+        "sport_id":23,
+        "tag":"Excel Strength Success"
+    },
+    {
+        "sport_id":24,
+        "tag":"Excel Skill Mastery"
+    },
+    {
+        "sport_id":25,
+        "tag":"Strength Win Success"
+    },
+    {
+        "sport_id":26,
+        "tag":"Achieve Achieve Skill"
+    },
+    {
+        "sport_id":27,
+        "tag":"Power Excel Success"
+    },
+    {
+        "sport_id":28,
+        "tag":"Skill Mastery Success"
+    },
+    {
+        "sport_id":29,
+        "tag":"Excel Strength Champion"
+    },
+    {
+        "sport_id":30,
+        "tag":"Champion Achieve Victory"
+    },
+    {
+        "sport_id":31,
+        "tag":"Achieve Achieve Success"
+    },
+    {
+        "sport_id":32,
+        "tag":"Success Power Champion"
+    },
+    {
+        "sport_id":34,
+        "tag":"Success Strength Win"
+    },
+    {
+        "sport_id":35,
+        "tag":"Success Mastery Skill"
+    },
+    {
+        "sport_id":36,
+        "tag":"Mastery Skill Excel"
+    },
+    {
+        "sport_id":37,
+        "tag":"Power Victory Power"
+    },
+    {
+        "sport_id":38,
+        "tag":"Achieve Achieve Skill"
+    },
+    {
+        "sport_id":39,
+        "tag":"Champion Achieve Victory"
+    },
+    {
+        "sport_id":40,
+        "tag":"Success Excel Achieve"
+    }
+]

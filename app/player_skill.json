@@ -1,0 +1,2927 @@
+[
+    {
+        "sport_id": 1,
+        "skill": "Ball Control",
+        "description": "Maintaining possession under pressure"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Passing Accuracy",
+        "description": "Precision in delivering the ball"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Dribbling",
+        "description": "Maneuvering past opponents with the ball"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Shooting Power",
+        "description": "Forceful and accurate shots on goal"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Defensive Tactics",
+        "description": "Strategically positioning in defense"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Stamina",
+        "description": "Sustaining high performance throughout"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Speed",
+        "description": "Quick acceleration and sprinting"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Heading",
+        "description": "Effectively using head to control/score"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Vision",
+        "description": "Anticipating plays and open spaces"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Tackling",
+        "description": "Cleanly winning the ball from opponents"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Crossing",
+        "description": "Delivering accurate passes from the flanks"
+    },
+    {
+        "sport_id": 1,
+        "skill": "First Touch",
+        "description": "Controlling the ball on initial contact"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Positioning",
+        "description": "Being in the right place at the right time"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 1,
+        "skill": "Communication",
+        "description": "Clear and effective interaction with teammates"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Ball Handling",
+        "description": "Control over dribbling and passing"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Shooting Accuracy",
+        "description": "Precision in making field goals"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Court Vision",
+        "description": "Ability to see and anticipate plays"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Defensive Positioning",
+        "description": "Correct stance and positioning in defense"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Rebounding",
+        "description": "Securing the ball after missed shots"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Footwork",
+        "description": "Agile and coordinated foot movements"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Free Throw Shooting",
+        "description": "Consistency in making free throws"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Speed and Agility",
+        "description": "Quickness and nimbleness on the court"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Vertical Leap",
+        "description": "Jump height, crucial for rebounds/blocks"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Passing",
+        "description": "Accuracy and speed in delivering passes"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Stamina",
+        "description": "Endurance to sustain high energy levels"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Basketball IQ",
+        "description": "Understanding and strategic thinking"
+    },
+    {
+        "sport_id": 2,
+        "skill": "On-Ball Defense",
+        "description": "Guarding the player with the ball"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Off-Ball Movement",
+        "description": "Effective movement without the ball"
+    },
+    {
+        "sport_id": 2,
+        "skill": "Leadership",
+        "description": "Ability to motivate and lead the team"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Right Handed Batsman",
+        "description": "Batting with the right hand"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Left Handed Batsman",
+        "description": "Batting with the left hand"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Right Arm Fast Bowler",
+        "description": "Bowling fast with the right arm"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Left Arm Fast Bowler",
+        "description": "Bowling fast with the left arm"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Right Arm Spin Bowler",
+        "description": "Bowling spin with the right arm"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Left Arm Spin Bowler",
+        "description": "Bowling spin with the left arm"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Wicket Keeping",
+        "description": "Skills in catching and stumping"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Slip Fielding",
+        "description": "Catching in the slip position"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Outfield Throwing",
+        "description": "Strong and accurate throws from outfield"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Fast Running Between Wickets",
+        "description": "Quick and agile running"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Pull Shot",
+        "description": "Hitting short-pitched balls"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Cover Drive",
+        "description": "Executing cover drives elegantly"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Swing Bowling",
+        "description": "Ability to swing the ball in the air"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Reverse Swing Bowling",
+        "description": "Ability to reverse swing the ball"
+    },
+    {
+        "sport_id": 3,
+        "skill": "Yorker Bowling",
+        "description": "Delivering accurate yorkers"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Punching Power",
+        "description": "Delivering forceful punches"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Kicking Technique",
+        "description": "Proper form and accuracy in kicks"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Stance Stability",
+        "description": "Maintaining strong and balanced stances"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Blocking",
+        "description": "Effective defense against attacks"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Speed",
+        "description": "Quick execution of techniques"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Flexibility",
+        "description": "High range of motion in joints"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Timing",
+        "description": "Executing moves at the right moment"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Breathing Control",
+        "description": "Managing breath for power and endurance"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Endurance",
+        "description": "Sustaining energy throughout the bout"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Sparring Skills",
+        "description": "Competence in practice fighting"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Kata Proficiency",
+        "description": "Mastery of predefined forms and sequences"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Reaction Time",
+        "description": "Quick responses to opponent's moves"
+    },
+    {
+        "sport_id": 4,
+        "skill": "Discipline",
+        "description": "Adherence to training and ethical codes"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Stroke Technique",
+        "description": "Efficient and effective stroke execution"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Breath Control",
+        "description": "Proper breathing for endurance"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Starts and Turns",
+        "description": "Quick and efficient starts and turns"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Kicking Power",
+        "description": "Strong and rhythmic kicks"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Body Position",
+        "description": "Maintaining optimal body alignment"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Endurance",
+        "description": "Sustaining energy over long distances"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Speed",
+        "description": "High velocity in the water"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Flexibility",
+        "description": "Range of motion for strokes and kicks"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Stamina",
+        "description": "Sustaining high performance throughout"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Pacing Strategy",
+        "description": "Effective management of race pace"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Coordination",
+        "description": "Harmonious movement of arms and legs"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Reaction Time",
+        "description": "Quick response to start signals"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Hydrodynamics",
+        "description": "Reducing drag for smoother movement"
+    },
+    {
+        "sport_id": 5,
+        "skill": "Training Discipline",
+        "description": "Consistent and rigorous training habits"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Smash Power",
+        "description": "Delivering forceful overhead smashes"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Drop Shot Accuracy",
+        "description": "Precision in placing delicate drop shots"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Net Play",
+        "description": "Skillful handling at the net"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Footwork",
+        "description": "Agile and coordinated movement"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Stamina",
+        "description": "Sustaining energy throughout matches"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Defensive Clear",
+        "description": "Strong and high defensive clears"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Serve Technique",
+        "description": "Effective and varied serve execution"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Court Awareness",
+        "description": "Understanding and utilizing court space"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Speed",
+        "description": "Quick movement and reactions"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Agility",
+        "description": "Ability to change direction rapidly"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Backhand Proficiency",
+        "description": "Skillful use of backhand shots"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Timing",
+        "description": "Perfectly timed strokes and movements"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Flexibility",
+        "description": "High range of motion for shots"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Shot Variety",
+        "description": "Utilizing a wide range of shots"
+    },
+    {
+        "sport_id": 6,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Driving Accuracy",
+        "description": "Precision in long-distance tee shots"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Iron Play",
+        "description": "Accuracy and control with irons"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Putting",
+        "description": "Precision and control on the greens"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Chipping",
+        "description": "Short and accurate shots near the green"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Sand Play",
+        "description": "Effective shots from bunkers"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Course Management",
+        "description": "Strategic planning and shot selection"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Swing Technique",
+        "description": "Proper form and mechanics of the swing"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Stamina",
+        "description": "Endurance for long rounds"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Flexibility",
+        "description": "Range of motion for optimal swings"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Shot Shaping",
+        "description": "Ability to control the ball's flight path"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Club Selection",
+        "description": "Choosing the right club for each shot"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Distance Control",
+        "description": "Managing shot power and distance"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Grip",
+        "description": "Proper hand placement on the club"
+    },
+    {
+        "sport_id": 7,
+        "skill": "Rhythm and Tempo",
+        "description": "Consistent swing speed and timing"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Trigger Control",
+        "description": "Smooth and steady trigger pull"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Sight Alignment",
+        "description": "Precise alignment of sights with target"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Breathing Control",
+        "description": "Proper breath management during shots"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Stance Stability",
+        "description": "Maintaining a steady and balanced stance"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Focus",
+        "description": "Intense concentration on the target"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Grip",
+        "description": "Correct and firm hand placement"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Follow Through",
+        "description": "Maintaining form after the shot"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Recoil Management",
+        "description": "Controlling the gun's recoil"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Shot Timing",
+        "description": "Timing the shot with target movement"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Precision",
+        "description": "High level of accuracy in shooting"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Endurance",
+        "description": "Sustaining performance over sessions"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Wind Reading",
+        "description": "Adjusting for wind conditions"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Ballistics Knowledge",
+        "description": "Understanding bullet trajectory and behavior"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Equipment Handling",
+        "description": "Proper use and maintenance of equipment"
+    },
+    {
+        "sport_id": 8,
+        "skill": "Mental Resilience",
+        "description": "Psychological strength under pressure"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Striking Power",
+        "description": "Delivering forceful punches and kicks"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Grappling Technique",
+        "description": "Proficiency in takedowns and holds"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Submission Skills",
+        "description": "Applying and defending against submissions"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Clinch Work",
+        "description": "Effective control in close quarters"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Ground and Pound",
+        "description": "Striking effectively on the ground"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Cardio Conditioning",
+        "description": "High-level cardiovascular endurance"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Speed",
+        "description": "Quick movements and reactions"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Flexibility",
+        "description": "Range of motion for strikes and defenses"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Takedown Defense",
+        "description": "Preventing opponent's takedown attempts"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Footwork",
+        "description": "Agile and precise movement around the cage"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Balance",
+        "description": "Maintaining stability during exchanges"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Fight IQ",
+        "description": "Strategic thinking and adaptability"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Agility",
+        "description": "Rapid directional changes"
+    },
+    {
+        "sport_id": 9,
+        "skill": "Stamina",
+        "description": "Sustaining high energy over multiple rounds"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Raiding Technique",
+        "description": "Effective strategies for successful raids"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Tackling Skills",
+        "description": "Proficient in stopping and pinning raiders"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Speed",
+        "description": "Quick movements and rapid raiding"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Agility",
+        "description": "Swift and nimble footwork"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Stamina",
+        "description": "High endurance for sustained performance"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Strength",
+        "description": "Physical power for raiding and defense"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Breath Control",
+        "description": "Managing breath while raiding"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Anticipation",
+        "description": "Predicting opponent's moves"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Dodging Ability",
+        "description": "Evading tackles effectively"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Defensive Positioning",
+        "description": "Proper stance and spacing in defense"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Coordination",
+        "description": "Harmonious team movements and tactics"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Mat Awareness",
+        "description": "Understanding and utilizing mat space"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Hand Touch",
+        "description": "Quick and precise hand touches in raids"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 10,
+        "skill": "Communication",
+        "description": "Clear interaction with team members"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Flexibility",
+        "description": "High range of motion in joints"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Balance",
+        "description": "Maintaining stability on apparatus"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Strength",
+        "description": "Physical power for executing skills"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Endurance",
+        "description": "Sustaining energy through routines"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Tumbling Skills",
+        "description": "Proficiency in acrobatic moves"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Bar Skills",
+        "description": "Mastery of uneven and parallel bars"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Vaulting Technique",
+        "description": "Proper form and execution in vault"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Ring Skills",
+        "description": "Strength and control on rings"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Beam Skills",
+        "description": "Precision and poise on balance beam"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Floor Routine",
+        "description": "Artistic and acrobatic floor exercises"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Grip Strength",
+        "description": "Strong grip for apparatus handling"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 11,
+        "skill": "Artistic Expression",
+        "description": "Aesthetic and expressive movements"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Drawing Technique",
+        "description": "Mastery in pencil and ink drawing"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Color Theory",
+        "description": "Understanding and applying color harmony"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Composition",
+        "description": "Arranging elements pleasingly"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Sculpting",
+        "description": "Creating three-dimensional artworks"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Digital Art Skills",
+        "description": "Proficiency in digital illustration"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Perspective",
+        "description": "Creating depth and dimension"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Shading",
+        "description": "Adding light and shadow for realism"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Art History",
+        "description": "Knowledge of art movements and styles"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Creativity",
+        "description": "Generating original and innovative ideas"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Anatomy",
+        "description": "Understanding human and animal anatomy"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Printmaking",
+        "description": "Creating artworks through print processes"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Mixed Media",
+        "description": "Combining different art materials"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Concept Development",
+        "description": "Developing ideas from concept to execution"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Technical Skills",
+        "description": "Mastery of art tools and materials"
+    },
+    {
+        "sport_id": 12,
+        "skill": "Critique Ability",
+        "description": "Analyzing and improving art works"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Opening Theory",
+        "description": "Mastery of opening moves and strategies"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Middle Game Tactics",
+        "description": "Planning and executing tactics mid-game"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Endgame Technique",
+        "description": "Precision in concluding the game"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Positional Play",
+        "description": "Understanding and controlling positions"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Calculation",
+        "description": "Analyzing and predicting future moves"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Pattern Recognition",
+        "description": "Identifying recurring positions and tactics"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Time Management",
+        "description": "Efficiently using allotted time"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Tactical Vision",
+        "description": "Spotting immediate tactical opportunities"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Strategic Planning",
+        "description": "Long-term planning and goal setting"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Board Visualization",
+        "description": "Imagining board scenarios without seeing them"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Concentration",
+        "description": "Sustained focus and attention"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Patience",
+        "description": "Waiting for the right moment to act"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Adaptability",
+        "description": "Adjusting strategies based on opponent"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Opening Preparation",
+        "description": "Preparing specific openings for opponents"
+    },
+    {
+        "sport_id": 13,
+        "skill": "Psychological Resilience",
+        "description": "Maintaining composure under pressure"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Physical Fitness",
+        "description": "Overall strength, speed, and endurance"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Technical Skills",
+        "description": "Proficiency in sport-specific techniques"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Tactical Awareness",
+        "description": "Understanding game strategies and tactics"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Teamwork",
+        "description": "Working effectively with team members"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Decision Making",
+        "description": "Making quick and effective decisions"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Flexibility",
+        "description": "Range of motion in joints and muscles"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Communication",
+        "description": "Clear and effective interaction with others"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout the game"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Balance",
+        "description": "Maintaining stability during movements"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Adaptability",
+        "description": "Adjusting to changing game situations"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Focus",
+        "description": "Sustained concentration and attention"
+    },
+    {
+        "sport_id": 14,
+        "skill": "Sportsmanship",
+        "description": "Fair play, respect, and ethical behavior"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Stick Handling",
+        "description": "Controlling the puck with the stick"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Skating Speed",
+        "description": "Quick movement across the ice"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Passing Accuracy",
+        "description": "Precision in delivering the puck"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Shooting Power",
+        "description": "Delivering forceful shots on goal"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Defensive Positioning",
+        "description": "Proper stance and spacing in defense"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Checking",
+        "description": "Using body or stick to block opponents"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Agility",
+        "description": "Quick and nimble movements on ice"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout games"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Puck Control",
+        "description": "Maintaining possession under pressure"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Vision",
+        "description": "Anticipating plays and open spaces"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Faceoff Skills",
+        "description": "Winning puck drops at faceoffs"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Balance",
+        "description": "Maintaining stability on skates"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Shot Accuracy",
+        "description": "Precision in aiming shots"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Teamwork",
+        "description": "Effective coordination with teammates"
+    },
+    {
+        "sport_id": 15,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Serve Technique",
+        "description": "Effective and powerful serve execution"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Forehand Stroke",
+        "description": "Precision and power in forehand shots"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Backhand Stroke",
+        "description": "Consistent and accurate backhand shots"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Volleying",
+        "description": "Effective play at the net"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Footwork",
+        "description": "Agile and precise movement on the court"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout matches"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Speed",
+        "description": "Quick movement and reaction time"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Spin Control",
+        "description": "Adding topspin or backspin to shots"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Return of Serve",
+        "description": "Effective and controlled return of serves"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Court Awareness",
+        "description": "Strategic use of court space"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Drop Shots",
+        "description": "Precision in executing delicate drop shots"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Smash Technique",
+        "description": "Powerful overhead shots"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Slice Shots",
+        "description": "Adding slice to shots for control"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 16,
+        "skill": "Shot Selection",
+        "description": "Choosing the right shot in different situations"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Takedown Techniques",
+        "description": "Effective methods to bring opponents down"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Pinning Combinations",
+        "description": "Securing opponents' shoulders to the mat"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Escape Skills",
+        "description": "Breaking free from holds and pins"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Reversal Techniques",
+        "description": "Turning defense into an offensive position"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Clinch Work",
+        "description": "Control and maneuvers from the clinch"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Grip Strength",
+        "description": "Strong grip for holds and maneuvers"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Stamina",
+        "description": "Endurance to sustain high-intensity bouts"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Balance",
+        "description": "Maintaining stability during exchanges"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Flexibility",
+        "description": "High range of motion for techniques"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Strategic Planning",
+        "description": "Developing and executing match strategies"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Weight Management",
+        "description": "Maintaining optimal body weight"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Counter Techniques",
+        "description": "Defending and countering opponent's moves"
+    },
+    {
+        "sport_id": 17,
+        "skill": "Conditioning",
+        "description": "Overall physical fitness and endurance"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Punching Power",
+        "description": "Delivering forceful punches"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Footwork",
+        "description": "Agile and precise movement in the ring"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Defensive Skills",
+        "description": "Blocking, slipping, and parrying punches"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Hand Speed",
+        "description": "Quick and rapid punches"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout rounds"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Ring IQ",
+        "description": "Strategic thinking and awareness"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Combination Punching",
+        "description": "Executing effective punch combinations"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Head Movement",
+        "description": "Dodging and avoiding punches"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Counterpunching",
+        "description": "Defending and countering opponent's punches"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Balance",
+        "description": "Maintaining stability during exchanges"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Agility",
+        "description": "Quick directional changes and movement"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Timing",
+        "description": "Executing punches at the right moment"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Conditioning",
+        "description": "Overall physical fitness and endurance"
+    },
+    {
+        "sport_id": 18,
+        "skill": "Punch Accuracy",
+        "description": "Precision in landing punches"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Vehicle Control",
+        "description": "Mastery in handling and controlling the vehicle"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Racing Lines",
+        "description": "Optimizing paths through corners"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Brake Control",
+        "description": "Precision in braking techniques"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Acceleration",
+        "description": "Effective throttle application"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Gear Shifting",
+        "description": "Smooth and timely gear changes"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Situational Awareness",
+        "description": "Awareness of surroundings on track"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Reaction Time",
+        "description": "Quick response to changing conditions"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Stamina",
+        "description": "Sustaining focus and physical endurance"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Tire Management",
+        "description": "Efficient use of tires throughout the race"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Race Strategy",
+        "description": "Planning and executing race tactics"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience under pressure"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Data Analysis",
+        "description": "Interpreting telemetry and performance data"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Communication",
+        "description": "Clear interaction with pit crew"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Adaptability",
+        "description": "Adjusting to different track conditions"
+    },
+    {
+        "sport_id": 19,
+        "skill": "Safety Awareness",
+        "description": "Prioritizing safety for self and others"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Cue Ball Control",
+        "description": "Precision in positioning the cue ball"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Shot Selection",
+        "description": "Choosing the best shots strategically"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Stance and Grip",
+        "description": "Proper posture and hand placement"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Stroke Technique",
+        "description": "Smooth and consistent stroke execution"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Spin Control",
+        "description": "Applying and controlling cue ball spin"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Positional Play",
+        "description": "Setting up the next shot effectively"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Break Shot",
+        "description": "Powerful and controlled opening shot"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Bank Shots",
+        "description": "Making shots off the cushions"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Safety Play",
+        "description": "Defensive shots to limit opponent's options"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Angle Calculation",
+        "description": "Understanding and using shot angles"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Concentration",
+        "description": "Sustained focus throughout the game"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Table Awareness",
+        "description": "Understanding table conditions and layout"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Shot Planning",
+        "description": "Planning sequences of shots ahead"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 20,
+        "skill": "Precision",
+        "description": "High level of accuracy in shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Serve Technique",
+        "description": "Effective and varied serve execution"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Forehand Drive",
+        "description": "Powerful and accurate forehand shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Backhand Drive",
+        "description": "Consistent and controlled backhand shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Spin Control",
+        "description": "Applying and managing topspin and backspin"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Footwork",
+        "description": "Agile and precise movement around the table"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Block Technique",
+        "description": "Defending against powerful shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Looping",
+        "description": "Executing topspin loops effectively"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Push Shots",
+        "description": "Controlling short and low shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Flick Shots",
+        "description": "Quick and aggressive shots close to the net"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Counter Drive",
+        "description": "Responding to attacks with offensive shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Smash Technique",
+        "description": "Powerful overhead shots"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Serve Return",
+        "description": "Effective and controlled return of serves"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Shot Placement",
+        "description": "Strategically placing shots on the table"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 21,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout matches"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Pole Dive",
+        "description": "Executing a dive around the pole"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Chain Tactic",
+        "description": "Using teammates to trap the runner"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Turning Technique",
+        "description": "Quick and efficient turning around poles"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Pole Turn",
+        "description": "Swift and precise turn around the pole"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Dodging Skills",
+        "description": "Evading opponents while running"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Running Speed",
+        "description": "Quick sprinting during the game"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Agility",
+        "description": "Rapid directional changes"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Tagging Technique",
+        "description": "Efficiently tagging opponents"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Pole Tap",
+        "description": "Accurate tap to pass chase"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout matches"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Anticipation",
+        "description": "Predicting opponent's moves"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Team Coordination",
+        "description": "Synchronizing with teammates"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Defensive Strategy",
+        "description": "Planning and executing defensive tactics"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 22,
+        "skill": "Positional Awareness",
+        "description": "Knowing positions and roles on the field"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Serve Technique",
+        "description": "Effective and varied serve execution"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Forehand Drive",
+        "description": "Powerful and accurate forehand shots"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Backhand Drive",
+        "description": "Consistent and controlled backhand shots"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Volleying",
+        "description": "Effective play close to the front wall"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Footwork",
+        "description": "Agile and precise movement on the court"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout matches"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Speed",
+        "description": "Quick movement and reaction time"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Drop Shots",
+        "description": "Precision in executing delicate drop shots"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Lob Shots",
+        "description": "Effective high shots to gain time"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Boast Shots",
+        "description": "Angled shots off the side walls"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Court Awareness",
+        "description": "Strategic use of court space"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Shot Selection",
+        "description": "Choosing the right shot in different situations"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Deception",
+        "description": "Disguising shot intentions"
+    },
+    {
+        "sport_id": 23,
+        "skill": "Recovery Skills",
+        "description": "Quickly returning to ready position after shots"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Footwork",
+        "description": "Agile and precise movement on the piste"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Blade Control",
+        "description": "Mastery in handling the fencing blade"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Parrying",
+        "description": "Deflecting opponent's attacks"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Riposte Technique",
+        "description": "Counter-attacking after a successful parry"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Lunge",
+        "description": "Executing a quick and powerful thrust"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Feints",
+        "description": "Deceptive movements to confuse opponent"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Distance Management",
+        "description": "Maintaining optimal distance from opponent"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Timing",
+        "description": "Executing attacks at the right moment"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Defensive Skills",
+        "description": "Blocking and evading opponent's attacks"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Attack Strategy",
+        "description": "Planning and executing offensive moves"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Agility",
+        "description": "Quick directional changes"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Reaction Time",
+        "description": "Quick response to opponent's moves"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout bouts"
+    },
+    {
+        "sport_id": 24,
+        "skill": "Tactics",
+        "description": "Strategic planning and adaptability"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Balance",
+        "description": "Maintaining stability on skates"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Speed Control",
+        "description": "Managing and adjusting skating speed"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Edge Work",
+        "description": "Using edges of the skates effectively"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Turning Technique",
+        "description": "Executing sharp and smooth turns"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Stamina",
+        "description": "Sustaining energy throughout routines"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Agility",
+        "description": "Quick and nimble movements on skates"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Jumping",
+        "description": "Executing jumps with height and precision"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Spin Technique",
+        "description": "Performing spins with control"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Footwork",
+        "description": "Agile and precise movements on the ice"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Flexibility",
+        "description": "Range of motion for jumps and spins"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Glide Efficiency",
+        "description": "Smooth and long glides on the ice"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Dance Skills",
+        "description": "Artistic and rhythmic skating movements"
+    },
+    {
+        "sport_id": 25,
+        "skill": "Technical Skills",
+        "description": "Mastery of skating techniques and elements"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Sprinting Speed",
+        "description": "High velocity over short distances"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Endurance",
+        "description": "Sustaining performance over long distances"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Jumping Technique",
+        "description": "Efficient form in jumps"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Throwing Power",
+        "description": "Forceful and precise throws"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Stamina",
+        "description": "Maintaining energy throughout events"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Flexibility",
+        "description": "Range of motion in joints and muscles"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Strength",
+        "description": "Overall physical power and force"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Balance",
+        "description": "Maintaining stability during movements"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Pacing Strategy",
+        "description": "Effective management of race pace"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Reaction Time",
+        "description": "Quick response to start signals"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Technique Efficiency",
+        "description": "Performing skills with minimal energy"
+    },
+    {
+        "sport_id": 26,
+        "skill": "Injury Prevention",
+        "description": "Techniques to avoid injuries"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Serving",
+        "description": "Effective and powerful serve execution"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Passing",
+        "description": "Accurate and controlled ball handling"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Setting",
+        "description": "Precise ball placement for attackers"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Hitting",
+        "description": "Powerful and strategic attacks"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Blocking",
+        "description": "Preventing opponent's attacks at the net"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Digging",
+        "description": "Defensive skills to prevent ball from hitting the ground"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Footwork",
+        "description": "Agile and precise movement on the court"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout matches"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Jumping Ability",
+        "description": "High vertical leap for blocks and spikes"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Court Awareness",
+        "description": "Understanding and utilizing court space"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Communication",
+        "description": "Clear interaction with teammates"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Reflexes",
+        "description": "Quick reaction to the ball"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Team Coordination",
+        "description": "Synchronizing plays with teammates"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 27,
+        "skill": "Adaptability",
+        "description": "Adjusting strategies based on the game situation"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Kicking Technique",
+        "description": "Proper form and accuracy in kicks"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Punching Power",
+        "description": "Delivering forceful punches"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Flexibility",
+        "description": "High range of motion in kicks and strikes"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Stance Stability",
+        "description": "Maintaining strong and balanced stances"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Blocking",
+        "description": "Effective defense against attacks"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Speed",
+        "description": "Quick execution of techniques"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Timing",
+        "description": "Executing moves at the right moment"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Sparring Skills",
+        "description": "Competence in practice fighting"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Endurance",
+        "description": "Sustaining energy throughout the bout"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Combination Attacks",
+        "description": "Executing multiple strikes seamlessly"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Breathing Control",
+        "description": "Managing breath for power and endurance"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Mental Focus",
+        "description": "Concentration and psychological strength"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Defensive Movement",
+        "description": "Evading and countering opponent's attacks"
+    },
+    {
+        "sport_id": 28,
+        "skill": "Discipline",
+        "description": "Adherence to training and ethical codes"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Draw Strength",
+        "description": "Ability to pull the bowstring effectively"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Aim Stability",
+        "description": "Maintaining steady aim"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Release Technique",
+        "description": "Smooth and controlled release of the arrow"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Stance",
+        "description": "Proper body position and alignment"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Focus",
+        "description": "Concentration on the target"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Breath Control",
+        "description": "Managing breathing to steady aim"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Consistency",
+        "description": "Repeating the same form for every shot"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Distance Judging",
+        "description": "Accurately judging the distance to target"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Wind Reading",
+        "description": "Adjusting shots for wind conditions"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Equipment Tuning",
+        "description": "Properly setting up and maintaining equipment"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Shot Timing",
+        "description": "Releasing the arrow at the optimal moment"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Flexibility",
+        "description": "Range of motion in drawing and aiming"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Balance",
+        "description": "Maintaining stability during the shot"
+    },
+    {
+        "sport_id": 29,
+        "skill": "Strength Endurance",
+        "description": "Sustaining physical strength over long sessions"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Passing Accuracy",
+        "description": "Precision in delivering passes"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Tackling",
+        "description": "Effective and safe tackling techniques"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Running Speed",
+        "description": "High velocity on the field"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Kicking Skills",
+        "description": "Accurate and powerful kicks"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout the game"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Strength",
+        "description": "Physical power for tackles and scrums"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Game Awareness",
+        "description": "Understanding and reading the game"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Handling Skills",
+        "description": "Efficient ball control under pressure"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Defensive Skills",
+        "description": "Blocking and intercepting opposition plays"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Scrummaging",
+        "description": "Technique and power in scrums"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Lineout Skills",
+        "description": "Effective jumping and catching in lineouts"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Support Play",
+        "description": "Positioning to support teammates"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Decision Making",
+        "description": "Quick and effective in-game decisions"
+    },
+    {
+        "sport_id": 30,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Strength Training",
+        "description": "Developing muscle power and endurance"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Cardiovascular Fitness",
+        "description": "Improving heart and lung capacity"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Flexibility",
+        "description": "Increasing range of motion in joints"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Balance",
+        "description": "Maintaining stability during exercises"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Agility",
+        "description": "Quick and nimble movements"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Stamina",
+        "description": "Sustaining high energy throughout workouts"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Technique",
+        "description": "Proper form and execution of exercises"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Weight Lifting",
+        "description": "Safe and effective lifting techniques"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Core Strength",
+        "description": "Building a strong midsection"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Endurance Training",
+        "description": "Prolonged physical activity capability"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Speed Training",
+        "description": "Enhancing quickness and acceleration"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Body Composition",
+        "description": "Managing body fat and muscle mass"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Mental Toughness",
+        "description": "Psychological resilience and focus"
+    },
+    {
+        "sport_id": 31,
+        "skill": "Injury Prevention",
+        "description": "Techniques to avoid injuries"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Flexibility",
+        "description": "High range of motion in joints and muscles"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Balance",
+        "description": "Maintaining stability in poses"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Strength",
+        "description": "Building muscle power for various asanas"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Endurance",
+        "description": "Sustaining energy through long sessions"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Breath Control",
+        "description": "Managing breath to enhance performance"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Coordination",
+        "description": "Harmonious movement of body parts"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Focus",
+        "description": "Concentration and mental clarity"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Posture Alignment",
+        "description": "Proper alignment in yoga poses"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Core Stability",
+        "description": "Strong core for balance and support"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Mindfulness",
+        "description": "Being present and aware in practice"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Relaxation",
+        "description": "Ability to release tension and stress"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Adaptability",
+        "description": "Modifying poses to suit individual needs"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Body Awareness",
+        "description": "Understanding body mechanics and limits"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Meditation",
+        "description": "Practicing mental and emotional calmness"
+    },
+    {
+        "sport_id": 32,
+        "skill": "Consistency",
+        "description": "Maintaining a regular yoga practice"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Communication",
+        "description": "Ability to convey ideas clearly to clients"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Motivation",
+        "description": "Encouraging clients to reach their fitness goals"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Adaptability",
+        "description": "Adjusting programs based on client needs"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Technical Knowledge",
+        "description": "Understanding exercise techniques and body mechanics"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Assessment",
+        "description": "Evaluating client fitness levels accurately"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Goal Setting",
+        "description": "Helping clients set achievable fitness targets"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Nutritional Guidance",
+        "description": "Advising on diet to support fitness goals"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Programming",
+        "description": "Creating personalized workout plans"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Injury Prevention",
+        "description": "Ensuring exercises are safe and effective"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Customer Service",
+        "description": "Providing a positive client experience"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Business Acumen",
+        "description": "Understanding business operations in fitness industry"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Sales Skills",
+        "description": "Ability to sell training packages"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Networking",
+        "description": "Building relationships within the fitness community"
+    },
+    {
+        "sport_id": 34,
+        "skill": "Time Management",
+        "description": "Efficiently managing training schedules"
+    },
+    {
+        "sport_id": 34,
+        "skill": "CPR/First Aid",
+        "description": "Knowledge of emergency procedures"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Hand-Eye Coordination",
+        "description": "Precision in stick movements"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Footwork Agility",
+        "description": "Swift and controlled foot movements"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Stamina",
+        "description": "Sustained energy for long sessions"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Flexibility",
+        "description": "Ability to perform complex maneuvers"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Reaction Speed",
+        "description": "Quick response to opponent\u2019s moves"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Balance Control",
+        "description": "Maintaining stability during movements"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Stick Handling",
+        "description": "Mastery in controlling the stick"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Timing",
+        "description": "Perfect execution timing"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Defensive Techniques",
+        "description": "Effective blocking and dodging"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Offensive Techniques",
+        "description": "Precise and powerful strikes"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Body Conditioning",
+        "description": "Physical fitness and endurance"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Focus",
+        "description": "Concentration during combat"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Rhythm",
+        "description": "Smooth flow of movements"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Grip Strength",
+        "description": "Strong and firm stick holding"
+    },
+    {
+        "sport_id": 35,
+        "skill": "Spatial Awareness",
+        "description": "Understanding of combat space"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Batting Technique",
+        "description": "Proper stance and swing mechanics"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Pitching Mechanics",
+        "description": "Efficient delivery and control"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Fielding Range",
+        "description": "Ability to cover ground quickly"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Arm Strength",
+        "description": "Powerful and accurate throws"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Base Running",
+        "description": "Speed and intelligence on bases"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Situational Hitting",
+        "description": "Adapting to game context when batting"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Plate Discipline",
+        "description": "Ability to judge pitches accurately"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Catching Skills",
+        "description": "Effective catching techniques"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Infield Communication",
+        "description": "Coordinating with teammates"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Outfield Footwork",
+        "description": "Proper movement to field balls"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Bunting",
+        "description": "Precise and strategic bunting"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Throwing Accuracy",
+        "description": "Consistent precision in throws"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Defensive Positioning",
+        "description": "Optimal placement on the field"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Pitch Recognition",
+        "description": "Identifying types of pitches"
+    },
+    {
+        "sport_id": 36,
+        "skill": "Mental Toughness",
+        "description": "Resilience under pressure"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Cue Control",
+        "description": "Precision in cue ball handling"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Shot Accuracy",
+        "description": "Accurate aim and shot execution"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Positional Play",
+        "description": "Strategic placement of the cue ball"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Break Building",
+        "description": "Effective scoring during breaks"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Safety Play",
+        "description": "Defensive shots to limit opponent's options"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Potting Skills",
+        "description": "Consistent pocketing of balls"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Cue Power",
+        "description": "Adequate force control for shots"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Spin Mastery",
+        "description": "Control over cue ball spin"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Mental Focus",
+        "description": "Concentration during long matches"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Tactical Thinking",
+        "description": "Strategic planning and shot selection"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Bridging",
+        "description": "Stable hand positioning on the table"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Table Awareness",
+        "description": "Understanding of table layout and angles"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Pre-Shot Routine",
+        "description": "Consistent setup before shots"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Pressure Handling",
+        "description": "Performance under competitive pressure"
+    },
+    {
+        "sport_id": 37,
+        "skill": "Visualization",
+        "description": "Imagining shots before execution"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Striking Precision",
+        "description": "Accurate and controlled striking"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Board Control",
+        "description": "Mastery over carrom board dynamics"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Shot Selection",
+        "description": "Strategic choice of shots"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Flicking Technique",
+        "description": "Proper flicking method and power"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Spin Control",
+        "description": "Managing spin for better outcomes"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Defensive Play",
+        "description": "Blocking opponent's moves"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Pocketing Skills",
+        "description": "Consistent pocketing of coins"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Concentration",
+        "description": "Focus during intense matches"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Angle Calculation",
+        "description": "Precise angle estimation"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Pressure Handling",
+        "description": "Performing well under pressure"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Finger Strength",
+        "description": "Adequate strength for striking"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Rebound Shots",
+        "description": "Effective use of rebound shots"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Game Strategy",
+        "description": "Planning overall game approach"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Smooth Release",
+        "description": "Ensuring smooth release of striker"
+    },
+    {
+        "sport_id": 38,
+        "skill": "Board Maintenance",
+        "description": "Keeping board in optimal condition"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Throwing Accuracy",
+        "description": "Precise and targeted throws"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Passing Skills",
+        "description": "Quick and accurate passes"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Dribbling Technique",
+        "description": "Controlled and efficient dribbling"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Shooting Power",
+        "description": "Strong and forceful shots"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Defensive Stance",
+        "description": "Effective positioning in defense"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Blocking",
+        "description": "Intercepting opponent\u2019s passes and shots"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Footwork Agility",
+        "description": "Swift and agile foot movements"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Goalkeeping Reflexes",
+        "description": "Quick reactions to block shots"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Team Coordination",
+        "description": "Synchronization with teammates"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Endurance",
+        "description": "Sustained energy and stamina"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Speed",
+        "description": "Fast movement across the court"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Tactical Awareness",
+        "description": "Understanding and executing game strategies"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Jumping Ability",
+        "description": "High and controlled jumps"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Ball Handling",
+        "description": "Mastery in controlling the ball"
+    },
+    {
+        "sport_id": 39,
+        "skill": "Mental Resilience",
+        "description": "Staying focused under pressure"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Flexibility",
+        "description": "High range of motion and agility"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Balance Control",
+        "description": "Maintaining stability during moves"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Strength",
+        "description": "Powerful strikes and holds"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Speed",
+        "description": "Quick execution of techniques"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Stamina",
+        "description": "Sustained endurance during practice"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Weapon Mastery",
+        "description": "Skilled handling of traditional weapons"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Agility",
+        "description": "Swift movements and dodges"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Coordination",
+        "description": "Harmonizing body and weapon movements"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Defensive Skills",
+        "description": "Effective blocking and countering"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Offensive Techniques",
+        "description": "Powerful and precise attacks"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Breathing Control",
+        "description": "Managing breath for energy efficiency"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Mental Focus",
+        "description": "Concentration and mindfulness"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Reflexes",
+        "description": "Quick response to opponent's moves"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Stance Mastery",
+        "description": "Correct and strong postures"
+    },
+    {
+        "sport_id": 40,
+        "skill": "Body Conditioning",
+        "description": "Physical fitness and conditioning"
+    }
+]

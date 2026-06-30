@@ -1,0 +1,977 @@
+[
+    {
+        "sport_id": 1,
+        "specification": "position",
+        "description": "Striker"
+    },
+    {
+        "sport_id": 1,
+        "specification": "foot preference",
+        "description": "Right-footed"
+    },
+    {
+        "sport_id": 1,
+        "specification": "playing style",
+        "description": "Attacking Midfielder"
+    },
+    {
+        "sport_id": 1,
+        "specification": "defensive role",
+        "description": "Center-back"
+    },
+    {
+        "sport_id": 1,
+        "specification": "goalkeeping skills",
+        "description": "Excellent shot-stopper"
+    },
+    {
+        "sport_id": 2,
+        "specification": "position",
+        "description": "Point Guard"
+    },
+    {
+        "sport_id": 2,
+        "specification": "shooting hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 2,
+        "specification": "playing style",
+        "description": "Fast Break Specialist"
+    },
+    {
+        "sport_id": 2,
+        "specification": "defensive role",
+        "description": "Perimeter Defender"
+    },
+    {
+        "sport_id": 2,
+        "specification": "dribbling skills",
+        "description": "Excellent Ball Handler"
+    },
+    {
+        "sport_id": 3,
+        "specification": "batting style",
+        "description": "Right-handed batsman"
+    },
+    {
+        "sport_id": 3,
+        "specification": "bowling style",
+        "description": "Left-arm fast bowler"
+    },
+    {
+        "sport_id": 3,
+        "specification": "fielding position",
+        "description": "Slip fielder"
+    },
+    {
+        "sport_id": 3,
+        "specification": "all-rounder skills",
+        "description": "Batting and Bowling"
+    },
+    {
+        "sport_id": 3,
+        "specification": "captaincy skills",
+        "description": "Excellent tactical leader"
+    },
+    {
+        "sport_id": 4,
+        "specification": "belt level",
+        "description": "Black belt"
+    },
+    {
+        "sport_id": 4,
+        "specification": "kata skills",
+        "description": "Advanced kata practitioner"
+    },
+    {
+        "sport_id": 4,
+        "specification": "kumite style",
+        "description": "Aggressive kumite fighter"
+    },
+    {
+        "sport_id": 4,
+        "specification": "stances",
+        "description": "Strong horse stance"
+    },
+    {
+        "sport_id": 4,
+        "specification": "strike techniques",
+        "description": "Powerful roundhouse kick"
+    },
+    {
+        "sport_id": 5,
+        "specification": "stroke type",
+        "description": "Freestyle"
+    },
+    {
+        "sport_id": 5,
+        "specification": "preferred distance",
+        "description": "200 meters"
+    },
+    {
+        "sport_id": 5,
+        "specification": "timing equipment",
+        "description": "Electronic"
+    },
+    {
+        "sport_id": 5,
+        "specification": "swimwear brand",
+        "description": "Speedo"
+    },
+    {
+        "sport_id": 5,
+        "specification": "training frequency",
+        "description": "5 times a week"
+    },
+    {
+        "sport_id": 6,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 6,
+        "specification": "playing style",
+        "description": "Defensive player"
+    },
+    {
+        "sport_id": 6,
+        "specification": "serve technique",
+        "description": "High serve"
+    },
+    {
+        "sport_id": 6,
+        "specification": "smash power",
+        "description": "Powerful smash"
+    },
+    {
+        "sport_id": 6,
+        "specification": "net play skills",
+        "description": "Excellent net shots"
+    },
+    {
+        "sport_id": 7,
+        "specification": "swing type",
+        "description": "Full swing"
+    },
+    {
+        "sport_id": 7,
+        "specification": "handedness",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 7,
+        "specification": "putting skills",
+        "description": "Excellent putter"
+    },
+    {
+        "sport_id": 7,
+        "specification": "driving distance",
+        "description": "Long driver"
+    },
+    {
+        "sport_id": 7,
+        "specification": "short game ability",
+        "description": "Great short game"
+    },
+    {
+        "sport_id": 8,
+        "specification": "shooting style",
+        "description": "Pistol shooting"
+    },
+    {
+        "sport_id": 8,
+        "specification": "dominant eye",
+        "description": "Right-eye dominant"
+    },
+    {
+        "sport_id": 8,
+        "specification": "preferred discipline",
+        "description": "10m Air Pistol"
+    },
+    {
+        "sport_id": 8,
+        "specification": "trigger control",
+        "description": "Excellent trigger control"
+    },
+    {
+        "sport_id": 8,
+        "specification": "stance",
+        "description": "Stable stance"
+    },
+    {
+        "sport_id": 9,
+        "specification": "fighting style",
+        "description": "Brazilian Jiu-Jitsu"
+    },
+    {
+        "sport_id": 9,
+        "specification": "stance",
+        "description": "Orthodox"
+    },
+    {
+        "sport_id": 9,
+        "specification": "grappling skills",
+        "description": "Excellent grappler"
+    },
+    {
+        "sport_id": 9,
+        "specification": "striking power",
+        "description": "Powerful striker"
+    },
+    {
+        "sport_id": 9,
+        "specification": "submission techniques",
+        "description": "Advanced submission skills"
+    },
+    {
+        "sport_id": 10,
+        "specification": "raiding style",
+        "description": "Fast raider"
+    },
+    {
+        "sport_id": 10,
+        "specification": "defensive position",
+        "description": "Left corner"
+    },
+    {
+        "sport_id": 10,
+        "specification": "tackle technique",
+        "description": "Ankle hold"
+    },
+    {
+        "sport_id": 10,
+        "specification": "agility level",
+        "description": "High agility"
+    },
+    {
+        "sport_id": 10,
+        "specification": "strength level",
+        "description": "Strong physique"
+    },
+    {
+        "sport_id": 11,
+        "specification": "event specialty",
+        "description": "Floor exercise"
+    },
+    {
+        "sport_id": 11,
+        "specification": "flexibility level",
+        "description": "High flexibility"
+    },
+    {
+        "sport_id": 11,
+        "specification": "strength level",
+        "description": "Strong upper body"
+    },
+    {
+        "sport_id": 11,
+        "specification": "acrobatics skills",
+        "description": "Advanced acrobatics"
+    },
+    {
+        "sport_id": 11,
+        "specification": "balance skills",
+        "description": "Excellent balance"
+    },
+    {
+        "sport_id": 12,
+        "specification": "medium",
+        "description": "Oil painting"
+    },
+    {
+        "sport_id": 12,
+        "specification": "style",
+        "description": "Impressionism"
+    },
+    {
+        "sport_id": 12,
+        "specification": "technique",
+        "description": "Palette knife"
+    },
+    {
+        "sport_id": 12,
+        "specification": "influences",
+        "description": "Influenced by Van Gogh"
+    },
+    {
+        "sport_id": 12,
+        "specification": "subject matter",
+        "description": "Landscapes"
+    },
+    {
+        "sport_id": 13,
+        "specification": "opening repertoire",
+        "description": "Sicilian Defense"
+    },
+    {
+        "sport_id": 13,
+        "specification": "playing style",
+        "description": "Aggressive"
+    },
+    {
+        "sport_id": 13,
+        "specification": "rating",
+        "description": "2400 Elo"
+    },
+    {
+        "sport_id": 13,
+        "specification": "endgame skills",
+        "description": "Strong endgame"
+    },
+    {
+        "sport_id": 13,
+        "specification": "tactics proficiency",
+        "description": "Excellent tactician"
+    },
+    {
+        "sport_id": 14,
+        "specification": "position",
+        "description": "Midfielder"
+    },
+    {
+        "sport_id": 14,
+        "specification": "shooting hand",
+        "description": "Left-handed"
+    },
+    {
+        "sport_id": 14,
+        "specification": "playing surface",
+        "description": "Clay court"
+    },
+    {
+        "sport_id": 14,
+        "specification": "stick handling skills",
+        "description": "Excellent puck control"
+    },
+    {
+        "sport_id": 14,
+        "specification": "batting average",
+        "description": "0.3"
+    },
+    {
+        "sport_id": 15,
+        "specification": "position",
+        "description": "Forward"
+    },
+    {
+        "sport_id": 15,
+        "specification": "shooting hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 15,
+        "specification": "skating speed",
+        "description": "High speed"
+    },
+    {
+        "sport_id": 15,
+        "specification": "stick handling skills",
+        "description": "Excellent stick handler"
+    },
+    {
+        "sport_id": 15,
+        "specification": "checking ability",
+        "description": "Strong checker"
+    },
+    {
+        "sport_id": 16,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 16,
+        "specification": "playing style",
+        "description": "Baseline player"
+    },
+    {
+        "sport_id": 16,
+        "specification": "serve speed",
+        "description": "Fast serve"
+    },
+    {
+        "sport_id": 16,
+        "specification": "backhand type",
+        "description": "Two-handed backhand"
+    },
+    {
+        "sport_id": 16,
+        "specification": "court preference",
+        "description": "Clay court"
+    },
+    {
+        "sport_id": 17,
+        "specification": "weight class",
+        "description": "Heavyweight"
+    },
+    {
+        "sport_id": 17,
+        "specification": "wrestling style",
+        "description": "Freestyle"
+    },
+    {
+        "sport_id": 17,
+        "specification": "grappling skills",
+        "description": "Strong grappler"
+    },
+    {
+        "sport_id": 17,
+        "specification": "takedown ability",
+        "description": "Excellent takedowns"
+    },
+    {
+        "sport_id": 17,
+        "specification": "endurance level",
+        "description": "High endurance"
+    },
+    {
+        "sport_id": 18,
+        "specification": "weight class",
+        "description": "Welterweight"
+    },
+    {
+        "sport_id": 18,
+        "specification": "boxing style",
+        "description": "Orthodox"
+    },
+    {
+        "sport_id": 18,
+        "specification": "handedness",
+        "description": "Southpaw"
+    },
+    {
+        "sport_id": 18,
+        "specification": "defensive skills",
+        "description": "Strong defense"
+    },
+    {
+        "sport_id": 18,
+        "specification": "punching power",
+        "description": "Knockout power"
+    },
+    {
+        "sport_id": 19,
+        "specification": "driving style",
+        "description": "Aggressive driver"
+    },
+    {
+        "sport_id": 19,
+        "specification": "preferred racing type",
+        "description": "Formula 1"
+    },
+    {
+        "sport_id": 19,
+        "specification": "reaction time",
+        "description": "Fast reactions"
+    },
+    {
+        "sport_id": 19,
+        "specification": "car control",
+        "description": "Excellent car control"
+    },
+    {
+        "sport_id": 19,
+        "specification": "endurance level",
+        "description": "High endurance"
+    },
+    {
+        "sport_id": 20,
+        "specification": "cue type",
+        "description": "Custom cue"
+    },
+    {
+        "sport_id": 20,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 20,
+        "specification": "break shot skill",
+        "description": "Powerful break"
+    },
+    {
+        "sport_id": 20,
+        "specification": "position play",
+        "description": "Excellent position play"
+    },
+    {
+        "sport_id": 20,
+        "specification": "safety play",
+        "description": "Strong safety shots"
+    },
+    {
+        "sport_id": 21,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 21,
+        "specification": "grip style",
+        "description": "Penhold grip"
+    },
+    {
+        "sport_id": 21,
+        "specification": "playing style",
+        "description": "Aggressive attacker"
+    },
+    {
+        "sport_id": 21,
+        "specification": "serve technique",
+        "description": "Topspin serve"
+    },
+    {
+        "sport_id": 21,
+        "specification": "spin control",
+        "description": "Excellent spin control"
+    },
+    {
+        "sport_id": 22,
+        "specification": "chasing skills",
+        "description": "Fast chaser"
+    },
+    {
+        "sport_id": 22,
+        "specification": "dodging skills",
+        "description": "Excellent dodger"
+    },
+    {
+        "sport_id": 22,
+        "specification": "agility",
+        "description": "High agility"
+    },
+    {
+        "sport_id": 22,
+        "specification": "reflexes",
+        "description": "Quick reflexes"
+    },
+    {
+        "sport_id": 22,
+        "specification": "team coordination",
+        "description": "Strong team coordination"
+    },
+    {
+        "sport_id": 23,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 23,
+        "specification": "playing style",
+        "description": "Aggressive attacker"
+    },
+    {
+        "sport_id": 23,
+        "specification": "serve technique",
+        "description": "Power serve"
+    },
+    {
+        "sport_id": 23,
+        "specification": "movement speed",
+        "description": "Fast mover"
+    },
+    {
+        "sport_id": 23,
+        "specification": "racket control",
+        "description": "Precise racket control"
+    },
+    {
+        "sport_id": 24,
+        "specification": "weapon",
+        "description": "Epee"
+    },
+    {
+        "sport_id": 24,
+        "specification": "dominant hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 24,
+        "specification": "footwork",
+        "description": "Agile footwork"
+    },
+    {
+        "sport_id": 24,
+        "specification": "attack style",
+        "description": "Aggressive attacker"
+    },
+    {
+        "sport_id": 24,
+        "specification": "defense technique",
+        "description": "Strong parry"
+    },
+    {
+        "sport_id": 25,
+        "specification": "skating type",
+        "description": "Figure skating"
+    },
+    {
+        "sport_id": 25,
+        "specification": "dominant foot",
+        "description": "Right-footed"
+    },
+    {
+        "sport_id": 25,
+        "specification": "jump technique",
+        "description": "Triple axel"
+    },
+    {
+        "sport_id": 25,
+        "specification": "spin skills",
+        "description": "Advanced spins"
+    },
+    {
+        "sport_id": 25,
+        "specification": "speed",
+        "description": "High speed"
+    },
+    {
+        "sport_id": 26,
+        "specification": "event type",
+        "description": "Sprinting"
+    },
+    {
+        "sport_id": 26,
+        "specification": "preferred distance",
+        "description": "100 meters"
+    },
+    {
+        "sport_id": 26,
+        "specification": "start technique",
+        "description": "Explosive start"
+    },
+    {
+        "sport_id": 26,
+        "specification": "endurance level",
+        "description": "Moderate endurance"
+    },
+    {
+        "sport_id": 26,
+        "specification": "speed",
+        "description": "High speed"
+    },
+    {
+        "sport_id": 27,
+        "specification": "position",
+        "description": "Setter"
+    },
+    {
+        "sport_id": 27,
+        "specification": "spiking ability",
+        "description": "Powerful spiker"
+    },
+    {
+        "sport_id": 27,
+        "specification": "blocking skills",
+        "description": "Strong blocker"
+    },
+    {
+        "sport_id": 27,
+        "specification": "serve technique",
+        "description": "Jump serve"
+    },
+    {
+        "sport_id": 27,
+        "specification": "digging ability",
+        "description": "Excellent digger"
+    },
+    {
+        "sport_id": 28,
+        "specification": "belt level",
+        "description": "Black belt"
+    },
+    {
+        "sport_id": 28,
+        "specification": "fighting style",
+        "description": "Aggressive"
+    },
+    {
+        "sport_id": 28,
+        "specification": "kicking technique",
+        "description": "Roundhouse kick"
+    },
+    {
+        "sport_id": 28,
+        "specification": "sparring skills",
+        "description": "Strong sparring"
+    },
+    {
+        "sport_id": 28,
+        "specification": "forms proficiency",
+        "description": "Advanced forms"
+    },
+    {
+        "sport_id": 29,
+        "specification": "bow type",
+        "description": "Recurve"
+    },
+    {
+        "sport_id": 29,
+        "specification": "dominant hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 29,
+        "specification": "draw weight",
+        "description": "30 lbs"
+    },
+    {
+        "sport_id": 29,
+        "specification": "aiming technique",
+        "description": "Gap shooting"
+    },
+    {
+        "sport_id": 29,
+        "specification": "release style",
+        "description": "Smooth release"
+    },
+    {
+        "sport_id": 30,
+        "specification": "position",
+        "description": "Flanker"
+    },
+    {
+        "sport_id": 30,
+        "specification": "tackling ability",
+        "description": "Strong tackler"
+    },
+    {
+        "sport_id": 30,
+        "specification": "speed",
+        "description": "High speed"
+    },
+    {
+        "sport_id": 30,
+        "specification": "strength",
+        "description": "Powerful"
+    },
+    {
+        "sport_id": 30,
+        "specification": "passing skills",
+        "description": "Accurate passer"
+    },
+    {
+        "sport_id": 31,
+        "specification": "training focus",
+        "description": "Strength training"
+    },
+    {
+        "sport_id": 31,
+        "specification": "lifting technique",
+        "description": "Proper form"
+    },
+    {
+        "sport_id": 31,
+        "specification": "cardio endurance",
+        "description": "High endurance"
+    },
+    {
+        "sport_id": 31,
+        "specification": "flexibility",
+        "description": "Good flexibility"
+    },
+    {
+        "sport_id": 31,
+        "specification": "strength level",
+        "description": "Advanced strength"
+    },
+    {
+        "sport_id": 32,
+        "specification": "style",
+        "description": "Hatha Yoga"
+    },
+    {
+        "sport_id": 32,
+        "specification": "flexibility",
+        "description": "High flexibility"
+    },
+    {
+        "sport_id": 32,
+        "specification": "balance",
+        "description": "Excellent balance"
+    },
+    {
+        "sport_id": 32,
+        "specification": "breathing technique",
+        "description": "Pranayama"
+    },
+    {
+        "sport_id": 32,
+        "specification": "strength",
+        "description": "Moderate strength"
+    },
+    {
+        "sport_id": 34,
+        "specification": "certification",
+        "description": "NASM Certified"
+    },
+    {
+        "sport_id": 34,
+        "specification": "specialization",
+        "description": "Weight loss"
+    },
+    {
+        "sport_id": 34,
+        "specification": "training style",
+        "description": "High intensity"
+    },
+    {
+        "sport_id": 34,
+        "specification": "client focus",
+        "description": "Beginner clients"
+    },
+    {
+        "sport_id": 34,
+        "specification": "experience level",
+        "description": "10 years"
+    },
+    {
+        "sport_id": 35,
+        "specification": "weapon type",
+        "description": "Long staff"
+    },
+    {
+        "sport_id": 35,
+        "specification": "stance",
+        "description": "Horse stance"
+    },
+    {
+        "sport_id": 35,
+        "specification": "spinning technique",
+        "description": "Advanced spinning"
+    },
+    {
+        "sport_id": 35,
+        "specification": "striking speed",
+        "description": "Fast strikes"
+    },
+    {
+        "sport_id": 35,
+        "specification": "footwork",
+        "description": "Agile footwork"
+    },
+    {
+        "sport_id": 36,
+        "specification": "batting style",
+        "description": "Right-handed batter"
+    },
+    {
+        "sport_id": 36,
+        "specification": "throwing hand",
+        "description": "Right-handed thrower"
+    },
+    {
+        "sport_id": 36,
+        "specification": "position",
+        "description": "Shortstop"
+    },
+    {
+        "sport_id": 36,
+        "specification": "pitching style",
+        "description": "Fastball pitcher"
+    },
+    {
+        "sport_id": 36,
+        "specification": "fielding ability",
+        "description": "Excellent fielder"
+    },
+    {
+        "sport_id": 37,
+        "specification": "cue type",
+        "description": "Custom cue"
+    },
+    {
+        "sport_id": 37,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 37,
+        "specification": "break-off shot",
+        "description": "Effective break-off"
+    },
+    {
+        "sport_id": 37,
+        "specification": "positional play",
+        "description": "Excellent positional play"
+    },
+    {
+        "sport_id": 37,
+        "specification": "safety play",
+        "description": "Strong safety shots"
+    },
+    {
+        "sport_id": 38,
+        "specification": "playing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 38,
+        "specification": "striking technique",
+        "description": "Finger flick"
+    },
+    {
+        "sport_id": 38,
+        "specification": "board control",
+        "description": "Precise control"
+    },
+    {
+        "sport_id": 38,
+        "specification": "break shot",
+        "description": "Effective break"
+    },
+    {
+        "sport_id": 38,
+        "specification": "rebound skills",
+        "description": "Excellent rebounds"
+    },
+    {
+        "sport_id": 39,
+        "specification": "position",
+        "description": "Goalkeeper"
+    },
+    {
+        "sport_id": 39,
+        "specification": "throwing hand",
+        "description": "Right-handed"
+    },
+    {
+        "sport_id": 39,
+        "specification": "defensive skills",
+        "description": "Strong defense"
+    },
+    {
+        "sport_id": 39,
+        "specification": "shooting accuracy",
+        "description": "High shooting accuracy"
+    },
+    {
+        "sport_id": 39,
+        "specification": "speed",
+        "description": "Fast player"
+    },
+    {
+        "sport_id": 40,
+        "specification": "weapon type",
+        "description": "Short stick"
+    },
+    {
+        "sport_id": 40,
+        "specification": "stance",
+        "description": "Horse stance"
+    },
+    {
+        "sport_id": 40,
+        "specification": "strike technique",
+        "description": "Swift strikes"
+    },
+    {
+        "sport_id": 40,
+        "specification": "flexibility",
+        "description": "High flexibility"
+    },
+    {
+        "sport_id": 40,
+        "specification": "endurance",
+        "description": "Great endurance"
+    }
+]

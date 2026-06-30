@@ -1,0 +1,1562 @@
+[
+    {
+        "sport_id": 1,
+        "award": "AIFF Player of the Year Award"
+    },
+    {
+        "sport_id": 1,
+        "award": "ISL Hero of the League"
+    },
+    {
+        "sport_id": 1,
+        "award": "ISL Emerging Player of the League"
+    },
+    {
+        "sport_id": 1,
+        "award": "I-League Best Player"
+    },
+    {
+        "sport_id": 1,
+        "award": "ISL Golden Boot"
+    },
+    {
+        "sport_id": 1,
+        "award": "I-League Golden Boot"
+    },
+    {
+        "sport_id": 1,
+        "award": "Durand Cup Golden Boot"
+    },
+    {
+        "sport_id": 1,
+        "award": "Santosh Trophy Best Player"
+    },
+    {
+        "sport_id": 1,
+        "award": "AIFF Emerging Player of the Year"
+    },
+    {
+        "sport_id": 1,
+        "award": "Footballer of the Year (FPAI Awards)"
+    },
+    {
+        "sport_id": 2,
+        "award": "BFI Player of the Year"
+    },
+    {
+        "sport_id": 2,
+        "award": "MVP of UBA Pro Basketball League"
+    },
+    {
+        "sport_id": 2,
+        "award": "UBA Pro Basketball League Top Scorer"
+    },
+    {
+        "sport_id": 2,
+        "award": "Federation Cup Best Player"
+    },
+    {
+        "sport_id": 2,
+        "award": "National Basketball Championship Best Player"
+    },
+    {
+        "sport_id": 2,
+        "award": "Youth National Basketball Championship MVP"
+    },
+    {
+        "sport_id": 2,
+        "award": "Senior National Basketball Championship MVP"
+    },
+    {
+        "sport_id": 2,
+        "award": "BFI Emerging Player of the Year"
+    },
+    {
+        "sport_id": 2,
+        "award": "Junior National Basketball Championship MVP"
+    },
+    {
+        "sport_id": 2,
+        "award": "3x3 Pro Basketball League MVP"
+    },
+    {
+        "sport_id": 3,
+        "award": "BCCI Cricketer of the Year"
+    },
+    {
+        "sport_id": 3,
+        "award": "IPL Most Valuable Player"
+    },
+    {
+        "sport_id": 3,
+        "award": "IPL Orange Cap"
+    },
+    {
+        "sport_id": 3,
+        "award": "IPL Purple Cap"
+    },
+    {
+        "sport_id": 3,
+        "award": "Ranji Trophy Best Player"
+    },
+    {
+        "sport_id": 3,
+        "award": "Duleep Trophy Best Player"
+    },
+    {
+        "sport_id": 3,
+        "award": "Syed Mushtaq Ali Trophy Best Player"
+    },
+    {
+        "sport_id": 3,
+        "award": "Vijay Hazare Trophy Best Player"
+    },
+    {
+        "sport_id": 3,
+        "award": "Arjuna Award for Cricket"
+    },
+    {
+        "sport_id": 3,
+        "award": "ICC Awards (for Indian players)"
+    },
+    {
+        "sport_id": 4,
+        "award": "AIKF National Championship Gold Medal"
+    },
+    {
+        "sport_id": 4,
+        "award": "AIKF Best Karateka of the Year"
+    },
+    {
+        "sport_id": 4,
+        "award": "National Games Karate Gold Medal"
+    },
+    {
+        "sport_id": 4,
+        "award": "South Asian Karate Championship Gold Medal"
+    },
+    {
+        "sport_id": 4,
+        "award": "Commonwealth Karate Championship Medal"
+    },
+    {
+        "sport_id": 4,
+        "award": "AIKF Emerging Karateka Award"
+    },
+    {
+        "sport_id": 4,
+        "award": "AIKF Best Kata Performer"
+    },
+    {
+        "sport_id": 4,
+        "award": "AIKF Best Kumite Fighter"
+    },
+    {
+        "sport_id": 4,
+        "award": "National Karate Federation Best Athlete Award"
+    },
+    {
+        "sport_id": 4,
+        "award": "State Karate Championship Gold Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "SGFI National Swimming Championship Gold Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "Senior National Aquatic Championship Best Swimmer"
+    },
+    {
+        "sport_id": 5,
+        "award": "Junior National Aquatic Championship Best Swimmer"
+    },
+    {
+        "sport_id": 5,
+        "award": "National Games Swimming Gold Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "Asian Age Group Championships Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "Commonwealth Youth Games Swimming Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "All India Inter University Swimming Championship Gold Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "Khelo India Youth Games Swimming Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "SAF Games Swimming Gold Medal"
+    },
+    {
+        "sport_id": 5,
+        "award": "Arjuna Award for Swimming"
+    },
+    {
+        "sport_id": 6,
+        "award": "BWF India Open Title"
+    },
+    {
+        "sport_id": 6,
+        "award": "National Badminton Championship Gold Medal"
+    },
+    {
+        "sport_id": 6,
+        "award": "Syed Modi International Badminton Championships Winner"
+    },
+    {
+        "sport_id": 6,
+        "award": "Senior National Badminton Championship Best Player"
+    },
+    {
+        "sport_id": 6,
+        "award": "Arjuna Award for Badminton"
+    },
+    {
+        "sport_id": 6,
+        "award": "Padma Shri for Badminton"
+    },
+    {
+        "sport_id": 6,
+        "award": "Commonwealth Games Badminton Medal"
+    },
+    {
+        "sport_id": 6,
+        "award": "Asian Games Badminton Medal"
+    },
+    {
+        "sport_id": 6,
+        "award": "South Asian Games Badminton Gold Medal"
+    },
+    {
+        "sport_id": 6,
+        "award": "Khelo India Youth Games Badminton Medal"
+    },
+    {
+        "sport_id": 7,
+        "award": "Hero Indian Open Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "Tata Steel Tour Championship Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "PGTI Order of Merit Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "Arjuna Award for Golf"
+    },
+    {
+        "sport_id": 7,
+        "award": "Junior National Golf Championship Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "All India Amateur Golf Championship Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "Women\u2019s Indian Open Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "IGU Eastern India Amateur Golf Championship Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "Northern India Amateur Golf Championship Winner"
+    },
+    {
+        "sport_id": 7,
+        "award": "IGU Southern India Amateur Golf Championship Winner"
+    },
+    {
+        "sport_id": 8,
+        "award": "ISSF World Cup Gold Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Asian Games Shooting Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Commonwealth Games Shooting Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "National Shooting Championship Gold Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Junior World Cup Shooting Gold Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Arjuna Award for Shooting"
+    },
+    {
+        "sport_id": 8,
+        "award": "Padma Shri for Shooting"
+    },
+    {
+        "sport_id": 8,
+        "award": "ISSF World Championship Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Youth Olympic Games Shooting Medal"
+    },
+    {
+        "sport_id": 8,
+        "award": "Khelo India Youth Games Shooting Medal"
+    },
+    {
+        "sport_id": 9,
+        "award": "Super Fight League Champion"
+    },
+    {
+        "sport_id": 9,
+        "award": "MMA India National Champion"
+    },
+    {
+        "sport_id": 9,
+        "award": "One Championship Performance of the Night"
+    },
+    {
+        "sport_id": 9,
+        "award": "Brave Combat Federation Champion"
+    },
+    {
+        "sport_id": 9,
+        "award": "Matrix Fight Night Champion"
+    },
+    {
+        "sport_id": 9,
+        "award": "IMMAF World Championship Medal"
+    },
+    {
+        "sport_id": 9,
+        "award": "KHK MMA Championship Winner"
+    },
+    {
+        "sport_id": 9,
+        "award": "Pro Combat League Champion"
+    },
+    {
+        "sport_id": 9,
+        "award": "Arjuna Award for MMA"
+    },
+    {
+        "sport_id": 9,
+        "award": "MMA India Best Fighter of the Year"
+    },
+    {
+        "sport_id": 10,
+        "award": "Pro Kabaddi League MVP"
+    },
+    {
+        "sport_id": 10,
+        "award": "Pro Kabaddi League Best Raider"
+    },
+    {
+        "sport_id": 10,
+        "award": "Pro Kabaddi League Best Defender"
+    },
+    {
+        "sport_id": 10,
+        "award": "Arjuna Award for Kabaddi"
+    },
+    {
+        "sport_id": 10,
+        "award": "Asian Games Kabaddi Gold Medal"
+    },
+    {
+        "sport_id": 10,
+        "award": "National Kabaddi Championship Best Player"
+    },
+    {
+        "sport_id": 10,
+        "award": "South Asian Games Kabaddi Gold Medal"
+    },
+    {
+        "sport_id": 10,
+        "award": "Pro Kabaddi League Emerging Player"
+    },
+    {
+        "sport_id": 10,
+        "award": "Bharat Ratna Dr. B.R. Ambedkar Award for Kabaddi"
+    },
+    {
+        "sport_id": 10,
+        "award": "Padma Shri for Kabaddi"
+    },
+    {
+        "sport_id": 11,
+        "award": "National Gymnastics Championship Gold Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "Asian Games Gymnastics Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "Commonwealth Games Gymnastics Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "Arjuna Award for Gymnastics"
+    },
+    {
+        "sport_id": 11,
+        "award": "Padma Shri for Gymnastics"
+    },
+    {
+        "sport_id": 11,
+        "award": "FIG World Cup Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "Junior National Gymnastics Championship Best Gymnast"
+    },
+    {
+        "sport_id": 11,
+        "award": "Khelo India Youth Games Gymnastics Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "South Asian Games Gymnastics Gold Medal"
+    },
+    {
+        "sport_id": 11,
+        "award": "All India Inter University Gymnastics Championship Gold Medal"
+    },
+    {
+        "sport_id": 12,
+        "award": "National Academy Award for Art"
+    },
+    {
+        "sport_id": 12,
+        "award": "Lalit Kala Akademi Award"
+    },
+    {
+        "sport_id": 12,
+        "award": "Padma Shri for Art"
+    },
+    {
+        "sport_id": 12,
+        "award": "Padma Bhushan for Art"
+    },
+    {
+        "sport_id": 12,
+        "award": "Padma Vibhushan for Art"
+    },
+    {
+        "sport_id": 12,
+        "award": "Raja Ravi Varma Award"
+    },
+    {
+        "sport_id": 12,
+        "award": "Kala Ratna Award"
+    },
+    {
+        "sport_id": 12,
+        "award": "National Award for Painting"
+    },
+    {
+        "sport_id": 12,
+        "award": "National Award for Sculpture"
+    },
+    {
+        "sport_id": 12,
+        "award": "National Award for Photography"
+    },
+    {
+        "sport_id": 13,
+        "award": "National Chess Championship Winner"
+    },
+    {
+        "sport_id": 13,
+        "award": "Asian Chess Championship Medal"
+    },
+    {
+        "sport_id": 13,
+        "award": "Commonwealth Chess Championship Medal"
+    },
+    {
+        "sport_id": 13,
+        "award": "Arjuna Award for Chess"
+    },
+    {
+        "sport_id": 13,
+        "award": "Padma Shri for Chess"
+    },
+    {
+        "sport_id": 13,
+        "award": "National Junior Chess Championship Winner"
+    },
+    {
+        "sport_id": 13,
+        "award": "Khelo India Youth Games Chess Medal"
+    },
+    {
+        "sport_id": 13,
+        "award": "World Youth Chess Championship Medal"
+    },
+    {
+        "sport_id": 13,
+        "award": "National Sub-Junior Chess Championship Winner"
+    },
+    {
+        "sport_id": 13,
+        "award": "Chess Olympiad Medal"
+    },
+    {
+        "sport_id": 14,
+        "award": "Rajiv Gandhi Khel Ratna Award"
+    },
+    {
+        "sport_id": 14,
+        "award": "Arjuna Award"
+    },
+    {
+        "sport_id": 14,
+        "award": "Dronacharya Award"
+    },
+    {
+        "sport_id": 14,
+        "award": "Major Dhyan Chand Award"
+    },
+    {
+        "sport_id": 14,
+        "award": "Padma Shri for Sports"
+    },
+    {
+        "sport_id": 14,
+        "award": "Padma Bhushan for Sports"
+    },
+    {
+        "sport_id": 14,
+        "award": "Padma Vibhushan for Sports"
+    },
+    {
+        "sport_id": 14,
+        "award": "Tenzing Norgay National Adventure Award"
+    },
+    {
+        "sport_id": 14,
+        "award": "Bharat Ratna"
+    },
+    {
+        "sport_id": 14,
+        "award": "FICCI Sportsperson of the Year"
+    },
+    {
+        "sport_id": 15,
+        "award": "FIH Player of the Year"
+    },
+    {
+        "sport_id": 15,
+        "award": "Arjuna Award for Hockey"
+    },
+    {
+        "sport_id": 15,
+        "award": "Padma Shri for Hockey"
+    },
+    {
+        "sport_id": 15,
+        "award": "Padma Bhushan for Hockey"
+    },
+    {
+        "sport_id": 15,
+        "award": "Padma Vibhushan for Hockey"
+    },
+    {
+        "sport_id": 15,
+        "award": "Hockey India Player of the Year"
+    },
+    {
+        "sport_id": 15,
+        "award": "Hockey India Junior Player of the Year"
+    },
+    {
+        "sport_id": 15,
+        "award": "Asian Games Hockey Medal"
+    },
+    {
+        "sport_id": 15,
+        "award": "Commonwealth Games Hockey Medal"
+    },
+    {
+        "sport_id": 15,
+        "award": "Sultan Azlan Shah Cup Best Player"
+    },
+    {
+        "sport_id": 16,
+        "award": "Arjuna Award for Tennis"
+    },
+    {
+        "sport_id": 16,
+        "award": "Padma Shri for Tennis"
+    },
+    {
+        "sport_id": 16,
+        "award": "Padma Bhushan for Tennis"
+    },
+    {
+        "sport_id": 16,
+        "award": "Padma Vibhushan for Tennis"
+    },
+    {
+        "sport_id": 16,
+        "award": "Davis Cup Player of the Year"
+    },
+    {
+        "sport_id": 16,
+        "award": "ATP Challenger Tour Title"
+    },
+    {
+        "sport_id": 16,
+        "award": "ITF Futures Title"
+    },
+    {
+        "sport_id": 16,
+        "award": "Khelo India Youth Games Tennis Medal"
+    },
+    {
+        "sport_id": 16,
+        "award": "Asian Games Tennis Medal"
+    },
+    {
+        "sport_id": 16,
+        "award": "Commonwealth Games Tennis Medal"
+    },
+    {
+        "sport_id": 17,
+        "award": "Arjuna Award for Wrestling"
+    },
+    {
+        "sport_id": 17,
+        "award": "Padma Shri for Wrestling"
+    },
+    {
+        "sport_id": 17,
+        "award": "Padma Bhushan for Wrestling"
+    },
+    {
+        "sport_id": 17,
+        "award": "Padma Vibhushan for Wrestling"
+    },
+    {
+        "sport_id": 17,
+        "award": "Commonwealth Games Wrestling Medal"
+    },
+    {
+        "sport_id": 17,
+        "award": "Asian Games Wrestling Medal"
+    },
+    {
+        "sport_id": 17,
+        "award": "National Wrestling Championship Gold Medal"
+    },
+    {
+        "sport_id": 17,
+        "award": "Pro Wrestling League Best Wrestler"
+    },
+    {
+        "sport_id": 17,
+        "award": "World Wrestling Championships Medal"
+    },
+    {
+        "sport_id": 17,
+        "award": "Youth Olympic Games Wrestling Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "Arjuna Award for Boxing"
+    },
+    {
+        "sport_id": 18,
+        "award": "Padma Shri for Boxing"
+    },
+    {
+        "sport_id": 18,
+        "award": "Padma Bhushan for Boxing"
+    },
+    {
+        "sport_id": 18,
+        "award": "Padma Vibhushan for Boxing"
+    },
+    {
+        "sport_id": 18,
+        "award": "Commonwealth Games Boxing Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "Asian Games Boxing Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "National Boxing Championship Gold Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "AIBA World Boxing Championships Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "Youth Olympic Games Boxing Medal"
+    },
+    {
+        "sport_id": 18,
+        "award": "Best Boxer Award at National Championships"
+    },
+    {
+        "sport_id": 19,
+        "award": "National Racing Championship Winner"
+    },
+    {
+        "sport_id": 19,
+        "award": "Indian National Rally Championship Winner"
+    },
+    {
+        "sport_id": 19,
+        "award": "JK Tyre National Karting Championship Winner"
+    },
+    {
+        "sport_id": 19,
+        "award": "FMSCI Motorsport Man of the Year"
+    },
+    {
+        "sport_id": 19,
+        "award": "Arjuna Award for Motorsports"
+    },
+    {
+        "sport_id": 19,
+        "award": "FMSCI Lifetime Achievement Award"
+    },
+    {
+        "sport_id": 19,
+        "award": "Best Driver of the Year Award"
+    },
+    {
+        "sport_id": 19,
+        "award": "Indian National Drag Racing Championship Winner"
+    },
+    {
+        "sport_id": 19,
+        "award": "INRC 2-Wheeler Rally Championship Winner"
+    },
+    {
+        "sport_id": 19,
+        "award": "Asia-Pacific Rally Championship Medal"
+    },
+    {
+        "sport_id": 20,
+        "award": "Arjuna Award for Billiards"
+    },
+    {
+        "sport_id": 20,
+        "award": "Padma Shri for Billiards"
+    },
+    {
+        "sport_id": 20,
+        "award": "Padma Bhushan for Billiards"
+    },
+    {
+        "sport_id": 20,
+        "award": "Padma Vibhushan for Billiards"
+    },
+    {
+        "sport_id": 20,
+        "award": "National Billiards Championship Winner"
+    },
+    {
+        "sport_id": 20,
+        "award": "Asian Billiards Championship Medal"
+    },
+    {
+        "sport_id": 20,
+        "award": "World Billiards Championship Medal"
+    },
+    {
+        "sport_id": 20,
+        "award": "Commonwealth Games Billiards Medal"
+    },
+    {
+        "sport_id": 20,
+        "award": "IBSF World Billiards Championship Winner"
+    },
+    {
+        "sport_id": 20,
+        "award": "Khelo India Youth Games Billiards Medal"
+    },
+    {
+        "sport_id": 21,
+        "award": "Arjuna Award for Table Tennis"
+    },
+    {
+        "sport_id": 21,
+        "award": "Padma Shri for Table Tennis"
+    },
+    {
+        "sport_id": 21,
+        "award": "Padma Bhushan for Table Tennis"
+    },
+    {
+        "sport_id": 21,
+        "award": "Padma Vibhushan for Table Tennis"
+    },
+    {
+        "sport_id": 21,
+        "award": "National Table Tennis Championship Winner"
+    },
+    {
+        "sport_id": 21,
+        "award": "Commonwealth Games Table Tennis Medal"
+    },
+    {
+        "sport_id": 21,
+        "award": "Asian Games Table Tennis Medal"
+    },
+    {
+        "sport_id": 21,
+        "award": "South Asian Games Table Tennis Gold Medal"
+    },
+    {
+        "sport_id": 21,
+        "award": "Khelo India Youth Games Table Tennis Medal"
+    },
+    {
+        "sport_id": 21,
+        "award": "ITTF Pro Tour Title"
+    },
+    {
+        "sport_id": 22,
+        "award": "Arjuna Award for Kho-Kho"
+    },
+    {
+        "sport_id": 22,
+        "award": "Eklavya Award for Kho-Kho"
+    },
+    {
+        "sport_id": 22,
+        "award": "Bhim Award for Kho-Kho"
+    },
+    {
+        "sport_id": 22,
+        "award": "Shiv Chhatrapati Award for Kho-Kho"
+    },
+    {
+        "sport_id": 22,
+        "award": "Veer Abhimanyu Award for Kho-Kho"
+    },
+    {
+        "sport_id": 22,
+        "award": "National Kho-Kho Championship Best Player"
+    },
+    {
+        "sport_id": 22,
+        "award": "Khelo India Youth Games Kho-Kho Medal"
+    },
+    {
+        "sport_id": 22,
+        "award": "All India Inter University Kho-Kho Championship Gold Medal"
+    },
+    {
+        "sport_id": 22,
+        "award": "South Asian Games Kho-Kho Gold Medal"
+    },
+    {
+        "sport_id": 22,
+        "award": "Padma Shri for Kho-Kho"
+    },
+    {
+        "sport_id": 23,
+        "award": "Arjuna Award for Squash"
+    },
+    {
+        "sport_id": 23,
+        "award": "Padma Shri for Squash"
+    },
+    {
+        "sport_id": 23,
+        "award": "Padma Bhushan for Squash"
+    },
+    {
+        "sport_id": 23,
+        "award": "Padma Vibhushan for Squash"
+    },
+    {
+        "sport_id": 23,
+        "award": "National Squash Championship Winner"
+    },
+    {
+        "sport_id": 23,
+        "award": "Commonwealth Games Squash Medal"
+    },
+    {
+        "sport_id": 23,
+        "award": "Asian Games Squash Medal"
+    },
+    {
+        "sport_id": 23,
+        "award": "South Asian Games Squash Gold Medal"
+    },
+    {
+        "sport_id": 23,
+        "award": "Khelo India Youth Games Squash Medal"
+    },
+    {
+        "sport_id": 23,
+        "award": "PSA Tour Title"
+    },
+    {
+        "sport_id": 24,
+        "award": "Arjuna Award for Fencing"
+    },
+    {
+        "sport_id": 24,
+        "award": "Padma Shri for Fencing"
+    },
+    {
+        "sport_id": 24,
+        "award": "Padma Bhushan for Fencing"
+    },
+    {
+        "sport_id": 24,
+        "award": "Padma Vibhushan for Fencing"
+    },
+    {
+        "sport_id": 24,
+        "award": "National Fencing Championship Gold Medal"
+    },
+    {
+        "sport_id": 24,
+        "award": "Asian Games Fencing Medal"
+    },
+    {
+        "sport_id": 24,
+        "award": "Commonwealth Fencing Championship Medal"
+    },
+    {
+        "sport_id": 24,
+        "award": "South Asian Games Fencing Gold Medal"
+    },
+    {
+        "sport_id": 24,
+        "award": "Khelo India Youth Games Fencing Medal"
+    },
+    {
+        "sport_id": 24,
+        "award": "FIE World Cup Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "Arjuna Award for Skating"
+    },
+    {
+        "sport_id": 25,
+        "award": "Padma Shri for Skating"
+    },
+    {
+        "sport_id": 25,
+        "award": "National Skating Championship Gold Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "Asian Skating Championship Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "Commonwealth Skating Championship Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "South Asian Games Skating Gold Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "Khelo India Youth Games Skating Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "National Games Skating Medal"
+    },
+    {
+        "sport_id": 25,
+        "award": "Best Skater Award at National Championships"
+    },
+    {
+        "sport_id": 25,
+        "award": "State Skating Championship Gold Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "Arjuna Award for Athletics"
+    },
+    {
+        "sport_id": 26,
+        "award": "Padma Shri for Athletics"
+    },
+    {
+        "sport_id": 26,
+        "award": "Padma Bhushan for Athletics"
+    },
+    {
+        "sport_id": 26,
+        "award": "Padma Vibhushan for Athletics"
+    },
+    {
+        "sport_id": 26,
+        "award": "National Athletics Championship Gold Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "Asian Games Athletics Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "Commonwealth Games Athletics Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "South Asian Games Athletics Gold Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "Khelo India Youth Games Athletics Medal"
+    },
+    {
+        "sport_id": 26,
+        "award": "National Games Athletics Medal"
+    },
+    {
+        "sport_id": 27,
+        "award": "Arjuna Award for Volleyball"
+    },
+    {
+        "sport_id": 27,
+        "award": "Padma Shri for Volleyball"
+    },
+    {
+        "sport_id": 27,
+        "award": "Padma Bhushan for Volleyball"
+    },
+    {
+        "sport_id": 27,
+        "award": "Padma Vibhushan for Volleyball"
+    },
+    {
+        "sport_id": 27,
+        "award": "National Volleyball Championship Best Player"
+    },
+    {
+        "sport_id": 27,
+        "award": "Asian Games Volleyball Medal"
+    },
+    {
+        "sport_id": 27,
+        "award": "South Asian Games Volleyball Gold Medal"
+    },
+    {
+        "sport_id": 27,
+        "award": "Khelo India Youth Games Volleyball Medal"
+    },
+    {
+        "sport_id": 27,
+        "award": "National Games Volleyball Medal"
+    },
+    {
+        "sport_id": 27,
+        "award": "Best Spiker Award at National Championships"
+    },
+    {
+        "sport_id": 28,
+        "award": "Arjuna Award for Taekwondo"
+    },
+    {
+        "sport_id": 28,
+        "award": "Padma Shri for Taekwondo"
+    },
+    {
+        "sport_id": 28,
+        "award": "National Taekwondo Championship Gold Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "Asian Taekwondo Championship Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "Commonwealth Taekwondo Championship Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "South Asian Games Taekwondo Gold Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "Khelo India Youth Games Taekwondo Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "National Games Taekwondo Medal"
+    },
+    {
+        "sport_id": 28,
+        "award": "Best Fighter Award at National Championships"
+    },
+    {
+        "sport_id": 28,
+        "award": "State Taekwondo Championship Gold Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "Arjuna Award for Archery"
+    },
+    {
+        "sport_id": 29,
+        "award": "Padma Shri for Archery"
+    },
+    {
+        "sport_id": 29,
+        "award": "Padma Bhushan for Archery"
+    },
+    {
+        "sport_id": 29,
+        "award": "Padma Vibhushan for Archery"
+    },
+    {
+        "sport_id": 29,
+        "award": "National Archery Championship Gold Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "Asian Games Archery Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "Commonwealth Games Archery Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "South Asian Games Archery Gold Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "Khelo India Youth Games Archery Medal"
+    },
+    {
+        "sport_id": 29,
+        "award": "World Archery Championship Medal"
+    },
+    {
+        "sport_id": 30,
+        "award": "Arjuna Award for Rugby"
+    },
+    {
+        "sport_id": 30,
+        "award": "Padma Shri for Rugby"
+    },
+    {
+        "sport_id": 30,
+        "award": "National Rugby Championship Best Player"
+    },
+    {
+        "sport_id": 30,
+        "award": "Asian Rugby Championship Medal"
+    },
+    {
+        "sport_id": 30,
+        "award": "South Asian Games Rugby Gold Medal"
+    },
+    {
+        "sport_id": 30,
+        "award": "Khelo India Youth Games Rugby Medal"
+    },
+    {
+        "sport_id": 30,
+        "award": "National Games Rugby Medal"
+    },
+    {
+        "sport_id": 30,
+        "award": "Rugby India Best Player Award"
+    },
+    {
+        "sport_id": 30,
+        "award": "Best Forward Award at National Championships"
+    },
+    {
+        "sport_id": 30,
+        "award": "Best Back Award at National Championships"
+    },
+    {
+        "sport_id": 31,
+        "award": "Arjuna Award for Bodybuilding"
+    },
+    {
+        "sport_id": 31,
+        "award": "Mr. India Bodybuilding Championship"
+    },
+    {
+        "sport_id": 31,
+        "award": "Mr. Universe Title"
+    },
+    {
+        "sport_id": 31,
+        "award": "Mr. World Title"
+    },
+    {
+        "sport_id": 31,
+        "award": "Padma Shri for Bodybuilding"
+    },
+    {
+        "sport_id": 31,
+        "award": "Best Physique Award at National Championships"
+    },
+    {
+        "sport_id": 31,
+        "award": "National Bodybuilding Championship Gold Medal"
+    },
+    {
+        "sport_id": 31,
+        "award": "Asian Bodybuilding Championship Medal"
+    },
+    {
+        "sport_id": 31,
+        "award": "Commonwealth Bodybuilding Championship Medal"
+    },
+    {
+        "sport_id": 31,
+        "award": "Khelo India Youth Games Bodybuilding Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "National Yoga Championship Gold Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "International Yoga Championship Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "Best Yoga Performer Award"
+    },
+    {
+        "sport_id": 32,
+        "award": "State Yoga Championship Gold Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "Arjuna Award for Yoga"
+    },
+    {
+        "sport_id": 32,
+        "award": "Padma Shri for Yoga"
+    },
+    {
+        "sport_id": 32,
+        "award": "Yoga Federation of India Best Yogi Award"
+    },
+    {
+        "sport_id": 32,
+        "award": "Commonwealth Yoga Championship Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "Asian Yoga Championship Medal"
+    },
+    {
+        "sport_id": 32,
+        "award": "Khelo India Youth Games Yoga Medal"
+    },
+    {
+        "sport_id": 34,
+        "award": "Best Personal Trainer Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "Fitness Excellence Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "National Health and Fitness Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "Personal Trainer of the Year"
+    },
+    {
+        "sport_id": 34,
+        "award": "FICCI Health & Fitness Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "Fitness Icon of the Year"
+    },
+    {
+        "sport_id": 34,
+        "award": "Certified Personal Trainer of the Year"
+    },
+    {
+        "sport_id": 34,
+        "award": "Fit India Movement Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "Best Fitness Coach Award"
+    },
+    {
+        "sport_id": 34,
+        "award": "Excellence in Fitness Training Award"
+    },
+    {
+        "sport_id": 35,
+        "award": "Arjuna Award for Silambam"
+    },
+    {
+        "sport_id": 35,
+        "award": "Padma Shri for Silambam"
+    },
+    {
+        "sport_id": 35,
+        "award": "National Silambam Championship Gold Medal"
+    },
+    {
+        "sport_id": 35,
+        "award": "State Silambam Championship Gold Medal"
+    },
+    {
+        "sport_id": 35,
+        "award": "Best Silambam Performer Award"
+    },
+    {
+        "sport_id": 35,
+        "award": "International Silambam Championship Medal"
+    },
+    {
+        "sport_id": 35,
+        "award": "Silambam Federation of India Best Athlete Award"
+    },
+    {
+        "sport_id": 35,
+        "award": "South Asian Games Silambam Gold Medal"
+    },
+    {
+        "sport_id": 35,
+        "award": "Khelo India Youth Games Silambam Medal"
+    },
+    {
+        "sport_id": 35,
+        "award": "National Games Silambam Medal"
+    },
+    {
+        "sport_id": 36,
+        "award": "Arjuna Award for Baseball"
+    },
+    {
+        "sport_id": 36,
+        "award": "Padma Shri for Baseball"
+    },
+    {
+        "sport_id": 36,
+        "award": "National Baseball Championship Best Player"
+    },
+    {
+        "sport_id": 36,
+        "award": "Asian Baseball Championship Medal"
+    },
+    {
+        "sport_id": 36,
+        "award": "South Asian Games Baseball Gold Medal"
+    },
+    {
+        "sport_id": 36,
+        "award": "Khelo India Youth Games Baseball Medal"
+    },
+    {
+        "sport_id": 36,
+        "award": "National Games Baseball Medal"
+    },
+    {
+        "sport_id": 36,
+        "award": "Best Pitcher Award at National Championships"
+    },
+    {
+        "sport_id": 36,
+        "award": "Best Batter Award at National Championships"
+    },
+    {
+        "sport_id": 36,
+        "award": "International Baseball Championship Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "Arjuna Award for Snooker"
+    },
+    {
+        "sport_id": 37,
+        "award": "Padma Shri for Snooker"
+    },
+    {
+        "sport_id": 37,
+        "award": "National Snooker Championship Winner"
+    },
+    {
+        "sport_id": 37,
+        "award": "Asian Snooker Championship Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "IBSF World Snooker Championship Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "Commonwealth Snooker Championship Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "Khelo India Youth Games Snooker Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "World Games Snooker Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "National Games Snooker Medal"
+    },
+    {
+        "sport_id": 37,
+        "award": "Best Break Award at National Championships"
+    },
+    {
+        "sport_id": 38,
+        "award": "Arjuna Award for Carrom"
+    },
+    {
+        "sport_id": 38,
+        "award": "Padma Shri for Carrom"
+    },
+    {
+        "sport_id": 38,
+        "award": "National Carrom Championship Winner"
+    },
+    {
+        "sport_id": 38,
+        "award": "Asian Carrom Championship Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "World Carrom Championship Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "Commonwealth Carrom Championship Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "Khelo India Youth Games Carrom Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "South Asian Games Carrom Gold Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "National Games Carrom Medal"
+    },
+    {
+        "sport_id": 38,
+        "award": "Best Striker Award at National Championships"
+    },
+    {
+        "sport_id": 39,
+        "award": "Arjuna Award for Handball"
+    },
+    {
+        "sport_id": 39,
+        "award": "Padma Shri for Handball"
+    },
+    {
+        "sport_id": 39,
+        "award": "National Handball Championship Best Player"
+    },
+    {
+        "sport_id": 39,
+        "award": "Asian Handball Championship Medal"
+    },
+    {
+        "sport_id": 39,
+        "award": "South Asian Games Handball Gold Medal"
+    },
+    {
+        "sport_id": 39,
+        "award": "Khelo India Youth Games Handball Medal"
+    },
+    {
+        "sport_id": 39,
+        "award": "National Games Handball Medal"
+    },
+    {
+        "sport_id": 39,
+        "award": "Best Goalkeeper Award at National Championships"
+    },
+    {
+        "sport_id": 39,
+        "award": "Best Defender Award at National Championships"
+    },
+    {
+        "sport_id": 39,
+        "award": "International Handball Championship Medal"
+    },
+    {
+        "sport_id": 40,
+        "award": "Arjuna Award for Kalaripayattu"
+    },
+    {
+        "sport_id": 40,
+        "award": "Padma Shri for Sports"
+    },
+    {
+        "sport_id": 40,
+        "award": "Bharat Ratna Award for Sports"
+    },
+    {
+        "sport_id": 40,
+        "award": "Dronacharya Award for Kalaripayattu"
+    },
+    {
+        "sport_id": 40,
+        "award": "Rashtriya Khel Protsahan Puraskar"
+    },
+    {
+        "sport_id": 40,
+        "award": "Tenzing Norgay National Adventure Award"
+    },
+    {
+        "sport_id": 40,
+        "award": "Major Dhyan Chand Khel Ratna Award"
+    },
+    {
+        "sport_id": 40,
+        "award": "International Kalaripayattu Federation Award"
+    },
+    {
+        "sport_id": 40,
+        "award": "Kerala State Sports Council Award"
+    },
+    {
+        "sport_id": 40,
+        "award": "Kalaripayattu Acharya Award"
+    }
+]

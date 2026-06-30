@@ -1,0 +1,2342 @@
+[
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy centers around developing players' technical skills, tactical understanding, and physical conditioning while fostering teamwork and sportsmanship. I emphasize a balanced approach that includes both competitive success and personal growth."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What qualifications and experience do you have in football coaching?",
+        "answer": "I hold a coaching license and have over 10 years of coaching experience at various levels, including youth, amateur, and semi-professional teams. I have also attended numerous workshops and seminars to stay updated with the latest coaching techniques and strategies."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I focus on personalized training programs that target each player's strengths and areas for improvement. This includes specific drills for technical skills like dribbling, passing, shooting, and defending, as well as tactical sessions to enhance game understanding and decision-making."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What is your approach to team selection and playing time?",
+        "answer": "Team selection is based on merit, considering players' performance, attitude, and commitment during training sessions. Playing time is distributed to ensure development opportunities for all players while also striving for competitive success. I believe in fair and transparent communication regarding selection decisions."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "I address conflicts and disciplinary issues promptly and fairly, following a clear code of conduct. Open communication and mutual respect are key, and I work to resolve issues through dialogue and appropriate consequences if necessary. My goal is to maintain a positive and cohesive team environment."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three times a week, typically lasting 90 minutes each. A typical session includes a warm-up, technical drills, tactical exercises, and a scrimmage. I ensure that each session is well-planned and focused on specific objectives to maximize player development."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "How do you prepare the team for matches?",
+        "answer": "Preparation for matches involves analyzing the opponent's strengths and weaknesses, developing a game plan, and conducting focused training sessions. I also emphasize mental preparation, ensuring players are confident and ready to perform. Post-match analysis is conducted to identify areas for improvement."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What are your expectations from the players and their parents (for youth teams)?",
+        "answer": "I expect players to show commitment, respect, and a willingness to learn and improve. For youth teams, I also encourage parental support in terms of attendance at matches, positive encouragement, and ensuring players adhere to team rules and schedules. Parental involvement in a constructive manner is always appreciated."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "How do you stay updated with the latest coaching methods and trends in football?",
+        "answer": "I regularly attend coaching clinics, workshops, and conferences. I also subscribe to professional journals and follow industry leaders on various platforms. Continuous education and adaptation are essential to stay at the forefront of football coaching."
+    },
+    {
+        "sport_id": 1,
+        "sport": "football",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have led several teams to regional championships and have seen numerous players progress to higher levels of competition, including professional leagues. One of my proudest achievements was coaching a youth team that went undefeated for an entire season, showcasing their development and teamwork"
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy emphasizes player development through fundamental skills, team cohesion, and a strong work ethic. I focus on both offensive and defensive strategies, promoting a fast-paced and disciplined style of play while encouraging individual creativity and teamwork."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What qualifications and experience do you have in basketball coaching?",
+        "answer": "I hold an advanced coaching certification and have over 8 years of coaching experience at various levels, including high school and collegiate teams. I have also participated in numerous clinics and workshops led by top coaches in the industry."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I implement personalized skill development programs that include drills for shooting, dribbling, passing, and defensive techniques. Each player's strengths and weaknesses are assessed to create targeted training plans that promote continuous improvement and versatility on the court."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What is your approach to team selection and playing time?",
+        "answer": "Team selection is merit-based, considering players' performance, attitude, and dedication in practice. Playing time is earned through effort and consistency, and I strive to balance opportunities for all players to develop and contribute, while also focusing on team success."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "I address conflicts and disciplinary issues through open communication and a clear code of conduct. My approach is to understand the root of the issue, mediate discussions if necessary, and enforce consequences that align with our team's values and goals, maintaining a respectful and supportive environment."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held four times a week, typically lasting two hours each. A typical session includes a warm-up, skill drills, tactical exercises, and scrimmages. I ensure each session is structured to improve specific aspects of our game and foster team chemistry."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "How do you prepare the team for games?",
+        "answer": "Game preparation involves analyzing opponents' strengths and weaknesses, developing specific game plans, and conducting focused practices. Mental preparation is also key, so I work on building confidence and focus through visualization and motivational techniques. Post-game reviews help us learn and improve continuously."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What are your expectations from the players and their parents (for youth teams)?",
+        "answer": "I expect players to commit fully, show respect, and be open to learning. For youth teams, I encourage parents to support their children positively, attend games, and communicate openly with me about any concerns. Parental involvement is important but should always be constructive and aligned with the team's objectives."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "How do you stay updated with the latest coaching methods and trends in basketball?",
+        "answer": "I regularly attend coaching clinics, workshops, and conferences. I also subscribe to basketball coaching journals and follow industry leaders on social media. Staying informed about new strategies, training techniques, and technological advancements is essential for effective coaching."
+    },
+    {
+        "sport_id": 2,
+        "sport": "basketball",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have led several teams to state championships and have had multiple players receive college scholarships. One notable achievement was coaching a team that achieved a perfect season, demonstrating exceptional teamwork and resilience. Many of my former players have gone on to successful collegiate and professional careers."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on building a strong technical foundation while emphasizing the importance of mental toughness, teamwork, and sportsmanship. I believe in tailored training programs that cater to the individual needs of each player, ensuring a holistic development approach."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "What are your qualifications and coaching experience in cricket?",
+        "answer": "I hold a Level 2 cricket coaching certification. I have may years of experience coaching various age groups and skill levels, from grassroots to competitive teams. I have also played cricket at state / national level."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from several previous positions, where I have coached. These references can attest to my coaching methods, success in player development, and ability to foster a positive team environment."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "How do you tailor your training sessions to individual players' needs?",
+        "answer": "I conduct initial assessments to understand each player's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, fitness, and mental conditioning, ensuring each player reaches their full potential."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "What is your approach to improving a team's performance?",
+        "answer": "My approach includes a mix of technical skill drills, strategic game play, and physical conditioning. I also emphasize the importance of teamwork and communication on and off the field. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "How do you handle underperforming players?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming players, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "What is your experience with developing young talent?",
+        "answer": "I have extensive experience working with youth cricketers, focusing on nurturing their skills and passion for the game. I ensure that young players receive balanced training that is both fun and challenging, promoting a long-term love for cricket and continuous improvement."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "How do you stay updated with the latest coaching techniques and trends in cricket?",
+        "answer": "I regularly attend coaching workshops, seminars, and certification courses to stay abreast of the latest developments in cricket coaching. I also follow professional cricket closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that players use appropriate protective gear and that the training environment is safe. I also provide proper warm-up and cool-down routines to prevent injuries and promote overall physical well-being."
+    },
+    {
+        "sport_id": 3,
+        "sport": "cricket",
+        "question": "How do you measure and track players' progress?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track players' progress. I set short-term and long-term goals for each player and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy is centered on the principles of respect, discipline, and continuous improvement. I aim to develop both the physical and mental aspects of karate, focusing on technique, strength, and self-confidence."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What qualifications and experience do you have in karate coaching?",
+        "answer": "I am a certified 5th Dan black belt with over 15 years of coaching experience. I have trained under several renowned masters and have attended numerous international seminars and workshops to enhance my skills and knowledge."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "How do you plan to develop individual skills in karate?",
+        "answer": "I create personalized training plans that target each student's strengths and areas for improvement. This includes kata practice, sparring drills, and physical conditioning to ensure comprehensive development."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What is your approach to belt progression and ranking?",
+        "answer": "Belt progression is based on a combination of technical proficiency, attendance, and attitude. Regular assessments and feedback help students understand their progress and areas needing improvement, ensuring a fair and motivating ranking system."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "How do you handle conflicts or disciplinary issues within the dojo?",
+        "answer": "Conflicts and disciplinary issues are addressed through open communication and a clear set of dojo rules. I encourage mutual respect and understanding, resolving issues through dialogue and appropriate actions to maintain a positive training environment."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three times a week, typically lasting 90 minutes each. A typical session includes a warm-up, basic techniques, kata practice, sparring, and cool-down stretches. Each session is designed to improve specific skills and overall fitness."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "How do you prepare students for competitions?",
+        "answer": "Competition preparation involves focused training on techniques, strategies, and mental readiness. I provide opportunities for mock tournaments and individual coaching to help students perform their best. Post-competition reviews are conducted to identify strengths and areas for improvement."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What are your expectations from students and their parents (for youth classes)?",
+        "answer": "I expect students to show dedication, respect, and a willingness to learn. For youth classes, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns with me. Parental involvement is important for the student's progress."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "How do you stay updated with the latest trends and techniques in karate?",
+        "answer": "I regularly attend seminars, workshops, and conferences to stay updated with the latest trends and techniques in karate. I also collaborate with other coaches and follow industry publications to continually enhance my coaching methods."
+    },
+    {
+        "sport_id": 4,
+        "sport": "karate",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached numerous students to national and international championships, with many achieving black belts and significant tournament success. One of my proudest moments was coaching a student who won a gold medal at an international competition, showcasing their dedication and skill."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "What is your coaching philosophy for swimming?",
+        "answer": "My coaching philosophy emphasizes building a strong technical foundation while fostering a love for swimming. I focus on individual development, mental toughness, and promoting a positive, team-oriented environment."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "What are your qualifications and coaching experience in swimming?",
+        "answer": "I hold a Level 3 swimming coaching certification. I have many years of experience coaching swimmers of all ages and levels, including competitive swimmers at regional and national levels."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions at [SPECIFIC SWIM CLUBS/ACADEMIES]. These references can speak to my coaching style, success in swimmer development, and ability to create a positive training environment."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "How do you tailor your training sessions to individual swimmers' needs?",
+        "answer": "I start with assessments to identify each swimmer's strengths and areas for improvement. Based on these assessments, I create personalized training plans that include technique refinement, endurance training, and mental conditioning."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "What is your approach to improving a swimmer's performance?",
+        "answer": "My approach involves a combination of technical drills, race strategies, and physical conditioning. I also emphasize the importance of mental preparation and resilience. Regular feedback and performance reviews help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "How do you handle underperforming swimmers?",
+        "answer": "I focus on understanding the reasons behind underperformance and provide constructive feedback. I work with underperforming swimmers to set achievable goals and adjust their training plans to address specific issues."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "What is your experience with developing young swimming talent?",
+        "answer": "I have extensive experience developing young swimmers, emphasizing proper technique and fostering a passion for the sport. I ensure that training is fun, challenging, and age-appropriate to promote long-term interest and improvement."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "How do you stay updated with the latest coaching techniques and trends in swimming?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in swimming. I also follow professional swimming closely and incorporate successful strategies into my coaching."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my sessions. I ensure swimmers use appropriate gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines in and around the pool. I am also certified in CPR and first aid."
+    },
+    {
+        "sport_id": 5,
+        "sport": "swimming",
+        "question": "How do you measure and track swimmers' progress?",
+        "answer": "I use performance metrics, video analysis, and regular feedback sessions to track swimmers' progress. I set short-term and long-term goals for each swimmer and conduct periodic reviews to ensure they are on track to achieve these objectives."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on building a strong foundation of technical skills, physical fitness, and mental toughness. I believe in fostering a positive and competitive environment where players can thrive and reach their full potential."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What qualifications and experience do you have in badminton coaching?",
+        "answer": "I hold a Level 2 Badminton coaching certification and have over 10 years of coaching experience at various levels, including junior, senior, and elite players. I have also participated in international coaching workshops and seminars."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I implement tailored training programs that target each player's strengths and weaknesses. This includes drills for footwork, strokes, serves, and game strategy. Regular assessments help track progress and adjust training plans as needed."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What is your approach to player selection and playing time?",
+        "answer": "Player selection is based on skill, attitude, and performance in practice. Playing time is allocated to provide development opportunities for all players while also focusing on competitive success. I believe in transparent communication regarding selection and playing time decisions."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are addressed through open dialogue and adherence to a clear code of conduct. I encourage mutual respect and understanding within the team, and I work to resolve issues fairly and constructively."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held four times a week, typically lasting two hours each. A typical session includes warm-ups, technical drills, match simulations, and cool-down exercises. Each session is designed to enhance specific skills and overall fitness."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "How do you prepare players for tournaments?",
+        "answer": "Tournament preparation involves focused training on game strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-tournament reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be committed, disciplined, and respectful. For youth teams, I encourage parents to support their children by ensuring regular attendance, providing positive encouragement, and communicating openly with me about any concerns."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "How do you stay updated with the latest coaching methods and trends in badminton?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also follow industry publications and collaborate with other coaches to continually enhance my coaching techniques."
+    },
+    {
+        "sport_id": 6,
+        "sport": "badminton",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several players to national and international success, with many achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a player who won a gold medal at a major international event, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing a strong foundation in the fundamentals of golf, including grip, stance, and swing mechanics. I emphasize a balanced approach that includes technical skills, mental preparation, and physical fitness."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What qualifications and experience do you have in golf coaching?",
+        "answer": "I am a PGA-certified coach with over 15 years of experience in coaching golfers of all levels, from beginners to professionals. I have also participated in various national and international coaching seminars to enhance my skills."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "How do you plan to develop individual golfer skills?",
+        "answer": "I create personalized training plans that address each golfer's strengths and areas for improvement. This includes drills for driving, iron play, short game, and putting, as well as mental strategies for course management and competition."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What is your approach to player selection and playing time?",
+        "answer": "Player selection is based on skill level, commitment, and performance in practice sessions. Playing time is managed to ensure fair opportunities for development while also aiming for competitive success. Communication with players about selection criteria is always clear and transparent."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage a respectful and positive environment, addressing issues promptly and fairly to maintain team harmony."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three times a week, typically lasting 90 minutes each. A typical session includes a warm-up, technical drills, practice rounds, and cool-down exercises. Sessions are designed to enhance specific skills and improve overall performance."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "How do you prepare players for tournaments?",
+        "answer": "Tournament preparation involves focused training on specific skills, mental conditioning, and strategy development. I also organize practice rounds and provide individual coaching to ensure players are well-prepared. Post-tournament reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children by ensuring regular attendance, providing positive encouragement, and communicating any concerns openly with me."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "How do you stay updated with the latest coaching methods and trends in golf?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 7,
+        "sport": "golf",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several golfers to national and international success, with many achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a golfer who won a major national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "What is your coaching philosophy for shooting?",
+        "answer": "My coaching philosophy focuses on building a strong technical foundation, mental discipline, and precision. I emphasize personalized training programs that cater to the individual needs of each shooter, promoting overall skill development."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "What are your qualifications and coaching experience in shooting?",
+        "answer": "I hold a Level 3 shooting coaching certification. I have many years of experience coaching shooters at various levels, including competitive shooters at national and international competitions."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions at [SPECIFIC SHOOTING CLUBS/ACADEMIES]. These references can attest to my coaching methods, success in shooter development, and ability to create a positive training environment."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "How do you tailor your training sessions to individual shooters' needs?",
+        "answer": "I conduct initial assessments to understand each shooter's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on technique, mental conditioning, and physical fitness."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "What is your approach to improving a shooter's accuracy and consistency?",
+        "answer": "My approach includes a combination of technical drills, mental training, and physical conditioning. I emphasize the importance of focus, precision, and consistency. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "How do you handle underperforming shooters?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming shooters, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "What is your experience with developing young shooting talent?",
+        "answer": "I have extensive experience working with young shooters, focusing on nurturing their skills and passion for the sport. I ensure that young shooters receive balanced training that is both fun and challenging, promoting a long-term love for shooting and continuous improvement."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "How do you stay updated with the latest coaching techniques and trends in shooting?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in shooting. I also follow professional shooting closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that shooters use appropriate protective gear, follow proper handling procedures, and adhere to strict safety guidelines on the range. I am also certified in range safety and first aid."
+    },
+    {
+        "sport_id": 8,
+        "sport": "shooting",
+        "question": "How do you measure and track shooters' progress?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track shooters' progress. I set short-term and long-term goals for each shooter and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing well-rounded fighters with strong technical skills in striking, grappling, and submissions. I emphasize discipline, mental toughness, and strategic thinking, creating a supportive and competitive environment."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What qualifications and experience do you have in MMA coaching?",
+        "answer": "I am a certified MMA coach with over 12 years of experience in coaching fighters at various levels, from amateurs to professionals. I have trained under renowned fighters and have attended numerous seminars and workshops to enhance my coaching skills."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "How do you plan to develop individual fighter skills?",
+        "answer": "I create personalized training plans that target each fighter's strengths and weaknesses. This includes drills for striking, grappling, submissions, and conditioning, as well as sparring sessions to simulate real fight scenarios."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What is your approach to fight selection and preparation?",
+        "answer": "Fight selection and preparation are based on the fighter's skill level, readiness, and goals. I develop specific game plans for each opponent, focusing on exploiting their weaknesses and enhancing our strengths. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are addressed through open communication and adherence to a strict code of conduct. I encourage mutual respect and understanding, resolving issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held five times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, sparring, and conditioning exercises. Each session is designed to improve specific skills and overall performance."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "How do you prepare fighters for competitions?",
+        "answer": "Competition preparation involves focused training on fight strategies, mental conditioning, and physical readiness. I also organize practice fights and provide individual coaching to ensure fighters are well-prepared. Post-fight reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What are your expectations from fighters and their parents (for youth fighters)?",
+        "answer": "I expect fighters to be committed, disciplined, and respectful. For youth fighters, I encourage parents to support their children positively, ensure regular attendance, and communicate openly with me about any concerns. Parental involvement is crucial for the fighter's development."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "How do you stay updated with the latest coaching methods and trends in MMA?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also follow industry publications and collaborate with other coaches and fighters to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 9,
+        "sport": "mma",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several fighters to national and international success, with many achieving top rankings and winning prestigious titles. One notable achievement was coaching a fighter who won a championship belt in a major MMA promotion, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "What is your coaching philosophy for kabaddi?",
+        "answer": "My coaching philosophy focuses on building a strong foundation of physical fitness, agility, and tactical awareness. I emphasize teamwork, discipline, and mental toughness to ensure players are well-rounded and prepared for competitive play."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "What are your qualifications and coaching experience in kabaddi?",
+        "answer": "I hold a Level 2 kabaddi coaching certification. I have many years of experience coaching kabaddi teams at various levels, from grassroots to competitive leagues."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in player development, and ability to foster a positive team environment."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "How do you tailor your training sessions to individual kabaddi players' needs?",
+        "answer": "I conduct initial assessments to understand each player's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, fitness, and strategic gameplay."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "What is your approach to improving a kabaddi team's performance?",
+        "answer": "My approach includes a combination of technical drills, tactical training, and physical conditioning. I emphasize the importance of team coordination and communication on and off the field. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "How do you handle underperforming players in kabaddi?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming players, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "What is your experience with developing young kabaddi talent?",
+        "answer": "I have extensive experience working with young kabaddi players, focusing on nurturing their skills and passion for the sport. I ensure that young players receive balanced training that is both fun and challenging, promoting a long-term love for kabaddi and continuous improvement."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "How do you stay updated with the latest coaching techniques and trends in kabaddi?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in kabaddi. I also follow professional kabaddi closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that players use appropriate protective gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and matches. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 10,
+        "sport": "kabaddi",
+        "question": "How do you measure and track players' progress in kabaddi?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track players' progress. I set short-term and long-term goals for each player and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "What is your coaching philosophy for gymnastics?",
+        "answer": "My coaching philosophy emphasizes building a strong technical foundation while fostering a love for gymnastics. I focus on individual development, mental toughness, and promoting a positive, team-oriented environment."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "What are your qualifications and coaching experience in gymnastics?",
+        "answer": "I hold a Level 3 gymnastics coaching certification. I have many years of experience coaching gymnasts of all ages and levels, including competitive gymnasts at regional and national levels."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can speak to my coaching style, success in gymnast development, and ability to create a positive training environment."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "How do you tailor your training sessions to individual gymnasts' needs?",
+        "answer": "I start with assessments to identify each gymnast's strengths and areas for improvement. Based on these assessments, I create personalized training plans that include technique refinement, strength training, and mental conditioning."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "What is your approach to improving a gymnast's performance?",
+        "answer": "My approach involves a combination of technical drills, routine practice, and physical conditioning. I also emphasize the importance of mental preparation and resilience. Regular feedback and performance reviews help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "How do you handle underperforming gymnasts?",
+        "answer": "I focus on understanding the reasons behind underperformance and provide constructive feedback. I work with underperforming gymnasts to set achievable goals and adjust their training plans to address specific issues."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "What is your experience with developing young gymnastics talent?",
+        "answer": "I have extensive experience developing young gymnasts, emphasizing proper technique and fostering a passion for the sport. I ensure that training is fun, challenging, and age-appropriate to promote long-term interest and improvement."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "How do you stay updated with the latest coaching techniques and trends in gymnastics?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in gymnastics. I also follow professional gymnastics closely and incorporate successful strategies into my coaching."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my sessions. I ensure gymnasts use appropriate gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines in and around the gym. I am also certified in CPR and first aid."
+    },
+    {
+        "sport_id": 11,
+        "sport": "gymnastics",
+        "question": "How do you measure and track gymnasts' progress?",
+        "answer": "I use performance metrics, video analysis, and regular feedback sessions to track gymnasts' progress. I set short-term and long-term goals for each gymnast and conduct periodic reviews to ensure they are on track to achieve these objectives."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What is your teaching philosophy?",
+        "answer": "My teaching philosophy centers around nurturing creativity, technical skills, and artistic expression. I believe in fostering a supportive and inspiring environment where students can explore and develop their unique artistic voice."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What qualifications and experience do you have in arts coaching?",
+        "answer": "I hold a degree in Fine Arts and have over 10 years of experience in coaching students in various art forms, including painting, drawing, sculpture, and digital arts. I have also participated in numerous workshops and exhibitions to stay current with contemporary art trends."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "How do you plan to develop individual artistic skills?",
+        "answer": "I create personalized development plans for each student, focusing on their interests and strengths. This includes exercises for improving technique, creativity, and critical thinking. Regular feedback and constructive critique are integral to my approach."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What is your approach to project selection and execution?",
+        "answer": "Project selection is based on the student's skill level, interests, and creative goals. I guide students through the entire process, from conceptualization to execution, ensuring they learn the necessary skills and techniques to bring their vision to life."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "How do you handle conflicts or disciplinary issues within the class?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and a clear set of classroom rules. I encourage mutual respect and understanding, addressing issues promptly and constructively to maintain a positive and productive learning environment."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What is your class schedule and what do typical sessions look like?",
+        "answer": "Classes are held twice a week, typically lasting two hours each. A typical session includes a warm-up, technical exercises, project work, and group discussions or critiques. Each session is designed to enhance specific skills and foster artistic growth."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "How do you prepare students for exhibitions or performances?",
+        "answer": "Preparation for exhibitions or performances involves focused work on selected pieces, refining techniques, and building confidence. I provide opportunities for practice presentations and individual coaching to ensure students are well-prepared. Post-event reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What are your expectations from students and their parents (for youth classes)?",
+        "answer": "I expect students to be dedicated, respectful, and open to learning. For youth classes, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the student's development."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "How do you stay updated with the latest trends and techniques in the arts?",
+        "answer": "I stay updated with the latest trends and techniques by attending art shows, workshops, and conferences. I also follow contemporary artists and art publications to continuously improve my teaching methods and keep my students inspired."
+    },
+    {
+        "sport_id": 12,
+        "sport": "arts",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have guided many students to achieve success in various competitions and exhibitions. One notable achievement was coaching a student who won a prestigious national art competition, showcasing their exceptional talent and hard work."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "What is your coaching philosophy for chess?",
+        "answer": "My coaching philosophy focuses on developing critical thinking, strategic planning, and a deep understanding of chess principles. I aim to inspire a love for the game while building a solid foundation in chess theory and practice."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "What are your qualifications and coaching experience in chess?",
+        "answer": "I hold a Master title and have been coaching chess for over 10 years. I have experience working with players of all levels, from beginners to advanced competitors, and have helped several students achieve notable successes in tournaments."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can speak to my coaching methods, success in player development, and ability to create a positive learning environment."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "How do you tailor your training sessions to individual chess players' needs?",
+        "answer": "I assess each player's current skill level, strengths, and weaknesses through initial games and exercises. Based on these assessments, I design personalized training plans that focus on specific areas of improvement, including openings, middle game tactics, and endgame strategies."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "What is your approach to improving a chess player's performance?",
+        "answer": "My approach includes a mix of theoretical instruction, practical exercises, and analysis of classic and contemporary games. I emphasize the importance of regular practice, mental discipline, and learning from mistakes. I also encourage participation in tournaments to gain practical experience."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "How do you handle underperforming chess players?",
+        "answer": "I provide constructive feedback and positive reinforcement to help underperforming players. I work with them to identify the root causes of their issues and develop a plan for improvement, which may include additional practice sessions, focused study on weak areas, or mental conditioning."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "What is your experience with developing young chess talent?",
+        "answer": "I have extensive experience developing young chess players, focusing on building their confidence, critical thinking skills, and passion for the game. I ensure that training is engaging and age-appropriate to promote a long-term interest in chess."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "How do you stay updated with the latest coaching techniques and trends in chess?",
+        "answer": "I regularly attend coaching seminars, workshops, and stay updated with the latest chess literature and online resources. I also follow top-level chess tournaments and incorporate successful strategies and techniques into my coaching."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "What tools and resources do you use during training sessions?",
+        "answer": "I use various tools and resources during training sessions, including chess software for analysis, online platforms for practice games, and databases of classic and modern games. I also provide customized study materials tailored to each player's needs."
+    },
+    {
+        "sport_id": 13,
+        "sport": "chess",
+        "question": "How do you measure and track chess players' progress?",
+        "answer": "I use performance metrics, regular feedback sessions, and game analysis to track players' progress. I set short-term and long-term goals for each player and conduct periodic reviews to ensure they are on track to achieve these objectives."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy emphasizes building a strong technical foundation, mental toughness, and teamwork. I believe in personalized training programs that cater to each athlete's unique needs, promoting holistic development."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "What are your qualifications and coaching experience in this sport?",
+        "answer": "I hold relevant coaching certifications from recognized institutions and have [X] years of experience coaching athletes at various levels, including competitive teams and individual competitors."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in athlete development, and ability to foster a positive training environment."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "How do you tailor your training sessions to individual athletes' needs?",
+        "answer": "I conduct initial assessments to understand each athlete's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, fitness, and mental conditioning."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "What is your approach to improving a team's or individual's performance?",
+        "answer": "My approach includes a combination of technical drills, strategic training, and physical conditioning. I emphasize the importance of teamwork, communication, and mental preparation. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "How do you handle underperforming athletes?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming athletes, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "What is your experience with developing young talent in this sport?",
+        "answer": "I have extensive experience working with young athletes, focusing on nurturing their skills and passion for the sport. I ensure that young athletes receive balanced training that is both fun and challenging, promoting a long-term love for the sport and continuous improvement."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "How do you stay updated with the latest coaching techniques and trends in this sport?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in this sport. I also follow professional competitions closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that athletes use appropriate protective gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and competitions. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 14,
+        "sport": "sports",
+        "question": "How do you measure and track athletes' progress?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track athletes' progress. I set short-term and long-term goals for each athlete and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "What is your coaching philosophy for hockey?",
+        "answer": "My coaching philosophy focuses on building a strong technical foundation, teamwork, and strategic thinking. I emphasize the importance of mental toughness, discipline, and a positive attitude both on and off the ice/field."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "What are your qualifications and coaching experience in hockey?",
+        "answer": "I hold a Level 3 hockey coaching certification. I have over 10 years of experience coaching hockey teams at various levels, from youth leagues to competitive clubs."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in player development, and ability to foster a positive team environment."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "How do you tailor your training sessions to individual hockey players' needs?",
+        "answer": "I conduct initial assessments to understand each player's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, fitness, and tactical awareness."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "What is your approach to improving a hockey team's performance?",
+        "answer": "My approach includes a combination of technical drills, tactical training, and physical conditioning. I emphasize the importance of teamwork, communication, and mental preparation. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "How do you handle underperforming hockey players?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming players, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "What is your experience with developing young hockey talent?",
+        "answer": "I have extensive experience working with young hockey players, focusing on nurturing their skills and passion for the sport. I ensure that young players receive balanced training that is both fun and challenging, promoting a long-term love for hockey and continuous improvement."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "How do you stay updated with the latest coaching techniques and trends in hockey?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in hockey. I also follow professional hockey closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that players use appropriate protective gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and matches. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 15,
+        "sport": "hockey",
+        "question": "How do you measure and track players' progress in hockey?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track players' progress. I set short-term and long-term goals for each player and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing a strong foundation of technical skills, strategic thinking, and mental toughness. I emphasize a balanced approach that includes physical conditioning, match play, and sportsmanship."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What qualifications and experience do you have in tennis coaching?",
+        "answer": "I am a certified tennis coach and have over 10 years of experience coaching players at various levels, including juniors, adults, and competitive players. I have also participated in numerous coaching clinics and workshops."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for serving, groundstrokes, volleys, and footwork, as well as strategic play and match simulations."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What is your approach to match selection and preparation?",
+        "answer": "Match selection and preparation are based on the player's skill level, readiness, and goals. I develop specific game plans for each opponent, focusing on exploiting their weaknesses and enhancing our strengths. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, match play, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "How do you prepare players for tournaments?",
+        "answer": "Tournament preparation involves focused training on match strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-tournament reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "How do you stay updated with the latest coaching methods and trends in tennis?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 16,
+        "sport": "tennis",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several players to national and international success, with many achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a player who won a national junior championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "What is your coaching philosophy for wrestling?",
+        "answer": "My coaching philosophy focuses on building a strong technical foundation, physical conditioning, and mental toughness. I emphasize the importance of discipline, hard work, and a positive mindset both on and off the mat."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "What are your qualifications and coaching experience in wrestling?",
+        "answer": "I hold a Level 3 wrestling coaching certification. I have over 10 years of experience coaching wrestlers at various levels, from youth programs to competitive teams."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in wrestler development, and ability to foster a positive training environment."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "How do you tailor your training sessions to individual wrestlers' needs?",
+        "answer": "I conduct initial assessments to understand each wrestler's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, strength training, and strategic planning."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "What is your approach to improving a wrestler's performance?",
+        "answer": "My approach includes a combination of technical drills, conditioning exercises, and match strategies. I emphasize the importance of mental preparation, resilience, and learning from each match. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "How do you handle underperforming wrestlers?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming wrestlers, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "What is your experience with developing young wrestling talent?",
+        "answer": "I have extensive experience working with young wrestlers, focusing on nurturing their skills and passion for the sport. I ensure that young wrestlers receive balanced training that is both challenging and age-appropriate, promoting a long-term love for wrestling and continuous improvement."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "How do you stay updated with the latest coaching techniques and trends in wrestling?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in wrestling. I also follow professional wrestling closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that wrestlers use appropriate protective gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and matches. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 17,
+        "sport": "wrestling",
+        "question": "How do you measure and track wrestlers' progress?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track wrestlers' progress. I set short-term and long-term goals for each wrestler and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing well-rounded fighters with strong technical skills in punching, footwork, and defense. I emphasize discipline, mental toughness, and strategic thinking, creating a supportive and competitive environment."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What qualifications and experience do you have in boxing coaching?",
+        "answer": "I am a certified boxing coach with over 12 years of experience in coaching fighters at various levels, from amateurs to professionals. I have trained under renowned boxers and have attended numerous seminars and workshops to enhance my coaching skills."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "How do you plan to develop individual fighter skills?",
+        "answer": "I create personalized training plans that target each fighter's strengths and weaknesses. This includes drills for punching techniques, footwork, defensive maneuvers, and conditioning, as well as sparring sessions to simulate real fight scenarios."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What is your approach to fight selection and preparation?",
+        "answer": "Fight selection and preparation are based on the fighter's skill level, readiness, and goals. I develop specific game plans for each opponent, focusing on exploiting their weaknesses and enhancing our strengths. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are addressed through open communication and adherence to a strict code of conduct. I encourage mutual respect and understanding, resolving issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held five times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, sparring, and conditioning exercises. Each session is designed to improve specific skills and overall performance."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "How do you prepare fighters for competitions?",
+        "answer": "Competition preparation involves focused training on fight strategies, mental conditioning, and physical readiness. I also organize practice fights and provide individual coaching to ensure fighters are well-prepared. Post-fight reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What are your expectations from fighters and their parents (for youth fighters)?",
+        "answer": "I expect fighters to be committed, disciplined, and respectful. For youth fighters, I encourage parents to support their children positively, ensure regular attendance, and communicate openly with me about any concerns. Parental involvement is crucial for the fighter's development."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "How do you stay updated with the latest coaching methods and trends in boxing?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also follow industry publications and collaborate with other coaches and fighters to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 18,
+        "sport": "boxing",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several fighters to national and international success, with many achieving top rankings and winning prestigious titles. One notable achievement was coaching a fighter who won a championship belt in a major boxing promotion, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "What is your coaching philosophy for motorsport?",
+        "answer": "My coaching philosophy focuses on developing technical driving skills, mental toughness, and strategic thinking. I emphasize the importance of discipline, focus, and continuous improvement both on and off the track."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "What are your qualifications and coaching experience in motorsport?",
+        "answer": "I hold relevant motorsport coaching certifications and have 10 years of experience coaching drivers at various levels, from amateur racers to professional competitors. I have also competed in [SPECIFIC MOTORSPORT EVENTS/LEAGUES]."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in driver development, and ability to foster a positive training environment."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "How do you tailor your training sessions to individual drivers' needs?",
+        "answer": "I conduct initial assessments to understand each driver's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, race strategy, and mental conditioning."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "What is your approach to improving a driver's performance in motorsport?",
+        "answer": "My approach includes a combination of technical drills, simulation training, and physical conditioning. I emphasize the importance of analyzing race data, mental preparation, and strategic planning. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "How do you handle underperforming drivers?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming drivers, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "What is your experience with developing young motorsport talent?",
+        "answer": "I have extensive experience working with young drivers, focusing on nurturing their skills and passion for motorsport. I ensure that young drivers receive balanced training that is both challenging and age-appropriate, promoting a long-term love for motorsport and continuous improvement."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "How do you stay updated with the latest coaching techniques and trends in motorsport?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in motorsport. I also follow professional racing closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that drivers use appropriate safety gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and races. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 19,
+        "sport": "motorsports",
+        "question": "How do you measure and track drivers' progress in motorsport?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track drivers' progress. I set short-term and long-term goals for each driver and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "What is your coaching philosophy for billiards?",
+        "answer": "My coaching philosophy focuses on building a strong technical foundation, strategic thinking, and mental discipline. I emphasize the importance of practice, precision, and continuous improvement."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "What are your qualifications and coaching experience in billiards?",
+        "answer": "I hold relevant coaching certifications and have 10 years of experience coaching billiards players at various levels, from beginners to competitive players. I have also competed in many TOURNAMENTS/LEAGUES."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "Can you provide references from previous coaching positions?",
+        "answer": "Certainly, I can provide references from previous coaching positions. These references can attest to my coaching methods, success in player development, and ability to foster a positive training environment."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "How do you tailor your training sessions to individual players' needs?",
+        "answer": "I conduct initial assessments to understand each player's strengths, weaknesses, and areas for improvement. Based on these assessments, I design personalized training programs that focus on skill development, strategic play, and mental conditioning."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "What is your approach to improving a billiards player's performance?",
+        "answer": "My approach includes a combination of technical drills, strategic planning, and mental conditioning. I emphasize the importance of analyzing games, mental preparation, and learning from each match. Regular performance reviews and feedback sessions help track progress and make necessary adjustments."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "How do you handle underperforming players in billiards?",
+        "answer": "I believe in constructive feedback and positive reinforcement. For underperforming players, I identify the root causes of their issues and work closely with them to develop a plan for improvement. This may include extra practice sessions, mental conditioning, or adjusting their training program."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "What is your experience with developing young billiards talent?",
+        "answer": "I have extensive experience working with young billiards players, focusing on nurturing their skills and passion for the sport. I ensure that young players receive balanced training that is both challenging and age-appropriate, promoting a long-term love for billiards and continuous improvement."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "How do you stay updated with the latest coaching techniques and trends in billiards?",
+        "answer": "I regularly attend coaching clinics, workshops, and certification courses to stay updated with the latest techniques and trends in billiards. I also follow professional billiards closely and integrate successful techniques and strategies into my coaching practices."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "What safety measures do you implement during training sessions?",
+        "answer": "Safety is a top priority in all my training sessions. I ensure that players use appropriate gear, follow proper warm-up and cool-down routines, and adhere to safety guidelines during practice and matches. I am also certified in first aid and injury management."
+    },
+    {
+        "sport_id": 20,
+        "sport": "billiards",
+        "question": "How do you measure and track players' progress in billiards?",
+        "answer": "I use a combination of performance metrics, video analysis, and regular feedback sessions to track players' progress. I set short-term and long-term goals for each player and conduct periodic reviews to ensure they are on track to achieve these objectives. This data-driven approach helps in making informed adjustments to their training programs."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "What is your experience and background in coaching table tennis?",
+        "answer": "I have over 10 years of experience coaching table tennis at various levels, from beginners to competitive players."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "Do you have any specific qualifications or certifications in table tennis coaching?",
+        "answer": "Yes, I hold a certification from the Table Tennis Federation and have completed several advanced coaching workshops."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "Can you provide references from previous students or parents?",
+        "answer": "Absolutely, I can provide contact information for several former students and their parents who can speak to my coaching abilities."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "What is your coaching philosophy and approach to table tennis training?",
+        "answer": "My coaching philosophy focuses on building strong fundamental skills, fostering strategic thinking, and promoting a love for the sport."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "How do you customize training plans for different skill levels?",
+        "answer": "I assess each player's skill level and create customized training plans to address their strengths and areas for improvement."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "What does a typical table tennis training session with you look like?",
+        "answer": "A typical session includes warm-up exercises, skill drills, strategy discussions, and match play to practice what we've learned."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "How do you incorporate strategy and technique in your coaching?",
+        "answer": "I emphasize both the technical aspects of table tennis, such as stroke technique and footwork, as well as game strategy to outplay opponents."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "Do you offer group training sessions or only individual coaching?",
+        "answer": "I offer both group sessions and individual coaching, depending on the student's preference and needs."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "What equipment is required for the training sessions?",
+        "answer": "Players need a table tennis paddle, balls, and appropriate sports attire. I provide additional training materials as needed."
+    },
+    {
+        "sport_id": 21,
+        "sport": "table-tennis",
+        "question": "What are your fees and availability for coaching sessions?",
+        "answer": "My fees vary based on the type of coaching (group or individual) and the length of sessions. I'm available most weekdays and weekends with prior scheduling."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing agility, teamwork, and strategic thinking. I emphasize physical fitness, quick reflexes, and mental toughness while fostering a positive and collaborative team environment."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What qualifications and experience do you have in kho-kho coaching?",
+        "answer": "I am a certified kho-kho coach with over 10 years of experience coaching players at various levels, including school, college, and state teams. I have also participated in numerous coaching workshops and clinics to stay updated with the latest techniques."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for agility, speed, endurance, and strategic play, as well as game simulations to practice real-match scenarios."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What is your approach to player selection and team strategy?",
+        "answer": "Player selection is based on skill, performance in practice, and teamwork. I develop team strategies that leverage each player's strengths and ensure a cohesive and dynamic playing style. Communication and transparency are key in my selection process."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, team strategy exercises, and conditioning workouts. Each session is designed to enhance specific skills and overall team performance."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "How do you prepare players for tournaments?",
+        "answer": "Tournament preparation involves focused training on team strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-tournament reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "How do you stay updated with the latest coaching methods and trends in kho-kho?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 22,
+        "sport": "kho-kho",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several teams to regional and national success, with many players achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a team that won the national championship, demonstrating exceptional skill and teamwork."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "What is your experience and background in coaching squash?",
+        "answer": "I have over 10 years of experience coaching squash at various levels, from beginners to competitive players."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "Do you have any specific qualifications or certifications in squash coaching?",
+        "answer": "Yes, I hold a Squash certification and have completed several advanced coaching workshops."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "Can you provide references from previous students or parents?",
+        "answer": "Absolutely, I can provide contact information for several former students and their parents who can speak to my coaching abilities."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "What is your coaching philosophy and approach to squash training?",
+        "answer": "My coaching philosophy focuses on building strong fundamental skills, fostering strategic thinking, and promoting a love for the sport."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "How do you customize training plans for different skill levels?",
+        "answer": "I assess each player's skill level and create customized training plans to address their strengths and areas for improvement."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "What does a typical squash training session with you look like?",
+        "answer": "A typical session includes warm-up exercises, skill drills, strategy discussions, and match play to practice what we've learned."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "How do you incorporate strategy and technique in your coaching?",
+        "answer": "I emphasize both the technical aspects of squash, such as stroke technique and footwork, as well as game strategy to outplay opponents."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "Do you offer group training sessions or only individual coaching?",
+        "answer": "I offer both group sessions and individual coaching, depending on the student's preference and needs."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "What equipment is required for the training sessions?",
+        "answer": "Players need a squash racket, balls, and appropriate sports attire. I provide additional training materials as needed."
+    },
+    {
+        "sport_id": 23,
+        "sport": "squash",
+        "question": "What are your fees and availability for coaching sessions?",
+        "answer": "My fees vary based on the type of coaching (group or individual) and the length of sessions. I'm available most weekdays and weekends with prior scheduling."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing technical skills, strategic thinking, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What qualifications and experience do you have in fencing coaching?",
+        "answer": "I am a certified fencing coach with over 10 years of experience coaching fencers at various levels, including youth, collegiate, and competitive fencers. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "How do you plan to develop individual fencer skills?",
+        "answer": "I create personalized training plans that target each fencer's strengths and areas for improvement. This includes drills for footwork, blade work, and bout strategies, as well as mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What is your approach to bout selection and preparation?",
+        "answer": "Bout selection and preparation are based on the fencer's skill level, readiness, and goals. I develop specific strategies for each opponent, focusing on exploiting their weaknesses and enhancing our strengths. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, sparring, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "How do you prepare fencers for competitions?",
+        "answer": "Competition preparation involves focused training on bout strategies, mental conditioning, and physical readiness. I also organize practice bouts and provide individual coaching to ensure fencers are well-prepared. Post-competition reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What are your expectations from fencers and their parents (for youth teams)?",
+        "answer": "I expect fencers to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the fencer's development."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "How do you stay updated with the latest coaching methods and trends in fencing?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 24,
+        "sport": "fencing",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several fencers to national and international success, with many achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a fencer who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing technical skills, artistic expression, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What qualifications and experience do you have in skating coaching?",
+        "answer": "I am a certified skating coach with over 10 years of experience coaching skaters at various levels, including youth, competitive, and professional skaters. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "How do you plan to develop individual skater skills?",
+        "answer": "I create personalized training plans that target each skater's strengths and areas for improvement. This includes drills for technique, balance, agility, and artistic performance, as well as mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What is your approach to competition selection and preparation?",
+        "answer": "Competition selection and preparation are based on the skater's skill level, readiness, and goals. I develop specific routines and strategies for each competition, focusing on highlighting their strengths and improving their weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, routine practice, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "How do you prepare skaters for competitions?",
+        "answer": "Competition preparation involves focused training on routines, mental conditioning, and physical readiness. I also organize practice performances and provide individual coaching to ensure skaters are well-prepared. Post-competition reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What are your expectations from skaters and their parents (for youth teams)?",
+        "answer": "I expect skaters to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the skater's development."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "How do you stay updated with the latest coaching methods and trends in skating?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 25,
+        "sport": "skating",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several skaters to national and international success, with many achieving top rankings and winning prestigious competitions. One notable achievement was coaching a skater who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing technical skills, physical conditioning, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What qualifications and experience do you have in athletics coaching?",
+        "answer": "I am a certified athletics coach with over 10 years of experience coaching athletes at various levels, including youth, collegiate, and competitive athletes. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "How do you plan to develop individual athlete skills?",
+        "answer": "I create personalized training plans that target each athlete's strengths and areas for improvement. This includes drills for technique, speed, endurance, and strength, as well as mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What is your approach to competition selection and preparation?",
+        "answer": "Competition selection and preparation are based on the athlete's skill level, readiness, and goals. I develop specific strategies for each competition, focusing on highlighting their strengths and improving their weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, event-specific training, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "How do you prepare athletes for competitions?",
+        "answer": "Competition preparation involves focused training on event-specific strategies, mental conditioning, and physical readiness. I also organize practice events and provide individual coaching to ensure athletes are well-prepared. Post-competition reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What are your expectations from athletes and their parents (for youth teams)?",
+        "answer": "I expect athletes to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the athlete's development."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "How do you stay updated with the latest coaching methods and trends in athletics?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 26,
+        "sport": "athletics",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several athletes to national and international success, with many achieving top rankings and winning prestigious competitions. One notable achievement was coaching an athlete who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing strong technical skills, teamwork, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What qualifications and experience do you have in volleyball coaching?",
+        "answer": "I am a certified volleyball coach with over 10 years of experience coaching players at various levels, including youth, collegiate, and competitive teams. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for serving, passing, setting, hitting, blocking, and digging, as well as mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What is your approach to team selection and playing time?",
+        "answer": "Team selection and playing time are based on the player's skill level, readiness, and team needs. I develop specific game plans for each match, focusing on highlighting our strengths and improving our weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, team strategy exercises, and conditioning workouts. Each session is designed to enhance specific skills and overall team performance."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "How do you prepare players for tournaments?",
+        "answer": "Tournament preparation involves focused training on team strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-tournament reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "How do you stay updated with the latest coaching methods and trends in volleyball?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 27,
+        "sport": "volleyball",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several teams to regional and national success, with many players achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a team that won the national championship, demonstrating exceptional skill and teamwork."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "What is your experience and background in teaching Taekwondo?",
+        "answer": "I have over 15 years of experience teaching Taekwondo, having trained under renowned masters and taught at several dojos."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "Do you have any specific qualifications or certifications in Taekwondo?",
+        "answer": "Yes, I hold a black belt certification in Taekwondo and have completed advanced training courses."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "Can you provide references from previous students or parents?",
+        "answer": "Yes, I can provide references from former students and their parents who have seen significant improvements under my guidance."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "What is your teaching philosophy and approach to Taekwondo training?",
+        "answer": "My teaching philosophy emphasizes the holistic development of the student, including physical, mental, and ethical growth through Taekwondo."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "How do you adapt your teaching methods to different skill levels?",
+        "answer": "I assess each student's skill level and customize my teaching methods to ensure they receive the appropriate level of challenge and support."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "What does a typical Taekwondo training session with you involve?",
+        "answer": "A typical session includes warm-up exercises, basic to advanced techniques, sparring, and conditioning drills to build strength and agility."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "How do you incorporate traditional practices and modern techniques in your teaching?",
+        "answer": "I blend traditional Taekwondo practices with modern training techniques to provide a comprehensive learning experience."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "Do you offer individual or group training sessions for Taekwondo?",
+        "answer": "I offer both individual and group training sessions to accommodate different learning preferences and goals."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "What equipment or attire is needed for Taekwondo training sessions?",
+        "answer": "Students need a Taekwondo uniform (dobok) and basic protective gear. Additional equipment is provided during training."
+    },
+    {
+        "sport_id": 28,
+        "sport": "taekwondo",
+        "question": "What are your fees and availability for training sessions?",
+        "answer": "My fees vary based on the type of training (individual or group) and the duration of sessions. I am available on weekdays and weekends with prior scheduling."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing technical precision, mental toughness, and a passion for archery. I emphasize discipline, respect, and continuous improvement while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What qualifications and experience do you have in archery coaching?",
+        "answer": "I am a certified archery coach with over 10 years of experience coaching archers at various levels, including youth, collegiate, and competitive archers. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "How do you plan to develop individual archer skills?",
+        "answer": "I create personalized training plans that target each archer's strengths and areas for improvement. This includes drills for form, aiming, release, and mental conditioning, as well as fitness training to enhance overall performance."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What is your approach to competition selection and preparation?",
+        "answer": "Competition selection and preparation are based on the archer's skill level, readiness, and goals. I develop specific strategies for each competition, focusing on highlighting their strengths and improving their weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, shooting practice, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "How do you prepare archers for competitions?",
+        "answer": "Competition preparation involves focused training on shooting techniques, mental conditioning, and physical readiness. I also organize practice competitions and provide individual coaching to ensure archers are well-prepared. Post-competition reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What are your expectations from archers and their parents (for youth teams)?",
+        "answer": "I expect archers to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the archer's development."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "How do you stay updated with the latest coaching methods and trends in archery?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 29,
+        "sport": "archery",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several archers to national and international success, with many achieving top rankings and winning prestigious competitions. One notable achievement was coaching an archer who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing strong technical skills, teamwork, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What qualifications and experience do you have in rugby coaching?",
+        "answer": "I am a certified rugby coach with over 10 years of experience coaching players at various levels, including youth, collegiate, and competitive teams. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for passing, tackling, rucking, scrummaging, and kicking, as well as mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What is your approach to team selection and playing time?",
+        "answer": "Team selection and playing time are based on the player's skill level, readiness, and team needs. I develop specific game plans for each match, focusing on highlighting our strengths and improving our weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, team strategy exercises, and conditioning workouts. Each session is designed to enhance specific skills and overall team performance."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "How do you prepare players for matches and tournaments?",
+        "answer": "Match and tournament preparation involve focused training on team strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-match reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "How do you stay updated with the latest coaching methods and trends in rugby?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 30,
+        "sport": "rugby",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several teams to regional and national success, with many players achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a team that won the national championship, demonstrating exceptional skill and teamwork."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing a balanced approach to fitness that includes strength, endurance, flexibility, and mental well-being. I emphasize proper technique, consistency, and motivation to help clients achieve their fitness goals."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What qualifications and experience do you have in gym coaching?",
+        "answer": "I am a certified personal trainer with over 10 years of experience in the fitness industry. I hold certifications from reputable organizations such as NASM and ACE, and have extensive experience working with clients of all fitness levels."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "How do you plan to develop individual fitness goals?",
+        "answer": "I create personalized fitness plans based on each client's goals, fitness level, and preferences. This includes assessments to determine strengths and areas for improvement, followed by tailored workouts and regular progress evaluations."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What is your approach to creating workout plans?",
+        "answer": "Workout plans are customized to each client's needs and goals. I consider factors such as fitness level, health conditions, and personal preferences to design effective and enjoyable workout routines. Plans include a mix of cardio, strength training, and flexibility exercises."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "How do you handle conflicts or disciplinary issues within the gym?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive gym environment."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are scheduled based on client availability and typically last one hour each. A typical session includes a warm-up, the main workout, and a cool-down. Each session is designed to be challenging yet achievable, ensuring steady progress toward fitness goals."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "How do you prepare clients for competitions or fitness challenges?",
+        "answer": "Preparation for competitions or fitness challenges involves focused training on specific goals, mental conditioning, and physical readiness. I provide additional support and coaching to ensure clients are well-prepared and confident."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What are your expectations from clients and their parents (for youth clients)?",
+        "answer": "I expect clients to be committed, respectful, and open to learning. For youth clients, I encourage parents to support their children's fitness journey, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the client's development."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "How do you stay updated with the latest fitness trends and coaching methods?",
+        "answer": "I stay updated with the latest fitness trends and coaching methods by attending workshops, conferences, and continuing education courses. I also follow industry publications and collaborate with other fitness professionals to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 31,
+        "sport": "gym",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have helped numerous clients achieve their fitness goals, from weight loss and muscle gain to preparing for marathons and bodybuilding competitions. One notable achievement was coaching a client who transformed their lifestyle and won a local fitness challenge, demonstrating exceptional dedication and progress."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What is your teaching philosophy?",
+        "answer": "My teaching philosophy focuses on developing a holistic approach to yoga that includes physical postures, breathwork, meditation, and mindfulness. I emphasize the importance of self-awareness, balance, and inner peace in my classes."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What qualifications and experience do you have in yoga instruction?",
+        "answer": "I am a certified yoga instructor with over 10 years of experience in teaching various styles of yoga, including Hatha, Vinyasa, and Ashtanga. I hold certifications from Yoga Alliance and have attended numerous advanced training workshops and retreats."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "How do you plan to develop individual yoga practice?",
+        "answer": "I create personalized yoga plans based on each student's goals, fitness level, and needs. This includes assessments to determine their strengths and areas for improvement, followed by tailored sequences and regular progress evaluations."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What is your approach to creating yoga sequences?",
+        "answer": "Yoga sequences are customized to each class's focus and students' abilities. I design sequences that include a balance of asanas, pranayama, and meditation to create a well-rounded practice. Sequences are structured to ensure a safe and effective progression."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "How do you handle conflicts or disciplinary issues within the class?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive and peaceful class environment."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What is your class schedule and what do typical sessions look like?",
+        "answer": "Classes are scheduled based on student availability and typically last 60-90 minutes each. A typical session includes a warm-up, asana practice, breathwork, and meditation. Each class is designed to be engaging, nurturing, and restorative."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "How do you prepare students for yoga competitions or advanced practices?",
+        "answer": "Preparation for yoga competitions or advanced practices involves focused training on specific postures, mental conditioning, and physical readiness. I provide additional support and coaching to ensure students are well-prepared and confident."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What are your expectations from students and their parents (for youth students)?",
+        "answer": "I expect students to be dedicated, respectful, and open to learning. For youth students, I encourage parents to support their children's yoga journey, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the student's development."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "How do you stay updated with the latest yoga trends and teaching methods?",
+        "answer": "I stay updated with the latest yoga trends and teaching methods by attending workshops, conferences, and continuing education courses. I also follow industry publications and collaborate with other yoga instructors to continuously improve my teaching techniques."
+    },
+    {
+        "sport_id": 32,
+        "sport": "yoga",
+        "question": "What success stories or notable achievements do you have as a yoga instructor?",
+        "answer": "I have helped numerous students achieve their yoga goals, from improving flexibility and strength to reducing stress and enhancing overall well-being. One notable achievement was coaching a student who transformed their practice and participated in a national yoga competition, demonstrating exceptional dedication and progress."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing a balanced approach to fitness that includes strength, endurance, flexibility, and mental well-being. I emphasize proper technique, consistency, and motivation to help clients achieve their fitness goals."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What qualifications and experience do you have as a personal trainer?",
+        "answer": "I am a certified personal trainer with over 10 years of experience in the fitness industry. I hold certifications from reputable organizations such as NASM and ACE, and have extensive experience working with clients of all fitness levels."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "How do you plan to develop individual fitness goals?",
+        "answer": "I create personalized fitness plans based on each client's goals, fitness level, and preferences. This includes assessments to determine strengths and areas for improvement, followed by tailored workouts and regular progress evaluations."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What is your approach to creating workout plans?",
+        "answer": "Workout plans are customized to each client's needs and goals. I consider factors such as fitness level, health conditions, and personal preferences to design effective and enjoyable workout routines. Plans include a mix of cardio, strength training, and flexibility exercises."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "How do you handle conflicts or disciplinary issues within the gym?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive gym environment."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are scheduled based on client availability and typically last one hour each. A typical session includes a warm-up, the main workout, and a cool-down. Each session is designed to be challenging yet achievable, ensuring steady progress toward fitness goals."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "How do you prepare clients for competitions or fitness challenges?",
+        "answer": "Preparation for competitions or fitness challenges involves focused training on specific goals, mental conditioning, and physical readiness. I provide additional support and coaching to ensure clients are well-prepared and confident."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What are your expectations from clients and their parents (for youth clients)?",
+        "answer": "I expect clients to be committed, respectful, and open to learning. For youth clients, I encourage parents to support their children's fitness journey, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the client's development."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "How do you stay updated with the latest fitness trends and training methods?",
+        "answer": "I stay updated with the latest fitness trends and training methods by attending workshops, conferences, and continuing education courses. I also follow industry publications and collaborate with other fitness professionals to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 34,
+        "sport": "personal-trainer",
+        "question": "What success stories or notable achievements do you have as a personal trainer?",
+        "answer": "I have helped numerous clients achieve their fitness goals, from weight loss and muscle gain to preparing for marathons and bodybuilding competitions. One notable achievement was coaching a client who transformed their lifestyle and won a local fitness challenge, demonstrating exceptional dedication and progress."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing both the physical and mental aspects of Silambam. I emphasize discipline, respect, and continuous improvement while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What qualifications and experience do you have in Silambam coaching?",
+        "answer": "I am a certified Silambam instructor with over 10 years of experience teaching students at various levels, from beginners to advanced practitioners. I have trained under several masters and participated in national and international competitions."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "How do you plan to develop individual Silambam skills?",
+        "answer": "I create personalized training plans that target each student's strengths and areas for improvement. This includes drills for basic techniques, footwork, weapon handling, and sparring, as well as mental conditioning and physical fitness training."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What is your approach to competition preparation?",
+        "answer": "Competition preparation involves focused training on specific techniques, strategies, and mental conditioning. I provide additional support and coaching to ensure students are well-prepared and confident for competitions."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "How do you handle conflicts or disciplinary issues within the class?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three times a week, typically lasting 90 minutes each. A typical session includes a warm-up, technical drills, sparring practice, and conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "How do you integrate traditional aspects of Silambam into your training?",
+        "answer": "I incorporate traditional aspects of Silambam such as meditation, breathing exercises, and the historical and cultural significance of the art. This holistic approach helps students understand and appreciate the deeper aspects of Silambam."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What are your expectations from students and their parents (for youth students)?",
+        "answer": "I expect students to be dedicated, respectful, and open to learning. For youth students, I encourage parents to support their children's training, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the student\u2019s development."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "How do you stay updated with the latest coaching methods and trends in Silambam?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending workshops, seminars, and continuing education courses. I also follow industry publications and collaborate with other Silambam instructors to continuously improve my teaching techniques."
+    },
+    {
+        "sport_id": 35,
+        "sport": "silambam",
+        "question": "What success stories or notable achievements do you have as a Silambam coach?",
+        "answer": "I have coached several students to national and international success, with many achieving top rankings and winning prestigious competitions. One notable achievement was coaching a student who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing strong technical skills, teamwork, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What qualifications and experience do you have in baseball coaching?",
+        "answer": "I am a certified baseball coach with over 10 years of experience coaching players at various levels, including youth, high school, and competitive teams. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for hitting, pitching, fielding, base running, and mental conditioning and fitness training."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What is your approach to team selection and playing time?",
+        "answer": "Team selection and playing time are based on the player's skill level, readiness, and team needs. I develop specific game plans for each match, focusing on highlighting our strengths and improving our weaknesses. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, team strategy exercises, and conditioning workouts. Each session is designed to enhance specific skills and overall team performance."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "How do you prepare players for games and tournaments?",
+        "answer": "Game and tournament preparation involve focused training on team strategies, mental conditioning, and physical readiness. I also organize practice games and provide individual coaching to ensure players are well-prepared. Post-game reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What are your expectations from players and their parents (for youth teams)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth teams, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "How do you stay updated with the latest coaching methods and trends in baseball?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 36,
+        "sport": "baseball",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several teams to regional and national success, with many players achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a team that won the national championship, demonstrating exceptional skill and teamwork."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What is your coaching philosophy?",
+        "answer": "My coaching philosophy focuses on developing technical skills, strategic thinking, and mental toughness. I emphasize discipline, respect, and a passion for the sport while fostering a supportive and competitive environment."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What qualifications and experience do you have in snooker coaching?",
+        "answer": "I am a certified snooker coach with over 10 years of experience coaching players at various levels, including youth, amateur, and competitive players. I have also participated in numerous national and international coaching clinics and workshops."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "How do you plan to develop individual player skills?",
+        "answer": "I create personalized training plans that target each player's strengths and areas for improvement. This includes drills for cueing, potting, positional play, safety shots, and mental conditioning."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What is your approach to match preparation and strategy?",
+        "answer": "Match preparation and strategy are based on the player's skill level, readiness, and goals. I develop specific game plans for each match, focusing on exploiting the opponent's weaknesses and enhancing our strengths. Mental and physical preparation are key components of my approach."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "How do you handle conflicts or disciplinary issues within the team?",
+        "answer": "Conflicts and disciplinary issues are managed through open communication and adherence to a code of conduct. I encourage mutual respect and understanding, addressing issues fairly and constructively to maintain a positive training environment."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What is your training schedule and what do typical sessions look like?",
+        "answer": "Training sessions are held three to four times a week, typically lasting two hours each. A typical session includes a warm-up, technical drills, match play, and mental conditioning exercises. Each session is designed to enhance specific skills and overall performance."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "How do you prepare players for competitions?",
+        "answer": "Competition preparation involves focused training on match strategies, mental conditioning, and physical readiness. I also organize practice matches and provide individual coaching to ensure players are well-prepared. Post-competition reviews help identify areas for improvement."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What are your expectations from players and their parents (for youth players)?",
+        "answer": "I expect players to be dedicated, respectful, and willing to learn. For youth players, I encourage parents to support their children positively, ensure regular attendance, and communicate any concerns openly with me. Parental involvement is crucial for the player's development."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "How do you stay updated with the latest coaching methods and trends in snooker?",
+        "answer": "I stay updated with the latest coaching methods and trends by attending coaching clinics, workshops, and conferences. I also subscribe to industry publications and collaborate with other coaches to continuously improve my coaching techniques."
+    },
+    {
+        "sport_id": 37,
+        "sport": "snooker",
+        "question": "What success stories or notable achievements do you have as a coach?",
+        "answer": "I have coached several players to national success, with many achieving top rankings and winning prestigious tournaments. One notable achievement was coaching a player who won a national championship, demonstrating exceptional skill and dedication."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "What is your experience and background in coaching carrom?",
+        "answer": "I have over 10 years of experience coaching carrom at various levels, from beginners to advanced players."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "Do you have any specific qualifications or certifications in carrom coaching?",
+        "answer": "Yes, I hold a certification for the Carrom Training and have attended various coaching workshops."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "Can you provide references from previous students or parents?",
+        "answer": "Absolutely, I can provide contact information for several former students and their parents who can speak to my coaching abilities."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "What is your coaching philosophy and approach to training?",
+        "answer": "My coaching philosophy centers around developing a strong foundation in carrom fundamentals while also focusing on strategic thinking and mental toughness."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "How do you tailor your coaching to individual skill levels?",
+        "answer": "I assess each player's skill level and create customized training plans to address their strengths and areas for improvement."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "What is the typical structure of a carrom training session?",
+        "answer": "A typical session includes warm-up exercises, skill drills, strategy discussions, and match play to practice what we've learned."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "How do you incorporate strategy and technique in your coaching?",
+        "answer": "I emphasize both the technical aspects of carrom, such as striking and positioning, as well as game strategy to outplay opponents."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "Do you offer any group training sessions or only one-on-one coaching?",
+        "answer": "I offer both group sessions and one-on-one coaching, depending on the student's preference and needs."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "What equipment will be needed for the training sessions?",
+        "answer": "Students will need a carrom board, striker, and coins for practice. I provide additional training materials as needed."
+    },
+    {
+        "sport_id": 38,
+        "sport": "carrom",
+        "question": "What are your fees and availability for coaching sessions?",
+        "answer": "My fees vary based on the type of coaching (group or individual) and the length of sessions. I'm available most weekdays and weekends with prior scheduling."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "What is your experience and background in coaching handball?",
+        "answer": "I have over 8 years of experience coaching handball at various levels, including school teams and club teams."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "Do you have any specific qualifications or certifications in handball coaching?",
+        "answer": "Yes, I hold a certification for Handball and have completed advanced coaching courses."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "Can you provide references from previous players or teams you have coached?",
+        "answer": "Yes, I can provide references from several players and teams that I have coached in the past."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "What is your coaching philosophy and approach to handball training?",
+        "answer": "My coaching philosophy focuses on building strong fundamental skills, fostering teamwork, and developing strategic thinking in game situations."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "How do you customize training plans for different skill levels and positions?",
+        "answer": "I assess each player's skill level and position, then create personalized training plans that address their specific needs and goals."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "What does a typical handball training session with you look like?",
+        "answer": "A typical session includes warm-up drills, skill-specific exercises, tactical training, and scrimmages to apply what we've practiced."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "How do you incorporate strategy and team dynamics in your coaching?",
+        "answer": "I emphasize both individual skills and team strategies, including offensive and defensive plays, to improve overall team performance."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "Do you offer individual skill development sessions or focus on team training?",
+        "answer": "I offer both individual skill development sessions and team training, depending on the needs and goals of the players."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "What equipment is required for the training sessions?",
+        "answer": "Players need standard handball gear, including a handball, appropriate footwear, and protective gear if necessary. I provide additional training equipment."
+    },
+    {
+        "sport_id": 39,
+        "sport": "handball",
+        "question": "What are your fees and availability for coaching sessions?",
+        "answer": "My fees vary based on the type of training (individual or team) and session length. I'm available on weekdays and weekends with prior scheduling."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "What is your experience and background in teaching Kalaripayattu?",
+        "answer": "I have over 15 years of experience teaching Kalaripayattu, having trained under renowned masters and taught at several schools."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "Do you have any specific qualifications or certifications in Kalaripayattu?",
+        "answer": "Yes, I have completed advanced courses in martial arts training."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "Can you provide references from previous students or parents?",
+        "answer": "Yes, I can provide references from former students and their parents who have seen significant improvements under my guidance."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "What is your teaching philosophy and approach to Kalaripayattu training?",
+        "answer": "My teaching philosophy emphasizes the holistic development of the student, including physical, mental, and spiritual growth through Kalaripayattu."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "How do you adapt your teaching methods to different skill levels?",
+        "answer": "I assess each student's skill level and customize my teaching methods to ensure they receive the appropriate level of challenge and support."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "What does a typical Kalaripayattu training session with you involve?",
+        "answer": "A typical session includes warm-up exercises, basic to advanced techniques, weapon training, and conditioning drills to build strength and agility."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "How do you incorporate traditional practices and modern techniques in your teaching?",
+        "answer": "I blend traditional Kalaripayattu practices with modern training techniques to provide a comprehensive learning experience."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "Do you offer individual or group training sessions for Kalaripayattu?",
+        "answer": "I offer both individual and group training sessions to accommodate different learning preferences and goals."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "What equipment or attire is needed for Kalaripayattu training sessions?",
+        "answer": "Students need comfortable training attire and basic protective gear. Traditional weapons and other equipment are provided during training."
+    },
+    {
+        "sport_id": 40,
+        "sport": "kalaripayattu",
+        "question": "What are your fees and availability for training sessions?",
+        "answer": "My fees vary based on the type of training (individual or group) and the duration of sessions. I am available on weekdays and weekends with prior scheduling."
+    }
+]
